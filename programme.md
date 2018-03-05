@@ -10,7 +10,7 @@ Pour le moment, 5 ateliers volants sont proposés :
 * **Cartographie** des caméras du campus
 * **Préparation de la Conférence Ouverte** (art & contestation, titre à préciser)
 * **Rédaction d’un Manifeste** pour les arts plastiques et le design à l’université&nbsp;:  écriture, compilation de textes de grève… 
-* **Reporter** : Valorisation et médiation de l’atelier Création - Contestation
+* **Mission Reporter** : Valorisation et médiation de l’atelier Création - Contestation
 
 D’autres ateliers, idées, initiatives sont les bienvenues !
 Le programme suivant liste les heures de cours mobilisés pour l’atelier.
@@ -34,7 +34,7 @@ salle GH010
 
 Ensuite, nous basculerons directement en mode atelier et commencerons par une lecture globale du texte de l’iDex tous ensemble, avant d’en décortiquer le contenu factuel. Ce travail préparera l’atelier «&nbsp;Dictionnaire du bullshit&nbsp;».
 
-Enseignant/e/s présent/e/s et participant/e/s à cette matinée : Raphaël Bergère, Fabienne Denoual, Emma Attias, Pia Pandelakis, Sabÿn Soulard et Emma Viguier.
+Enseignant/e/s présent/e/s et participant/e/s à cette matinée : Raphaël Bergère, Fabienne Denoual, Sandrine Durand, Emma Attias, Pia Pandelakis, Sabÿn Soulard et Emma Viguier.
 
 <h3>12h30-14h00 :</h3>
 GRAND AMPHI
@@ -43,10 +43,10 @@ Assemblée Générale commune étudiants-personnels dans le Bâtiment Accueil.
 
 <h3>Après-midi</h3>  
 <h3>14h30 - 18h00</h3>
-Salles à confirmer.
+Salles GH010 &amp; GH011.
 Suite de l’atelier «&nbsp;Dictionnaire du bullshit&nbsp;», lancement des ateliers «&nbsp;Manifeste pour les arts plastiques et le design à l’université&nbsp;», et «&nbsp;reporter de la semaine spéciale&nbsp;».
 
-Enseignant/e/s présent/e/s et participant/e/s à cette après-midi&nbsp;: Fabienne Denoual, Pia Pandelakis, Emma Viguier, Raphaël Bergère, Sabÿn Soulard. 
+Enseignant/e/s présent/e/s et participant/e/s à cette après-midi&nbsp;: Fabienne Denoual, Pia Pandelakis, Emma Viguier, Raphaël Bergère, Sandrine Durand, Sabÿn Soulard. 
 
 <h2>Mercredi 7 mars</h2>
 Salles à confirmer.
