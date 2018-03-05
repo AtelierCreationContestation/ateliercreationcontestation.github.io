@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               La Semaine Spéciale
+tagline:             Atelier de Création-Contestation
+url:                 https://ateliercreationcontestation.github.io/
 paginate:            1
 baseurl:             ""
 
@@ -24,9 +24,15 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/AtelierCreationContestation/ateliercreationcontestation.github.io
+
+#pages
+pages_list:       
+  About: '/about'
+  Programme: '/programme'
+  
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist

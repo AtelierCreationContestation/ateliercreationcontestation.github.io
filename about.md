@@ -1,30 +1,21 @@
 ---
 layout: page
-title: About
+title: Le projet
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Étant donnés : 
+* la situation de **blocage**, intermittente, qui est celle de notre université Toulouse Le Mirail dite Jean Jaurès ; 
+* les multiples conversations à l’endroit des **dossiers de l’iDex, de la fusion, et de la loi ORE** et le rejet fréquent (mais pas systématique) que provoquent ceux-ci ; 
+* la perspective de pourrissement de la situation et/ou le relâchement de la **grève**,
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Les initiateurs/trices de cette page annoncent la tenue d’un **Atelier de Création-Contestation** dans des salles du bâtiment Olympe de Gouges où se déroulent habituellement les cours d’Arts Plastiques - Design, la semaine du 5 mars 2018.
+Cet atelier est ouvert à toustes, étudiant/e/s, BIATSS, vacataires, doctorant/e/s, enseignant/e/s, enseignant/e/s-chercheurs/ses. 
 
-There are currently two themes built on Poole:
+**Il n’est pas obligatoire et n’a pas vocation à empêcher celleux qui le souhaitent à tenir leur cours normalement. En revanche, il remplacera les cours des grévistes impliqué/e/s**.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Il s’agit de **se rassembler**, de discuter d’actions collectives, et **d’associer** les communautés enseignantes et étudiantes.
+Ce format atelier (donc, de production) vise à envisager des **stratégies de grève** non pénalisantes pour les étudiant/e/s d’arts plastiques et de design. Il est **ouvert** à toute personne d’autres départements, sur la base du volontariat, et en coordination avec les personnes engagées dans l’atelier.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Cette **semaine reconductible** vise également à voir comment nos formations peuvent contribuer à ce moment de contestation sous un prisme créatif et artistique, en faire un moment de réflexion collectif, un moment d’ébullition permettant de s’autoriser à **investir des formes de contestation** et pourquoi pas en inventer. Il s’agit aussi de maintenir le lien à nos étudiant/e/s, ce que ne permet pas le format de grève où l’étudiant/e trouve porte fermée.
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<a href="../programme/">Voir le programme</a>
