@@ -52,10 +52,16 @@ Enseignant/e/s présent/e/s et participant/e/s à cette après-midi : Fabienne D
 Salles à confirmer.
 
 <h3>matin : </h3>
-Julie Martin, Pia Pandelakis, Anthony Masure.
+Cours ouvert d'Anthony Masure, &laquo;&nbsp;Économie de la connaissance et marchandisation du savoir&nbsp;&raquo;.
+
+Résumé : Depuis une dizaine d'années, une certaine compréhension du développement « stratégique » a fait son chemin dans le champ universitaire. En trouvant par là un moyen de se légitimer d’un point de vue économique et industriel, une certaine partie du monde de l’enseignement et de la recherche aura ainsi adhéré à un vocable de l’ordre du management d’entreprise. Quelles sont les implications de cette nouvelle forme de capitalisme, que l’on pourrait qualifier de « cognitif » ? Comment y faire face depuis des pratiques d’art ou de design ?
+
+Le cours sera suivi de débats et discussions en lien avec les ateliers.
+
+Enseignant/e/s présent/e/s : Julie Martin, Pia Pandelakis, Anthony Masure.
 
 <h3>après-midi</h3>
-Sabÿn Soulard, Pia Pandelakis.
+Enseignant/e/s présent/e/s : Sabÿn Soulard, Pia Pandelakis.
 
 Le reste de la semaine sera programmé en fonction de l'évolution et de la progression des ateliers.
 
