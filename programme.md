@@ -42,7 +42,7 @@ GRAND AMPHI
 Assemblée Générale commune étudiants-personnels dans le Bâtiment Accueil. 
 
 <h3>Après-midi</h3>  
-<h3>14h30 - 18h00</h3>
+<h3>14h30 - 18h00</h3> (horaire confirmé)
 Salles GH010 &amp; GH011.
 Suite de l’atelier «&nbsp;Dictionnaire du bullshit&nbsp;», lancement des ateliers «&nbsp;Manifeste pour les arts plastiques et le design à l’université&nbsp;», et «&nbsp;reporter de la semaine spéciale&nbsp;».
 
