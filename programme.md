@@ -26,7 +26,7 @@ Rendez-vous pour celleux qui le souhaitent à 9h dans l'entrée du bâtiment Acc
 
 ANNULATION
 
-Le cours ouvert d'Anthony Masure est annulé, &laquo;&nbsp;Économie de la connaissance et marchandisation du savoir&nbsp;&raquo;.
+Le cours ouvert d'Anthony Masure est annulé. Ce cours &laquo;&nbsp;Économie de la connaissance et marchandisation du savoir&nbsp;&raquo; sera reporté dès que possible.
 
 Résumé : Depuis une dizaine d'années, une certaine compréhension du développement «&nbsp;stratégique&nbsp;» a fait son chemin dans le champ universitaire. En trouvant par là un moyen de se légitimer d’un point de vue économique et industriel, une certaine partie du monde de l’enseignement et de la recherche aura ainsi adhéré à un vocable de l’ordre du management d’entreprise. Quelles sont les implications de cette nouvelle forme de capitalisme, que l’on pourrait qualifier de «&nbsp;cognitif&nbsp;» ? Comment y faire face depuis des pratiques d’art ou de design ?
 
