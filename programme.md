@@ -16,6 +16,25 @@ D’autres ateliers, idées, initiatives sont les bienvenues !
 Le programme suivant liste les heures de cours mobilisés pour l’atelier.
 Ce programme évoluera au fil de la semaine et sera complété au fur et à mesure selon l’évolution du projet, l’engagement des collègues...
 
+<h2>Mercredi 7 mars</h2>
+ANNULATION DU PROGRAMME PRÉCÉDENT POUR CAUSE DE BLOCAGE
+
+
+<h3>matin</h3>
+<h3>9h</h3>
+Rendez-vous pour celleux qui le souhaitent à 9h dans l'entrée du bâtiment Accueil pour décider des groupes de travail pour l'atelier de grève.
+
+ANNULATION
+
+Le cours ouvert d'Anthony Masure est annulé, &laquo;&nbsp;Économie de la connaissance et marchandisation du savoir&nbsp;&raquo;.
+
+Résumé : Depuis une dizaine d'années, une certaine compréhension du développement «&nbsp;stratégique&nbsp;» a fait son chemin dans le champ universitaire. En trouvant par là un moyen de se légitimer d’un point de vue économique et industriel, une certaine partie du monde de l’enseignement et de la recherche aura ainsi adhéré à un vocable de l’ordre du management d’entreprise. Quelles sont les implications de cette nouvelle forme de capitalisme, que l’on pourrait qualifier de «&nbsp;cognitif&nbsp;» ? Comment y faire face depuis des pratiques d’art ou de design ?
+
+Le cours sera suivi de débats et discussions en lien avec les ateliers.
+
+
+<h1>Évenements passés</h1>
+
 <h2>Mardi 6 mars</h2> 
 Le cours ouvert du matin rassemblera les étudiants normalement présents le mardi matin (cours de Raphaël Bergère, Pia Pandelakis, Emma Attias, Nelly Campistron et Emma Viguier) et tous les étudiants souhaitant assister à ce cours ouvert comme à la discussion et à la mise en production qui en découleront. 
 
@@ -47,23 +66,5 @@ Salles GH010 &amp; GH011.
 Suite de l’atelier «&nbsp;Dictionnaire du bullshit&nbsp;», lancement des ateliers «&nbsp;Manifeste pour les arts plastiques et le design à l’université&nbsp;», et «&nbsp;reporter de la semaine spéciale&nbsp;».
 
 Enseignant/e/s présent/e/s et participant/e/s à cette après-midi&nbsp;: Fabienne Denoual, Pia Pandelakis, Emma Viguier, Raphaël Bergère, Sandrine Durand, Sabÿn Soulard. 
-
-<h2>Mercredi 7 mars</h2>
-Salles à confirmer.
-
-<h3>matin</h3>
-<h3>8h015-10h15</h3>
-Amphi 04 ODG (confirmé)Cours ouvert d'Anthony Masure, &laquo;&nbsp;Économie de la connaissance et marchandisation du savoir&nbsp;&raquo;.
-
-Résumé : Depuis une dizaine d'années, une certaine compréhension du développement «&nbsp;stratégique&nbsp;» a fait son chemin dans le champ universitaire. En trouvant par là un moyen de se légitimer d’un point de vue économique et industriel, une certaine partie du monde de l’enseignement et de la recherche aura ainsi adhéré à un vocable de l’ordre du management d’entreprise. Quelles sont les implications de cette nouvelle forme de capitalisme, que l’on pourrait qualifier de «&nbsp;cognitif&nbsp;» ? Comment y faire face depuis des pratiques d’art ou de design ?
-
-Le cours sera suivi de débats et discussions en lien avec les ateliers.
-
-Enseignant/e/s présent/e/s&nbsp;: Julie Martin, Pia Pandelakis, Anthony Masure.
-
-<h3>après-midi</h3>
-Enseignant/e/s présent/e/s&nbsp;: Sabÿn Soulard, Pia Pandelakis.
-
-Le reste de la semaine sera programmé en fonction de l'évolution et de la progression des ateliers.
 
 
