@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sources
+title: Le programme
 ---
 
 Programme soumis à changements réguliers... restez connecté/e/s ! 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le programme
+title: Les sources
 ---
 
 Ces sources ont vocation à clarifier le projet de fusion/idex et engager la discussion.
