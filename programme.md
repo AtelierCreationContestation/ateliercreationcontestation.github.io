@@ -52,8 +52,8 @@ Enseignant/e/s présent/e/s et participant/e/s à cette après-midi&nbsp;: Fabie
 Salles à confirmer.
 
 <h3>matin</h3>
-<h3>8h00-10h00</h3>
-Cours ouvert d'Anthony Masure, &laquo;&nbsp;Économie de la connaissance et marchandisation du savoir&nbsp;&raquo;.
+<h3>8h015-10h15</h3>
+Amphi 04 ODG (confirmé)Cours ouvert d'Anthony Masure, &laquo;&nbsp;Économie de la connaissance et marchandisation du savoir&nbsp;&raquo;.
 
 Résumé : Depuis une dizaine d'années, une certaine compréhension du développement «&nbsp;stratégique&nbsp;» a fait son chemin dans le champ universitaire. En trouvant par là un moyen de se légitimer d’un point de vue économique et industriel, une certaine partie du monde de l’enseignement et de la recherche aura ainsi adhéré à un vocable de l’ordre du management d’entreprise. Quelles sont les implications de cette nouvelle forme de capitalisme, que l’on pourrait qualifier de «&nbsp;cognitif&nbsp;» ? Comment y faire face depuis des pratiques d’art ou de design ?
 
