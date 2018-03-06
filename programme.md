@@ -8,9 +8,10 @@ Programme soumis à changements réguliers... restez connecté/e/s !
 Pour le moment, 5 ateliers volants sont proposés : 
 * **Dictionnaire du bullshit** 
 * **Cartographie** des caméras du campus
-* **Préparation de la Conférence Ouverte** (art & contestation, titre à préciser)
+* **Préparation de la Conférence Ouverte** (art & contestation, titre à préciser). Raphaël Bergère pilote cet atelier, vous pouvez le contacter à cette adresse : raphael.bergere@hotmail.fr
 * **Rédaction d’un Manifeste** pour les arts plastiques et le design à l’université&nbsp;:  écriture, compilation de textes de grève… 
 * **Mission Reporter** : Valorisation et médiation de l’atelier Création - Contestation
+* **Atelier documentaire** sur les universités ayant déjà fusionné.
 
 D’autres ateliers, idées, initiatives sont les bienvenues !
 Le programme suivant liste les heures de cours mobilisés pour l’atelier.
@@ -18,13 +19,12 @@ Ce programme évoluera au fil de la semaine et sera complété au fur et à mesu
 
 <h2>Mercredi 7 mars</h2>
 ANNULATION DU PROGRAMME PRÉCÉDENT POUR CAUSE DE BLOCAGE
-
+NOUVEAU PROGRAMME : 
 
 <h3>matin</h3>
-<h3>9h</h3>
 Rendez-vous pour celleux qui le souhaitent à 9h dans l'entrée du bâtiment Accueil pour décider des groupes de travail pour l'atelier de grève.
 
-ANNULATION
+INFO : ANNULATION
 
 Le cours ouvert d'Anthony Masure est annulé. Ce cours &laquo;&nbsp;Économie de la connaissance et marchandisation du savoir&nbsp;&raquo; sera reporté dès que possible.
 
