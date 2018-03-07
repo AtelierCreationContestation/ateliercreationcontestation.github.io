@@ -7,7 +7,7 @@ EN COURS DE RÉDACTION : le dico du bullshit > tout pour comprendre comment tu e
 Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté.
 
 <h1>Liste Complète</h1>
-<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#classem">classement</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
+<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#classem">classement</a> | <a href="#marque">marque</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
 <!--fin de la liste complète --> 
 
 <h2><a name="agile">agile</a></h2>
@@ -56,6 +56,14 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>définition du dico</strong> : « Répartition par classes. Attribution d'une place, d'un rang à quelqu'un ou à quelque chose selon son mérite ou sa valeur. »
 
 <strong>analyse</strong> : Progresser dans les « classements » internationaux est l’enjeu ultime et explicite du projet Idex. Reste à savoir comment ces classements se construisent, et notamment à l’endroit des critères qui les composent. Très contesté, par exemple, le classement dit « de Shanghaï » (2003) s’appuie majoritairement sur une évaluation quantitative des productions et des récompenses des chercheurs/euses. Or cette façon de faire ne correspond pas à l’idée d’une recherche comprise comme une démarche collaborative et retranchée des intérêts productifs et économiques. Dès lors qu’ils existent, ces classements (de recherche, de PIB, etc.) norment et orientent les existences, dans une boucle perverse dont il semble urgent de sortir. 
+
+<h2><a name="marque">marque</a></h2>
+<strong>nombre d’occurences</strong> : 5
+
+<strong>dans l'Idex :</strong> « L’objectif de cette politique Alumni est de fédérer les diplômés de l’UT et les étudiants et doctorants actuels autour d’une communauté et d’un réseau. Elle soutient le rayonnement de la marque UT, favorise l’insertion professionnelle des étudiants et doctorants et permet de développer la FTLV en fidélisant les anciens étudiants. » (p. 24)
+dictionnaire : « Signe permettant de distinguer les services d'une entreprise. »
+
+<strong>définition du dico</strong> : Au sein du projet Idex, le terme de « marque » est clairement emprunté au vocabulaire de l’entreprise. Or une communauté universitaire ne saurait se fonder sur une communauté « fédérée » autour d’une marque : nous n’attendons pas d’un établissement public (tel qu’une université) qu’il emprunte les codes du secteur privé. Laissons ces stratégies de branding identitaires et autres « cartes de fidélité » à des services marketing en manque d’imagination. 
 
 <h2><a name="pilotage">pilotage</a></h2>
 <strong>nombre d’occurences</strong> : 4
