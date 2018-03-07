@@ -8,7 +8,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Liste Complète des 14 notices</h1>
 <a name="retourhaut"></a>
-<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur/e</a> | <a href="#excellence">excellence</a> | <a href="#gouvernance">gouvernance</a> | <a href="#marque">marque</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
+<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur/e</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
 <!--fin de la liste complète --> 
 
 <h2><a name="agile">agile</a></h2>
@@ -116,6 +116,15 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>définition du dico</strong> : « Signe permettant de distinguer les services d'une entreprise. »
 
 <strong>analyse</strong> : Au sein du projet Idex, le terme de « marque » est clairement emprunté au vocabulaire de l’entreprise. Or une communauté universitaire ne saurait se fonder sur une communauté « fédérée » autour d’une marque : nous n’attendons pas d’un établissement public (tel qu’une université) qu’il emprunte les codes du secteur privé. Laissons ces stratégies de branding identitaires et autres « cartes de fidélité » à des services marketing en manque d’imagination. 
+
+<h2><a name="offre">offre</a></h2>
+<strong>nombre d’occurences :</strong> 33
+
+<strong>dans l'Idex :</strong> « une offre de Licence amenant chaque étudiant au meilleur niveau de formation en fonction de ses talents, grâce à des parcours renforcés et exigeants. », p. 17.
+
+<strong>définition du dico</strong> : « Action de donner quelque chose à quelqu’un ; don, cadeau. »
+
+<strong>analyse</strong> : L’offre de licence et de formations : un don, cadeau ? Dans le document de l’Idex, ce cadeau apparaît conditionné par les « talents » de l’étudiant. Attrapez-le ponpon !
 
 <h2><a name="pilotage">pilotage</a></h2>
 <strong>nombre d’occurences</strong> : 4
