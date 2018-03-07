@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Les sources
+title: Dessins et illus
 ---
 
 Ici des dessins et caricatures autour de la grève.

@@ -6,9 +6,9 @@ title: Le dico du bullshit
 EN COURS DE RÉDACTION : le dico du bullshit > tout pour comprendre comment tu es bullshité par le projet idex !
 Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté.
 
-<h1>Liste Complète des 16 notices</h1>
+<h1>Liste Complète des 17 notices</h1>
 <a name="retourhaut"></a>
-<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur/e</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
+<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur/e</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
 <!--fin de la liste complète --> 
 
 <h2><a name="agile">agile</a></h2>
@@ -49,7 +49,18 @@ Les moyens de l’Idex sont-ils mis en place pour draguer les « talents » inte
 <strong>analyse</strong> : Quand on voit la composition des 7 Collèges prévus (voir p. 40-41 du projet), qui sont pour 5 au moins des entités ancrées dans le champ des sciences dites « dures », on se demande de quelle autonomie on parle, sans même parler de l’inclusion de « personnalités extérieures »  (du secteur privé ?) au niveau de la « gouvernance » globale (p. 9). Être autonome et être libre, indépendant, sont équivalents dans la définition du dictionnaire : mais le seront-ils dans un environnement où l’on pourra en apparence proposer les projets que l’on veut, mais où ceux-ci seront illisibles, car en dehors de grands axes décidés de manière autoritaire et restrictive ? (voir p. 9).
 L’université est déjà frappée par cet impératif d’autonomie depuis la loi Pécresse. On voit à présent que cette autonomie de gestion a conduit à la précarité, lorsque des Universités à moyens insuffisants passent sous la tutelle du rectorat, au prétexte de leur gestion inadéquate.
 
+<h2><a name="cherchenseigne">chercheur-enseignant</a></h2>
+<strong>nombre d’occurences :</strong> 1
+
+<strong>dans l'Idex :</strong> « Soutient ses enseignants-chercheurs les plus dynamiques en recherche par la création de statuts temporaires de « chercheurs-enseignants ». [...] Le public visé correspond aux candidats ERC, coordonnateurs de projets internationaux ou créateurs de start-up », p. 26-27.
+
+<strong>définition du dico</strong> : <a href=”https://fr.wikipedia.org/wiki/Enseignant-chercheur»>la page Wikipédia « eneseignant-chercheur » propose un récapitulatif des textes de loi. 
+
+<strong>analyse</strong> : À l’origine, le statut d’enseignant-chercheur se définit par le partage de l’activité travaillée entre enseignement et recherche - sachant que la recherche de l’enseignant/e nourrit, logiquement son enseignement, et réciproquement. Dans les faits, ces deux temps sont de plus en plus grignotés par des tâches administratives compensées par des décharges horaires insuffisantes au regard des temps travaillés effectifs et de l’importance des tâches associées. Dès lors, on voit que ce statut subit une nouvelle attaque lorsque émerge une classe spéciale de chercheurs/ses qui aura un droit aménagé à la recherche – alors que ce droit est théoriquement celui de tout enseignant-chercheur. S’il faut rentrer dans les axes décrits p. 9 du projet Idex, qui aura encore ce précieux droit à faire de la recherche ? 
+
+
 <h2><a name="classem">classement</a></h2>
+
 <strong>occurrences</strong> : 24
 
 <strong>dans l'Idex :</strong> « L’un des marqueurs forts de visibilité et d’attractivité a été, au cours des 20 dernières années, l’établissement de classements internationaux des universités basés sur des critères souvent similaires [...]. Figurer dans ces classements est devenu une reconnaissance, au moins pour les universités scientifiques et médicales. Y figurer en bonne place est une consécration. Notre projet ambitionne bien entendu de figurer dans les plus représentatifs de ces classements. », p. 50.
