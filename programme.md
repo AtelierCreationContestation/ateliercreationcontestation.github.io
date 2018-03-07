@@ -5,10 +5,11 @@ title: Le programme
 
 Programme soumis à changements réguliers... restez connecté/e/s ! 
 
-Pour le moment, 5 ateliers volants sont proposés : 
+Pour le moment, plusieurs ateliers volants sont proposés : 
 * **Dictionnaire du bullshit** 
 * **Cartographie** des caméras du campus
 * **Préparation de la Conférence Ouverte** (art & contestation, titre à préciser). Raphaël Bergère pilote cet atelier, vous pouvez le contacter à cette adresse : raphael.bergere@hotmail.fr
+* **Une nouvelle journée fac ouverte** en préparation ; contacter fac.ouverte@laposte.net
 * **Rédaction d’un Manifeste** pour les arts plastiques et le design à l’université&nbsp;:  écriture, compilation de textes de grève… 
 * **Mission Reporter** : Valorisation et médiation de l’atelier Création - Contestation
 * **Atelier documentaire** sur les universités ayant déjà fusionné.
