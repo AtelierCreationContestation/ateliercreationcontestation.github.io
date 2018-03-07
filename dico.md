@@ -9,7 +9,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Liste Complète des 18 notices</h1>
 <a name="retourhaut"></a>
-<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
+<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
 <!--fin de la liste complète --> 
 
 <h2><a name="agile">agile</a></h2>
@@ -159,7 +159,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <strong>analyse</strong> : L’offre de licence et de formations : un don, cadeau ? Dans le document de l’Idex, ce cadeau apparaît conditionné par les « talents » de l’étudiant. Attrapez le ponpon !
 
-<h2><a name="offre">pépite-écrin</a></h2>
+<h2><a name="pepite">pépite-écrin</a></h2>
 
 <strong>nombre d’occurences :</strong> 3
 
