@@ -52,7 +52,7 @@ Résumé : Depuis une dizaine d'années, une certaine compréhension du dévelop
 Le cours sera suivi de débats et discussions en lien avec les ateliers.
 
 
-<h1>Évenements passés</h1>
+<h1>Événements passés</h1>
 
 <h2>Mardi 6 mars</h2> 
 Le cours ouvert du matin rassemblera les étudiants normalement présents le mardi matin (cours de Raphaël Bergère, Pia Pandelakis, Emma Attias, Nelly Campistron et Emma Viguier) et tous les étudiants souhaitant assister à ce cours ouvert comme à la discussion et à la mise en production qui en découleront. 

@@ -3,13 +3,13 @@ layout: page
 title: Le dico du bullshit
 ---
 
-EN COURS DE RÉDACTION : le dico du bullshit ou <em>Bullshidex</em> > tout pour comprendre comment tu es bullshité par le projet idex !
+EN COURS DE RÉDACTION : le dico du bullshit ou <em>Bullshidex</em> > tout pour comprendre comment tu es bullshité par le projet de fusion + idex !
 
 Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté.
 
 <h1>Liste Complète des 21 notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
+<a href="#accelerer">accélérer</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
 <!--fin de la liste complète --> 
 
 <h2><a name="accelerer">accélérer</a></h2>
@@ -218,3 +218,13 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>définition du dico</strong> :« Art d'organiser et de conduire un ensemble d'opérations militaires prévisionnelles et de coordonner l'action des forces armées sur le théâtre des opérations jusqu'au moment où elles sont en contact avec l'ennemi. » 
 
 <strong>analyse</strong> : La finalité de la stratégie est le contact (militaire) avec l’ennemi. Dès lors qu’il se donne pour vocation à « rayonner » sur un théâtre des opérations mondialisé, le projet Idex pose la question du déplacement d’un vocable militaire à l’endroit de l’enseignement et de la recherche. Or la compétition stratégique n’est pas forcément un idéal humainement soutenable, en tant qu’elle a pour objectif de dégrader symboliquement les laissé/e/s pour compte. Dans son essai L’invention du quotidien, le philosophe Michel de Certeau (1980) opposait la notion de « stratégie » (verticale, guerrière) à celle de « tactique » (horizontale, subversive) : l’université n’est pas une entreprise, et rien n'autorise ses représentant/e/s à en singer les dérives. 
+
+<h2><a name="transfo">transformation</a></h2>
+
+<strong>nombre d'occurences :</strong> 12 
+
+<strong>dans l'Idex :</strong> « L’UT et ses partenaires du consortium s’engagent bien évidemment à ce que les moyens de l’IDEX soient intégralement consacrés aux transformations permettant d’atteindre l’objectif de construction d’une université intégrée de rang mondial. », p. 49.
+
+<strong>définition du dico</strong> : « Changement complet de caractère, de manière d'être »
+
+<strong>analyse</strong> : Changer de caractère, de valeurs, se transformer, se métamorphoser, muter ! Ils sont prêts à TOUT pour le rang mondial.
