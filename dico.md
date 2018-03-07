@@ -6,9 +6,9 @@ title: Le dico du bullshit
 EN COURS DE RÉDACTION : le dico du bullshit > tout pour comprendre comment tu es bullshité par le projet idex !
 Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté.
 
-<h1>Liste Complète</h1>
+<h1>Liste Complète des 14 notices</h1>
 <a name="retourhaut"></a>
-<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur/e</a> | <a href="#excellence">excellence</a> | <a href="#marque">marque</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
+<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur/e</a> | <a href="#excellence">excellence</a> | <a href="#gouvernance">gouvernance</a> | <a href="#marque">marque</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
 <!--fin de la liste complète --> 
 
 <h2><a name="agile">agile</a></h2>
@@ -96,7 +96,17 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <strong>définition du dico</strong> : « Caractère de la chose ou de la personne qui correspond, presque parfaitement, à la représentation idéale de sa nature, de sa fonction ou qui manifeste une très nette supériorité dans tel ou tel domaine. »
 
-<strong>analyse</strong> : L’ambition du projet Idex serait de se focaliser sur une supériorité de ses domaines d’études. Comment se définit l’excellence ? Se chiffre-t-elle ? On sait que certain/e/s étudiant/e/s vont avoir peine à accéder à l’université dans un système sélectif tel qu’il se définit dans le cadre de la loi ORE. L’université accueillera donc des étudiant/e/s déjà définies comme « excellent/e/s » au sein du secondaire – et donc probablement des étudiant/e/s privilégiés économiquement, culturellement. En ce sens, cette vision de l’université ne permettrait-elle pas en vérité de maintenir un privilège de classe déguisé en excellence ?  
+<strong>analyse</strong> : L’ambition du projet Idex serait de se focaliser sur une supériorité de ses domaines d’études. Comment se définit l’excellence ? Se chiffre-t-elle ? On sait que certain/e/s étudiant/e/s vont avoir peine à accéder à l’université dans un système sélectif tel qu’il se définit dans le cadre de la loi ORE. L’université accueillera donc des étudiant/e/s déjà définies comme « excellent/e/s » au sein du secondaire – et donc probablement des étudiant/e/s privilégiés économiquement, culturellement. En ce sens, cette vision de l’université ne permettrait-elle pas en vérité de maintenir un privilège de classe déguisé en excellence ? 
+
+<h2><a name="gouv">gouvernance</a></h2>
+
+<strong>nombre d’occurences :</strong> 24
+
+<strong>dans l'Idex :</strong> « Le modèle de gouvernance choisi est en phase avec les réflexions menées au niveau national pour faire évoluer le cadre institutionnel et faciliter la construction d’universités intégrées. », p. 7.
+
+<strong>définition du dico</strong> : « Diriger un bateau à l'aide d'un gouvernail. Avoir la conduite, l’administration de quelque chose. Diriger quelqu’un ; conduire des hommes ; les mener en usant de son influence ou les régir avec autorité. »   
+
+<strong>analyse</strong> : Dans une société occidentale encore marquée par l’idéal grec du « pouvoir au peuple » (<em>demos cratos</em>), les gouvernements émanent du peuple, sont librement élus, et sont dès lors réfutables. Nous faisons ici l’hypothèse que la « gouvernance » est une négation des gouvernements démocratiques, au sens où celle-ci ne repose pas sur la faculté du peuple à s’exprimer dans l’espace public mais sur des relations de pouvoir entre pairs. À une époque où les « plateformes » (<a href=”http://affordance.typepad.com/"">Ertzscheid</a>, Morozov) du Web (GAFAM) aux <em>boards</em> californiens mobilisent davantage d’usagers que des gouvernements élus, faut-il vraiment que cet idéal économique s’impose dans la recherche ? Comment penser des instances de pouvoir élaborées collectivement et qui n’aient pas pour objectif de <em>piloter</em> autrui ?  
 
 <h2><a name="marque">marque</a></h2>
 <strong>nombre d’occurences</strong> : 5
