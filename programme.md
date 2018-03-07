@@ -22,7 +22,12 @@ Ce programme évoluera au fil de la semaine et sera complété au fur et à mesu
 
 <h2>Mercredi 7 mars</h2>
 ANNULATION DU PROGRAMME PRÉCÉDENT POUR CAUSE DE BLOCAGE
-NOUVEAU PROGRAMME : 
+MAIS NOUVEAU PROGRAMME : 
+
+<h3>Après-midi</h3>  
+<h3>14h30 - 18h00</h3> (horaire confirmé)
+Hall du bâtiment accueil.
+On est là on vous attend !
 
 <h3>matin</h3>
 Rendez-vous pour celleux qui le souhaitent à 9h dans l'entrée du bâtiment Accueil pour décider des groupes de travail pour l'atelier de grève.
@@ -63,11 +68,5 @@ GRAND AMPHI
 
 Assemblée Générale commune étudiants-personnels dans le Bâtiment Accueil. 
 
-<h3>Après-midi</h3>  
-<h3>14h30 - 18h00</h3> (horaire confirmé)
-Salles GH010 &amp; GH011.
-Suite de l’atelier «&nbsp;Dictionnaire du bullshit&nbsp;», lancement des ateliers «&nbsp;Manifeste pour les arts plastiques et le design à l’université&nbsp;», et «&nbsp;reporter de la semaine spéciale&nbsp;».
-
-Enseignant/e/s présent/e/s et participant/e/s à cette après-midi&nbsp;: Fabienne Denoual, Pia Pandelakis, Emma Viguier, Raphaël Bergère, Sandrine Durand, Sabÿn Soulard. 
-
+ 
 
