@@ -58,6 +58,15 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <strong>analyse</strong> : Progresser dans les « classements » internationaux est l’enjeu ultime et explicite du projet Idex. Reste à savoir comment ces classements se construisent, et notamment à l’endroit des critères qui les composent. Très contesté, par exemple, le classement dit « de Shanghaï » (2003) s’appuie majoritairement sur une évaluation quantitative des productions et des récompenses des chercheurs/euses. Or cette façon de faire ne correspond pas à l’idée d’une recherche comprise comme une démarche collaborative et retranchée des intérêts productifs et économiques. Dès lors qu’ils existent, ces classements (de recherche, de PIB, etc.) norment et orientent les existences, dans une boucle perverse dont il semble urgent de sortir. 
 
+<h2><a name="pilotage">pilotage</a></h2>
+<strong>nombre d’occurences</strong> : 4
+
+<strong>dans l'Idex :</strong> « Le Bureau des Partenariats de l’UT aura en charge le pilotage des partenariats avec les grands groupes industriels (Airbus, Continental, Thalès, etc.) pour leur proposer de construire avec eux nos programmes interdisciplinaires, des laboratoires communs, des chaires thématiques ou des projets européens commun. » (p. 21)
+
+<strong>définition du dico</strong> :« Diriger, guider, en particulier dans les passages difficiles, à l'entrée ou à la sortie d'un port. Guider dans un milieu étranger à l'expérience habituelle.  Diriger en fonction des circonstances. » 
+
+<strong>analyse</strong> : La cybernétique (du grec <em>kubernêtês</em> : pilote, gouverneur) est un terme proposé en 1947 par le mathématicien Norbert Wiener pour caractériser une science du contrôle des systèmes naturels ou artificiels, basée sur l’informatique. Ce terme de « pilotage » a ensuite fait son chemin dans les sphères managériales et les sciences de gestion. Nous pouvons le comprendre comme l’association de la numérisation du monde, du « mode projet » des organisations (Luc Boltanski et Ève Chiapello), et du développement d’un « capitalisme cognitif » (Yann Moulier-Boutang). Reste à savoir si les sociétés humaines ont pour vocation d’être « pilotées », et surtout qui « pilote ». Notons l’étonnante cohérence sémantique entre le pilotage balistique de la cybernétique et la présence de « grands groupes industriels » comme Airbus à la gouvernance de l’UT. Il y a-t-il un/e chercheur/euse dans l’avion ? 
+
 <h2><a name="rayo">rayonnement</a></h2>
 
 <strong>nombre d'occurences</strong> :  15
