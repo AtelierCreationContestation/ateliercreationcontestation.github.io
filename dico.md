@@ -58,6 +58,16 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <strong>analyse</strong> : Progresser dans les « classements » internationaux est l’enjeu ultime et explicite du projet Idex. Reste à savoir comment ces classements se construisent, et notamment à l’endroit des critères qui les composent. Très contesté, par exemple, le classement dit « de Shanghaï » (2003) s’appuie majoritairement sur une évaluation quantitative des productions et des récompenses des chercheurs/euses. Or cette façon de faire ne correspond pas à l’idée d’une recherche comprise comme une démarche collaborative et retranchée des intérêts productifs et économiques. Dès lors qu’ils existent, ces classements (de recherche, de PIB, etc.) norment et orientent les existences, dans une boucle perverse dont il semble urgent de sortir.
 
+<h2><a name="consort">consortium</a></h2>
+
+<strong>nombre d’occurences</strong> : 30
+
+<strong>dans l'Idex</strong> : « Deux organismes de recherche essentiels dans le domaine aéronautique et spatial, le CNES et l’ONERA, deviennent aussi membres du consortium tout comme Météo France, établissement public dont le principal centre de recherche se trouve à Toulouse. », p. 5.
+
+<strong>définition du dico</strong> : « Groupement d’entreprises juridiquement indépendantes, réunissant sous une direction unique des moyens financiers ou matériels, en vue d’exécuter en commun des opérations déterminées. »  
+
+<strong>analyse</strong> : L’Idex associe comme souvent un terme utilisé en entreprise au domaine de la recherche. Or, une entreprise répond d’abord à des exigences stratégiques et commerciales. Nous militons contre la marchandisation du savoir, de la connaissance et donc du travail de recherche. Mais le terme en apparence savant (latin) de consortium est aussi un langage de la totalité qui gomme les différences d’opinions, de visions, au projet d’un but a priori unique. C’est aussi une manière de dessiner une entité dominante en gommant les individualités (et donc leur biais, leurs intérêts personnels) qui sont décisionnaires dans celle-ci.
+
 <h2><a name="dynam">dynamique</a></h2>
 
 <strong>nombre d’occurences</strong> : 13
