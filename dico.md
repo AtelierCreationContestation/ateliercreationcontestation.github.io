@@ -7,7 +7,7 @@ EN COURS DE RÉDACTION : le dico du bullshit ou <em>Bullshidex</em> > tout pour 
 
 Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté.
 
-<h1>Liste Complète des 18 notices</h1>
+<h1>Liste Complète des 19 notices</h1>
 <a name="retourhaut"></a>
 <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
 <!--fin de la liste complète --> 
@@ -139,6 +139,17 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>définition du dico</strong> : « Qui est connu dans plusieurs pays ; qui exerce sa profession dans plusieurs nations. » 
 
 <strong>analyse</strong> : Le langage indirect du projet Idex (« un nouveau cadre [...] s’avère indispensable ») fait que l’on ne sait jamais qui sont les locuteurs et les destinataires du texte. Dans un monde « mondialisé », celui des classements « internationaux », ce projet acte l’insuffisance d’agir dans le cadre des « vieux » États-Nations. Sans que l’on sache pourquoi, le local est systématiquement discrédité au profit d’un « rayonnement » planétaire. Rejetons cette injonction arbitraire et pensons à des échelles diverses, du micro au macro, afin d’élaborer des pensées singulières et situées. On remarquera l’appropriation du vocable de l’<em>Internationale</em>, à l’origine contestataire.
+
+<h2><a name="label">labelisation</a></h2>
+
+<strong>nombre d'occurences :</strong> 69
+
+<strong>dans l'Idex :</strong> « Allocation of the IDEX label [trad. attribution du label IDEX] » p. 1-55 ; « Depuis l’arrêt de l’IDEX en avril 2016, les établissements fondateurs ont engagé un travail d’analyse pour tirer les enseignements de cet échec et bâtir un projet à même de relancer une dynamique pour reconquérir le label. », p. 50.
+
+<strong>définition du dico</strong> : « Étiquette sous laquelle se présente quelqu’un ou quelque chose. »
+
+<strong>analyse</strong> : L’en-tête du texte du projet IDEX sonne comme une mélodie ininterrompue et  insupportable : l’attribution du label IDEX apparaît comme une finalité pour l’université de Toulouse. Ce label n’est au final qu’une étiquette qu’on colle sur toutes les portes pour vendre plus et gagner plus. On associe le label IDEX à une université qui s’enrichit mais s’efface et subit dès lors une crise identitaire. Le beau label, la belle médaille, ce n’est plus l’université de Toulouse mais plutôt le collège IDEX.
+
 
 <h2><a name="marque">marque</a></h2>
 
