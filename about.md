@@ -19,3 +19,4 @@ Ce format atelier (donc, de production) vise à envisager des **stratégies de g
 Cette **semaine reconductible** vise également à voir comment nos formations peuvent contribuer à ce moment de contestation sous un prisme créatif et artistique, en faire un moment de réflexion collectif, un moment d’ébullition permettant de s’autoriser à **investir des formes de contestation** et pourquoi pas en inventer. Il s’agit aussi de maintenir le lien à nos étudiant/e/s, ce que ne permet pas le format de grève où l’étudiant/e trouve porte fermée.
 
 <a href="../programme/">Voir le programme</a>
+<a href="https://facouverte.wixsite.com/creationenlutte">Le site Création en Lutte, qui documente à chaud les actions de création entreprises pendant la mobilisation au Mirail.</a>

@@ -12,7 +12,7 @@ Pour le moment, plusieurs ateliers volants sont proposés :
 * **Une nouvelle journée fac ouverte** en préparation ; contacter fac.ouverte@laposte.net
 * **L'AG de merde** : performance filmée. contacter fac.ouverte@laposte.net
 * **Rédaction d’un Manifeste** pour les arts plastiques et le design à l’université&nbsp;:  écriture, compilation de textes de grève… 
-* **Mission Reporter** : Valorisation et médiation de l’atelier Création - Contestation
+* **Mission Reporter** : Valorisation et médiation de l’atelier Création - Contestation ; voir <a href="https://facouverte.wixsite.com/creationenlutte">le site Création en Lutte</a> !
 * **Mission Radio Interviews** : collecte d'extraits sonores autour de la réception de l'idex/projet de fusion et discussion ; contacter fac.ouverte@laposte.net
 * **Atelier documentaire** sur les universités ayant déjà fusionné.
 
