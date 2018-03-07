@@ -7,7 +7,7 @@ EN COURS DE RÉDACTION : le dico du bullshit > tout pour comprendre comment tu e
 Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté.
 
 <h1>Liste Complète</h1>
-<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#classem">classement</a> | <a href="#pilotage">pilotage</a> |<a href="#rayo">rayonnement</a> |
+<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#classem">classement</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> |
 <!--fin de la liste complète --> 
 
 
@@ -78,3 +78,12 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 comparaison usage / définition du dictionnaire : Rayonnement s’entend comme prestige ; mais le rayonnement est-il une fin en soi ? Qui s’agit-il d’éblouir ici ? Que porteraient les « rayons » de l’UT fusionnée ? 
 
 <strong>proposition</strong> : Plutôt que de rayonner, nous proposons de partager, confronter, solliciter, ou comme le dit Marielle Macé, de considérer ce qui est déjà lumineux, ce qui existe plutôt que des choses dont l’existence est déterminée par leur médiation.
+
+<h2><a name="pilotage">pilotage</a></h2>
+<strong>nombre d’occurences</strong> : 29
+
+<strong>dans l'Idex :</strong> « Pour concrétiser ce projet, un nouveau cadre institutionnel s’avère indispensable pour établir une gouvernance efficace en capacité d’élaborer une stratégie unique de recherche et formation garantissant le rayonnement international de l’UT. » (p. 10)
+
+<strong>définition du dico</strong> :« Art d'organiser et de conduire un ensemble d'opérations militaires prévisionnelles et de coordonner l'action des forces armées sur le théâtre des opérations jusqu'au moment où elles sont en contact avec l'ennemi. »  
+
+<strong>analyse</strong> : La finalité de la stratégie est le contact (militaire) avec l’ennemi. Dès lors qu’il se donne pour vocation à « rayonner » sur un théâtre des opérations mondialisé, le projet Idex pose la question du déplacement d’un vocable militaire à l’endroit de l’enseignement et de la recherche. Or la compétition stratégique n’est pas forcément un idéal humainement soutenable, en tant qu’elle a pour objectif de dégrader symboliquement les laissé/e/s pour compte. Dans son essai L’invention du quotidien, le philosophe Michel de Certeau (1980) opposait la notion de « stratégie » (verticale, guerrière) à celle de « tactique » (horizontale, subversive) : l’université n’est pas une entreprise, et rien n'autorise ses représentant/e/s à en singer les dérives. 
