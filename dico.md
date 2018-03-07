@@ -7,7 +7,7 @@ EN COURS DE RÉDACTION : le dico du bullshit > tout pour comprendre comment tu e
 Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté.
 
 <h1>Liste Complète</h1>
-<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#rayo">rayonnement</a> |
+<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#classem">classement</a> |<a href="#rayo">rayonnement</a> |
 <!--fin de la liste complète --> 
 
 
@@ -48,6 +48,15 @@ Les moyens de l’Idex sont-ils mis en place pour draguer les « talents » inte
 
 <strong>analyse</strong> : Quand on voit la composition des 7 Collèges prévus (voir p. 40-41 du projet), qui sont pour 5 au moins des entités ancrées dans le champ des sciences dites « dures », on se demande de quelle autonomie on parle, sans même parler de l’inclusion de « personnalités extérieures »  (du secteur privé ?) au niveau de la « gouvernance » globale (p. 9). Être autonome et être libre, indépendant, sont équivalents dans la définition du dictionnaire : mais le seront-ils dans un environnement où l’on pourra en apparence proposer les projets que l’on veut, mais où ceux-ci seront illisibles, car en dehors de grands axes décidés de manière autoritaire et restrictive ? (voir p. 9).
 L’université est déjà frappée par cet impératif d’autonomie depuis la loi Pécresse. On voit à présent que cette autonomie de gestion a conduit à la précarité, lorsque des Universités à moyens insuffisants passent sous la tutelle du rectorat, au prétexte de leur gestion inadéquate.
+
+<h2><a name="classem">classement</a></h2>
+<strong>occurrences</strong> : 24
+
+<strong>dans l'Idex :</strong> « L’un des marqueurs forts de visibilité et d’attractivité a été, au cours des 20 dernières années, l’établissement de classements internationaux des universités basés sur des critères souvent similaires [...]. Figurer dans ces classements est devenu une reconnaissance, au moins pour les universités scientifiques et médicales. Y figurer en bonne place est une consécration. Notre projet ambitionne bien entendu de figurer dans les plus représentatifs de ces classements. »  (p. 50)
+
+<strong>définition du dico</strong> : « Répartition par classes. Attribution d'une place, d'un rang à quelqu'un ou à quelque chose selon son mérite ou sa valeur. »
+
+<strong>analyse</strong> : Progresser dans les « classements » internationaux est l’enjeu ultime et explicite du projet Idex. Reste à savoir comment ces classements se construisent, et notamment à l’endroit des critères qui les composent. Très contesté, par exemple, le classement dit « de Shanghaï » (2003) s’appuie majoritairement sur une évaluation quantitative des productions et des récompenses des chercheurs/euses. Or cette façon de faire ne correspond pas à l’idée d’une recherche comprise comme une démarche collaborative et retranchée des intérêts productifs et économiques. Dès lors qu’ils existent, ces classements (de recherche, de PIB, etc.) norment et orientent les existences, dans une boucle perverse dont il semble urgent de sortir. 
 
 <h2><a name="rayo">rayonnement</a></h2>
 
