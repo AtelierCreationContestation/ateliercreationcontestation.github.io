@@ -8,7 +8,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Liste Complète</h1>
 <a name="retourhaut"></a>
-<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#classem">classement</a> | <a href="#excellence">excellence</a> | <a href="#marque">marque</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
+<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#classem">classement</a> | <a href="#entre">entrepreneur/e</a> | <a href="#excellence">excellence</a> | <a href="#marque">marque</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
 <!--fin de la liste complète --> 
 
 <h2><a name="agile">agile</a></h2>
@@ -57,6 +57,16 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>définition du dico</strong> : « Répartition par classes. Attribution d'une place, d'un rang à quelqu'un ou à quelque chose selon son mérite ou sa valeur. »
 
 <strong>analyse</strong> : Progresser dans les « classements » internationaux est l’enjeu ultime et explicite du projet Idex. Reste à savoir comment ces classements se construisent, et notamment à l’endroit des critères qui les composent. Très contesté, par exemple, le classement dit « de Shanghaï » (2003) s’appuie majoritairement sur une évaluation quantitative des productions et des récompenses des chercheurs/euses. Or cette façon de faire ne correspond pas à l’idée d’une recherche comprise comme une démarche collaborative et retranchée des intérêts productifs et économiques. Dès lors qu’ils existent, ces classements (de recherche, de PIB, etc.) norment et orientent les existences, dans une boucle perverse dont il semble urgent de sortir.
+
+<h2><a name="entre">entrepreneur / entrepreunariat</a></h2>
+
+<strong>nombre d’occurences</strong> : 34
+
+<strong>dans l'Idex :</strong> : « Accompagner l’industrie, dans ses enjeux régionaux et internationaux, en s’appuyant sur un socle disciplinaire mieux structuré ouvrant de nouveaux espaces de formations d’ingénieurs, d’ingénieurs entrepreneurs incubés par l’UT, et d’ingénieurs docteurs. » (p. 17)
+
+<strong>définition du dico</strong> : « Personne qui engage des capitaux et utilise une main-d’œuvre salariée en vue d’une production déterminée. Industriel prenant en charge l'exécution d’opérations concernant la construction. » 
+
+<strong>analyse</strong> : La récurrence du terme « entrepreneur » au sein du projet Idex l’identifie comme une notion clé. Si l'entrepreneuriat peut prendre de multiples formes, allant de l’exploitation des forces de travail à des horizons plus soutenables, sa présence dans le projet Idex est immédiatement associée aux champs de l’industrie et de l’ingénierie – ce qui restreint considérablement sa signification. En quoi les sciences humaines et sociales, l’art, le design, etc. n’auraient-ils pas également leur mot à dire quant à l'entreprenariat ? L’industrie (existante) est-elle forcément pertinente pour penser des futurs souhaitables ? Comment <em>entreprendre</em> sans <em>prendre</em> aux minorisé/e/s ? On en revient aussi à l’idéal de l’entrepreneur/se comme seul modèle de création : la start-up nation, imaginaire pauvre et discriminant.
 
 <h2><a name="excellence">excellence</a></h2>
 
