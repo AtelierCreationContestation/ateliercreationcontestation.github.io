@@ -29,6 +29,8 @@ MAIS NOUVEAU PROGRAMME :
 Hall du bâtiment accueil.
 On est là on vous attend !
 
+<img src="../img/atelier.jpg">
+
 <h3>matin</h3>
 Rendez-vous pour celleux qui le souhaitent à 9h dans l'entrée du bâtiment Accueil pour décider des groupes de travail pour l'atelier de grève.
 
