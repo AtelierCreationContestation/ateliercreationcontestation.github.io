@@ -54,7 +54,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <strong>dans l'Idex :</strong> L'UT « soutient ses enseignants-chercheurs les plus dynamiques en recherche par la création de statuts temporaires de « chercheurs-enseignants ». [...] Le public visé correspond aux candidats ERC, coordonnateurs de projets internationaux ou créateurs de start-up », p. 26-27.
 
-<strong>définition du dico</strong> : <a href=”https://fr.wikipedia.org/wiki/Enseignant-chercheur»>la page Wikipédia « eneseignant-chercheur » propose un récapitulatif des textes de loi. 
+<strong>définition du dico</strong> : <a href="https://fr.wikipedia.org/wiki/Enseignant-chercheur">la page Wikipédia « eneseignant-chercheur »</a> propose un récapitulatif des textes de loi. 
 
 <strong>analyse</strong> : À l’origine, le statut d’enseignant-chercheur se définit par le partage de l’activité travaillée entre enseignement et recherche - sachant que la recherche de l’enseignant/e nourrit logiquement son enseignement, et réciproquement. Dans les faits, ces deux temps sont de plus en plus grignotés par des tâches administratives compensées par des décharges horaires insuffisantes au regard des temps travaillés effectifs et de l’importance des tâches associées. Dès lors, on voit que ce statut subit une nouvelle attaque lorsque émerge une classe spéciale de chercheurs/ses qui aura un droit aménagé à la recherche – alors que ce droit est théoriquement celui de tout/e enseignant/e-chercheur/se. S’il faut rentrer dans les axes décrits p. 9 du projet Idex, qui aura encore ce précieux droit à faire de la recherche ? 
 
