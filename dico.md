@@ -108,7 +108,18 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <strong>analyse</strong> : Dans une société occidentale encore marquée par l’idéal grec du « pouvoir au peuple » (<em>demos cratos</em>), les gouvernements émanent du peuple, sont librement élus, et sont dès lors réfutables. Nous faisons ici l’hypothèse que la « gouvernance » est une négation des gouvernements démocratiques, au sens où celle-ci ne repose pas sur la faculté du peuple à s’exprimer dans l’espace public mais sur des relations de pouvoir entre pairs. À une époque où les « plateformes » (<a href=”http://affordance.typepad.com/"">Ertzscheid</a>, Morozov) du Web (GAFAM) aux <em>boards</em> californiens mobilisent davantage d’usagers que des gouvernements élus, faut-il vraiment que cet idéal économique s’impose dans la recherche ? Comment penser des instances de pouvoir élaborées collectivement et qui n’aient pas pour objectif de <em>piloter</em> autrui ?  
 
+<h2><a name="innov">innovation</a></h2>
+
+<strong>nombre d’occurences :</strong> 37
+
+<strong>dans l'Idex :</strong> « Ce plan vise à accroître l’attractivité et le rayonnement international de l’UT et à lui permettre de se démarquer par sa capacité à innover sur la base du résultat de ses recherches vers tous les secteurs socio-économiques. », p. 14.
+
+<strong>définition du dico</strong> : « Introduire du neuf dans quelque chose qui a un caractère bien établi. Être le premier à faire, à utiliser quelque chose. »   
+
+<strong>analyse</strong> : Il semble de plus en plus difficile de penser un monde où l’innovation ne serait pas perçue immédiatement comme une valeur positive. Pourtant, si l’on entend l’innovation comme la mise au secret (privatisation) d’une invention (Pierre-Damien Huyghe), celle-ci pose des enjeux de spoliation et d’appropriation à l’endroit de la société – qui n’a pour seul choix que de consommer ses applications et productions. La recherche n’a pas pour idéal d’innover, mais d’émettre des hypothèses dont la qualité première n’est pas la nouveauté, mais la pertinence. Il s’agit au fond de penser des modalités d’être au monde, avec autrui. C’est d’abord un questionnement et ses conditions qui occupent les chercheurs, plutôt que la conversion mercantile de réponses prêtes-à-médiatiser, prêtes-à-consommer.
+
 <h2><a name="marque">marque</a></h2>
+
 <strong>nombre d’occurences</strong> : 5
 
 <strong>dans l'Idex :</strong> « L’objectif de cette politique Alumni est de fédérer les diplômés de l’UT et les étudiants et doctorants actuels autour d’une communauté et d’un réseau. Elle soutient le rayonnement de la marque UT, favorise l’insertion professionnelle des étudiants et doctorants et permet de développer la FTLV en fidélisant les anciens étudiants. », p. 24.
@@ -124,7 +135,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <strong>définition du dico</strong> : « Action de donner quelque chose à quelqu’un ; don, cadeau. »
 
-<strong>analyse</strong> : L’offre de licence et de formations : un don, cadeau ? Dans le document de l’Idex, ce cadeau apparaît conditionné par les « talents » de l’étudiant. Attrapez-le ponpon !
+<strong>analyse</strong> : L’offre de licence et de formations : un don, cadeau ? Dans le document de l’Idex, ce cadeau apparaît conditionné par les « talents » de l’étudiant. Attrapez le ponpon !
 
 <h2><a name="pilotage">pilotage</a></h2>
 <strong>nombre d’occurences</strong> : 4
