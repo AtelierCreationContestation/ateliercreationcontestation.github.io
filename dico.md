@@ -3,12 +3,13 @@ layout: page
 title: Le dico du bullshit
 ---
 
-EN COURS DE RÉDACTION : le dico du bullshit > tout pour comprendre comment tu es bullshité par le projet idex !
+EN COURS DE RÉDACTION : le dico du bullshit ou <em>Bullshidex</em> > tout pour comprendre comment tu es bullshité par le projet idex !
+
 Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté.
 
 <h1>Liste Complète des 18 notices</h1>
 <a name="retourhaut"></a>
-<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur/e</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
+<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
 <!--fin de la liste complète --> 
 
 <h2><a name="agile">agile</a></h2>
@@ -17,6 +18,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 <strong>dans l'Idex :</strong> « Rendre l’offre plus lisible, cohérente, agile et attractive à l’international », p. 17. 
 
 <strong>définition du dico</strong> : « Qui manifeste de la promptitude et de l'aisance dans ses mouvements ».  
+
 <strong>analyse</strong> : Le terme agile vient aussi d’une culture web. Elle désigne, dans le développement web, une philosophie de souplesse et d’adaptabilité pour un client (voir le <a href="http://agilemanifesto.org/principles.html">Agile Manifesto</a>). Le <em>Agile Manifesto</em> parle de mettre en place la compétitivité d’un client. ( « <em>Agile processes harness change for the customer's competitive advantage</em> »). Si l’intention de travailler sur des durées réduites, avec réactivité, peut s’entendre, on peut s’inquiéter de ce que le projet de fusion pose cette exigence d’agilité à l’endroit de l’offre de formation. Une maquette d’enseignement a-t-elle vocation à changer au gré des « innovations » voulues par les un/es et les autres ? 
 
 <h2><a name="ambi">ambition</a></h2>
@@ -54,7 +56,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <strong>dans l'Idex :</strong> L'UT « soutient ses enseignants-chercheurs les plus dynamiques en recherche par la création de statuts temporaires de « chercheurs-enseignants ». [...] Le public visé correspond aux candidats ERC, coordonnateurs de projets internationaux ou créateurs de start-up », p. 26-27.
 
-<strong>définition du dico</strong> : <a href="https://fr.wikipedia.org/wiki/Enseignant-chercheur">la page Wikipédia « eneseignant-chercheur »</a> propose un récapitulatif des textes de loi. 
+<strong>définition du dico</strong> : <a href="https://fr.wikipedia.org/wiki/Enseignant-chercheur">la page Wikipédia « enseignant-chercheur »</a> propose un récapitulatif des textes de loi. 
 
 <strong>analyse</strong> : À l’origine, le statut d’enseignant-chercheur se définit par le partage de l’activité travaillée entre enseignement et recherche - sachant que la recherche de l’enseignant/e nourrit logiquement son enseignement, et réciproquement. Dans les faits, ces deux temps sont de plus en plus grignotés par des tâches administratives compensées par des décharges horaires insuffisantes au regard des temps travaillés effectifs et de l’importance des tâches associées. Dès lors, on voit que ce statut subit une nouvelle attaque lorsque émerge une classe spéciale de chercheurs/ses qui aura un droit aménagé à la recherche – alors que ce droit est théoriquement celui de tout/e enseignant/e-chercheur/se. S’il faut rentrer dans les axes décrits p. 9 du projet Idex, qui aura encore ce précieux droit à faire de la recherche ? 
 
@@ -156,6 +158,16 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>définition du dico</strong> : « Action de donner quelque chose à quelqu’un ; don, cadeau. »
 
 <strong>analyse</strong> : L’offre de licence et de formations : un don, cadeau ? Dans le document de l’Idex, ce cadeau apparaît conditionné par les « talents » de l’étudiant. Attrapez le ponpon !
+
+<h2><a name="offre">pépite-écrin</a></h2>
+
+<strong>nombre d’occurences :</strong> 3
+
+<strong>dans l'Idex :</strong> « Les Pépites : une ou deux équipes leader(s) du domaine mondialement reconnue(s) à soutenir même s’il s’agit d’un petit nombre de chercheurs.  » p. 15 ;  « Le dispositif PEPITE-ECRIN sert de modèle à l’UT et lui permet de tirer parti de la multi-disciplinarité de ses Collèges et de la double culture université/ingénieurs, par exemple à travers des actions de type Hackaton. », p. 22.
+
+<strong>définition du dico</strong> : pépite > « petite masse d’or natif, sans gangue. Pépite aurifère ». Écrin : « Coffret destiné à contenir un ou plusieurs objets précieux, en particulier des bijoux ou de l’argenterie ». 
+
+<strong>analyse</strong> : Un peu de poésie dans ce monde brutal ! La Pépite en son Écrin,  telle la perle en son huître, est rare et prestigieuse. Entité perchée au sommet de la pyramide (bijoux de famille, réservoir de généalogie de l’UT ?) , elle monopolise regards émus et mâne sonnante et trébuchante au détriment des chercheurs « pas leaders » (la masse obscure et besogneuse loin des lumières nacrées de l’huître). Et sinon, un coup de genou dans les pépites ? 
 
 <h2><a name="pilotage">pilotage</a></h2>
 <strong>nombre d’occurences</strong> : 4
