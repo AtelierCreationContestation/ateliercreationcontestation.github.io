@@ -7,10 +7,10 @@ EN COURS DE RÉDACTION : le dico du bullshit > tout pour comprendre comment tu e
 Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté.
 
 <h1>Liste Complète</h1>
-<a href="#rayo">rayonnement</a> |
+<a href="#agile">agile</a> | <a href="#rayo">rayonnement</a> |
 <!--fin de la liste complète --> 
 
-<h2><a name="rayo">agile</a></h2>
+<h2><a name="agile">agile</a></h2>
 <strong>nombre d'occurences</strong> : 1
 
 <strong>dans l'Idex :</strong> « Rendre l’offre plus lisible, cohérente, agile et attractive à l’international », p. 17. 
