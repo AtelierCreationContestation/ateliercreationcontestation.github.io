@@ -7,7 +7,7 @@ EN COURS DE RÉDACTION : le dico du bullshit > tout pour comprendre comment tu e
 Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté.
 
 <h1>Liste Complète</h1>
-<a href="#agile">agile</a> | <a href="#attrac">attractivité</a>| <a href="#rayo">rayonnement</a> |
+<a href="#agile">agile</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#rayo">rayonnement</a> |
 <!--fin de la liste complète --> 
 
 
@@ -30,6 +30,15 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 <strong>proposition</strong> : L’UT veut exercer un pouvoir d’attraction sur ce qu’elle appelle des talents internationaux.
 Les moyens de l’Idex sont-ils mis en place pour draguer les « talents » internationaux ? Il  nous semble plus intéressant de faire rayonner l’Université sur la base du travail effectué par le personnels et les étudiants, et de leur initiatives, plutôt que sur des « noms reconnus » que l’on aurait achetés.
 
+<h2><a name="auto">autonomie</a></h2>
+<strong>nombre d’occurences</strong> : 5
+
+<strong>dans l'Idex :</strong> « les Collèges composant l’UT disposent d’une large autonomie pour mettre en œuvre les politiques qui déclinent la stratégie centrale » 
+
+<strong>définition du dico</strong> : « Liberté, indépendance morale ou intellectuelle » 
+
+<strong>proposition</strong> : Quand on voit la composition des 7 Collèges prévus (voir p. 40-41 du projet), qui sont pour 5 au moins des entités ancrées dans le champ des sciences dites « dures », on se demande de quelle autonomie on parle, sans même parler de l’inclusion de « personnalités extérieures »  (du secteur privé ?) au niveau de la « gouvernance » globale (p. 9). Être autonome et être libre, indépendant, sont équivalents dans la définition du dictionnaire : mais le seront-ils dans un environnement où l’on pourra en apparence proposer les projets que l’on veut, mais où ceux-ci seront illisibles, car en dehors de grands axes décidés de manière autoritaire et restrictive ? (voir p. 9).
+L’université est déjà frappée par cet impératif d’autonomie depuis la loi Pécresse. On voit à présent que cette autonomie de gestion a conduit à la précarité, lorsque des Universités à moyens insuffisants passent sous la tutelle du rectorat, au prétexte de leur gestion inadéquate.
 
 <h2><a name="rayo">rayonnement</a></h2>
 
