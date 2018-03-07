@@ -8,7 +8,7 @@ EN COURS DE RÉDACTION : le dico du bullshit > tout pour comprendre comment tu e
 <h1>Liste Complète</h1>
 <a href="#rayo">rayonnement</a> | 
 
-<a name="rayo"><h2>rayonnement</h2></a>
+<h2><a name="rayo">rayonnement</a></h2>
 
 <strong>nombre d'occurences</strong> :  15
 
