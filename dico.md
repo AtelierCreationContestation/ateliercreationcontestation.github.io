@@ -7,12 +7,22 @@ EN COURS DE RÉDACTION : le dico du bullshit ou <em>Bullshidex</em> > tout pour 
 
 Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté.
 
-<h1>Liste Complète des 19 notices</h1>
+<h1>Liste Complète des 20 notices</h1>
 <a name="retourhaut"></a>
-<a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
+<a href="#accelerer">accélérer</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
 <!--fin de la liste complète --> 
 
+<h2><a name="accelerer">accélérer</a></h2>
+
+<strong>nombre d’occurences :</strong> 4
+
+<strong>dans l'Idex :</strong> L’Idex «  a vocation à accompagner l’élan transformateur, à faciliter et accélérer les évolutions de l’université nécessaires pour faire face à l’internationalisation du monde de l’enseignement supérieur et de la recherche »,  p. 42.
+
+<strong>définition du dico</strong> :« Rendre plus rapide un mouvement ou  un développement en cours. » 
+synthèse : L’accélération est synergique à la logique de compétition : « les évolutions  de l’université » ici pointées par l’Idex, à l’échelle de la globalisation néo-libérale, visent un formatage croissant au détriment de la singularité et de l’indépendance de la recherche. Hartmut Rosa analyse l’aliénation (de l’individu, de la société, etc.) comme résultant de ce processus d’accélération (<em>Aliénation et accélération. Vers une théorie critique de la modernité tardive</em>, 2012). On ne sait pas où on va, mais on y va, vite !
+
 <h2><a name="agile">agile</a></h2>
+
 <strong>nombre d'occurences</strong> : 1
 
 <strong>dans l'Idex :</strong> « Rendre l’offre plus lisible, cohérente, agile et attractive à l’international », p. 17. 
