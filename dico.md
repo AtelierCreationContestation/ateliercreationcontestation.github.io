@@ -6,7 +6,7 @@ title: Le dico du bullshit
 EN COURS DE RÉDACTION : le dico du bullshit > tout pour comprendre comment tu es bullshité par le projet idex !
 Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté.
 
-<h1>Liste Complète des 14 notices</h1>
+<h1>Liste Complète des 16 notices</h1>
 <a name="retourhaut"></a>
 <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur/e</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> |
 <!--fin de la liste complète --> 
