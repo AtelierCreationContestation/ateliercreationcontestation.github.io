@@ -11,6 +11,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 <!--fin de la liste complète --> 
 
 
+
 <h2><a name="agile">agile</a></h2>
 <strong>nombre d'occurences</strong> : 1
 
