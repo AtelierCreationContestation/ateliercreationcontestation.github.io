@@ -20,6 +20,15 @@ D’autres ateliers, idées, initiatives sont les bienvenues !
 Le programme suivant liste les heures de cours mobilisés pour l’atelier.
 Ce programme évoluera au fil de la semaine et sera complété au fur et à mesure selon l’évolution du projet, l’engagement des collègues...
 
+<h2>Jeudi 8 mars</h2>
+<h3>9h00</h3>
+On se retrouve comme mercredi matin à 9h dans le hall du bâtiment accueil pour reprendre les ateliers.
+
+JOURNÉE DES DROITS DE LA FEMME (et des afab en général, d'ailleurs !)
+Une manifestation partira à midi de l'université pour rejoindre le centre-ville (information à confirmer).
+Une manifestation (confirmée) se déroulera à 12h à Arnaud Bernard.
+Une soirée féministe est prévue à la Bourse du Travail à 20h.
+
 <h2>Mercredi 7 mars</h2>
 ANNULATION DU PROGRAMME PRÉCÉDENT POUR CAUSE DE BLOCAGE
 MAIS NOUVEAU PROGRAMME : 

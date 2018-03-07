@@ -52,12 +52,11 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <h2><a name="cherchenseigne">chercheur-enseignant</a></h2>
 <strong>nombre d’occurences :</strong> 1
 
-<strong>dans l'Idex :</strong> « Soutient ses enseignants-chercheurs les plus dynamiques en recherche par la création de statuts temporaires de « chercheurs-enseignants ». [...] Le public visé correspond aux candidats ERC, coordonnateurs de projets internationaux ou créateurs de start-up », p. 26-27.
+<strong>dans l'Idex :</strong> L'UT « soutient ses enseignants-chercheurs les plus dynamiques en recherche par la création de statuts temporaires de « chercheurs-enseignants ». [...] Le public visé correspond aux candidats ERC, coordonnateurs de projets internationaux ou créateurs de start-up », p. 26-27.
 
 <strong>définition du dico</strong> : <a href=”https://fr.wikipedia.org/wiki/Enseignant-chercheur»>la page Wikipédia « eneseignant-chercheur » propose un récapitulatif des textes de loi. 
 
-<strong>analyse</strong> : À l’origine, le statut d’enseignant-chercheur se définit par le partage de l’activité travaillée entre enseignement et recherche - sachant que la recherche de l’enseignant/e nourrit, logiquement son enseignement, et réciproquement. Dans les faits, ces deux temps sont de plus en plus grignotés par des tâches administratives compensées par des décharges horaires insuffisantes au regard des temps travaillés effectifs et de l’importance des tâches associées. Dès lors, on voit que ce statut subit une nouvelle attaque lorsque émerge une classe spéciale de chercheurs/ses qui aura un droit aménagé à la recherche – alors que ce droit est théoriquement celui de tout enseignant-chercheur. S’il faut rentrer dans les axes décrits p. 9 du projet Idex, qui aura encore ce précieux droit à faire de la recherche ? 
-
+<strong>analyse</strong> : À l’origine, le statut d’enseignant-chercheur se définit par le partage de l’activité travaillée entre enseignement et recherche - sachant que la recherche de l’enseignant/e nourrit logiquement son enseignement, et réciproquement. Dans les faits, ces deux temps sont de plus en plus grignotés par des tâches administratives compensées par des décharges horaires insuffisantes au regard des temps travaillés effectifs et de l’importance des tâches associées. Dès lors, on voit que ce statut subit une nouvelle attaque lorsque émerge une classe spéciale de chercheurs/ses qui aura un droit aménagé à la recherche – alors que ce droit est théoriquement celui de tout/e enseignant/e-chercheur/se. S’il faut rentrer dans les axes décrits p. 9 du projet Idex, qui aura encore ce précieux droit à faire de la recherche ? 
 
 <h2><a name="classem">classement</a></h2>
 
@@ -128,6 +127,16 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>définition du dico</strong> : « Introduire du neuf dans quelque chose qui a un caractère bien établi. Être le premier à faire, à utiliser quelque chose. »   
 
 <strong>analyse</strong> : Il semble de plus en plus difficile de penser un monde où l’innovation ne serait pas perçue immédiatement comme une valeur positive. Pourtant, si l’on entend l’innovation comme la mise au secret (privatisation) d’une invention (Pierre-Damien Huyghe), celle-ci pose des enjeux de spoliation et d’appropriation à l’endroit de la société – qui n’a pour seul choix que de consommer ses applications et productions. La recherche n’a pas pour idéal d’innover, mais d’émettre des hypothèses dont la qualité première n’est pas la nouveauté, mais la pertinence. Il s’agit au fond de penser des modalités d’être au monde, avec autrui. C’est d’abord un questionnement et ses conditions qui occupent les chercheurs, plutôt que la conversion mercantile de réponses prêtes-à-médiatiser, prêtes-à-consommer.
+
+<h2><a name="internat">international</a></h2>
+
+<strong>nombre d’occurences :</strong> 81
+
+<strong>dans l'Idex :</strong> « Pour concrétiser ce projet, un nouveau cadre institutionnel s’avère indispensable pour établir une gouvernance efficace en capacité d’élaborer une stratégie unique de recherche et formation garantissant le rayonnement international de l’UT. », p. 10.
+
+<strong>définition du dico</strong> : « Qui est connu dans plusieurs pays ; qui exerce sa profession dans plusieurs nations. » 
+
+<strong>analyse</strong> : Le langage indirect du projet Idex (« un nouveau cadre [...] s’avère indispensable ») fait que l’on ne sait jamais qui sont les locuteurs et les destinataires du texte. Dans un monde « mondialisé », celui des classements « internationaux », ce projet acte l’insuffisance d’agir dans le cadre des « vieux » États-Nations. Sans que l’on sache pourquoi, le local est systématiquement discrédité au profit d’un « rayonnement » planétaire. Rejetons cette injonction arbitraire et pensons à des échelles diverses, du micro au macro, afin d’élaborer des pensées singulières et situées. On remarquera l’appropriation du vocable de l’<em>Internationale</em>, à l’origine contestataire.
 
 <h2><a name="marque">marque</a></h2>
 
