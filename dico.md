@@ -125,6 +125,16 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="consort">consortium</a></h2>
 
+<strong>nombre d’occurrences</strong> : 2
+
+<strong>dans l'Idex</strong> : « De nombreux secteurs voient leur modèle économique ou leur compétitivité remis en cause par la transition numérique ou le développement de l’intelligence artificielle et par la nécessité de maîtriser des domaines de connaissance toujours plus complexes et entremêlés. L’accélération de l’innovation nécessite des preuves de concept rapides. », p. 21.
+
+<strong>définition du dico</strong> : « Aptitude d'un individu ou d'un groupe à affronter la concurrence. »
+
+<strong>analyse</strong> : Hein ?!! Whaaaaaaat ??!!!
+
+<h2><a name="consort">consortium</a></h2>
+
 <strong>nombre d’occurrences</strong> : 30
 
 <strong>dans l'Idex</strong> : « Deux organismes de recherche essentiels dans le domaine aéronautique et spatial, le CNES et l’ONERA, deviennent aussi membres du consortium tout comme Météo France, établissement public dont le principal centre de recherche se trouve à Toulouse. », p. 5.
@@ -233,6 +243,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>définition du dico</strong> : « Signe permettant de distinguer les services d'une entreprise. »
 
 <strong>analyse</strong> : Au sein du projet Idex, le terme de « marque » est clairement emprunté au vocabulaire de l’entreprise. Or une communauté universitaire ne saurait se fonder sur une communauté « fédérée » autour d’une marque : nous n’attendons pas d’un établissement public (tel qu’une université) qu’il emprunte les codes du secteur privé. Laissons ces stratégies de branding identitaires et autres « cartes de fidélité » à des services marketing en manque d’imagination. 
+
 
 <h2><a name="offre">offre</a></h2>
 <strong>nombre d’occurrences :</strong> 33
