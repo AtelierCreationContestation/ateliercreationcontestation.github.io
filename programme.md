@@ -20,6 +20,16 @@ D’autres ateliers, idées, initiatives sont les bienvenues !
 Le programme suivant liste les heures de cours mobilisés pour l’atelier.
 Ce programme évoluera au fil de la semaine et sera complété au fur et à mesure selon l’évolution du projet, l’engagement des collègues...
 
+<h2>Vendredi 9 mars</h2>
+
+<h3>9h00</h3>
+
+On ne change pas une formule qui marche et on se retrouve à 9h dans le hall du bâtiment Accueil !
+
+<h3>14h00</h3>
+
+L'atelier conférence ouverte se précisera, toujours au QG dans le batîment Accueil.
+
 <h2>Jeudi 8 mars</h2>
 <h3>9h00</h3>
 On se retrouve comme mercredi matin à 9h dans le hall du bâtiment accueil pour reprendre les ateliers.
