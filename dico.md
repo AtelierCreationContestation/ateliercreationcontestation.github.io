@@ -11,7 +11,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#capital">capitaliser</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#expert">expert / expertise</a> | <a href="#excellence">excellence</a> <a href="#excellence">excellence</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#capital">capitaliser</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#expert">expert / expertise</a> | <a href="#excellence">excellence</a> <a href="#excellence">excellence</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
 
 en supplément pépite-bonus : <a href="#accro">le guide des acronymes</a>
 
@@ -264,13 +264,23 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <strong>analyse</strong> : Rayonnement s’entend comme prestige ; mais le rayonnement est-il une fin en soi ? Qui s’agit-il d’éblouir ici ? Que porteraient les « rayons » de l’UT fusionnée ? Plutôt que de rayonner, nous proposons de partager, confronter, solliciter, ou comme le dit Marielle Macé, de considérer ce qui est déjà lumineux, ce qui existe plutôt que des choses dont l’existence est déterminée par leur médiation.
 
+<h2><a name="robuste">robustesse</a></h2>
+
+<strong>nombre d’occurrences </strong>: 1
+
+<strong>dans l'Idex :</strong> « Ainsi, le projet présente la robustesse nécessaire pour nous permettre de nous engager avec réalisme quant à son implémentation dans les communautés concernées », p. 7.
+
+<strong>définition du dico</strong> : « caractère robuste, fort et résistant (de quelqu’un). Caractère robuste, résistant et solide (de quelque chose. » 
+
+<strong>analyse</strong> : Machisme ou virilité augmentée de l’Idex,  « implémentant » (inséminant) sans défaillir « les communautés concernées ». Ce projet est « sexy » (pour notre bien à toutes et tous), à moins que ce ne soit le viol par « l’excellence » ! 
+
 <h2><a name="strat">stratégie</a></h2>
 
 <strong>nombre d’occurrences </strong>: 29
 
 <strong>dans l'Idex :</strong> « Pour concrétiser ce projet, un nouveau cadre institutionnel s’avère indispensable pour établir une gouvernance efficace en capacité d’élaborer une stratégie unique de recherche et formation garantissant le rayonnement international de l’UT. », p. 10.
 
-<strong>définition du dico</strong> :« Art d'organiser et de conduire un ensemble d'opérations militaires prévisionnelles et de coordonner l'action des forces armées sur le théâtre des opérations jusqu'au moment où elles sont en contact avec l'ennemi. » 
+<strong>définition du dico</strong> : « Art d'organiser et de conduire un ensemble d'opérations militaires prévisionnelles et de coordonner l'action des forces armées sur le théâtre des opérations jusqu'au moment où elles sont en contact avec l'ennemi. » 
 
 <strong>analyse</strong> : La finalité de la stratégie est le contact (militaire) avec l’ennemi. Dès lors qu’il se donne pour vocation à « rayonner » sur un théâtre des opérations mondialisé, le projet Idex pose la question du déplacement d’un vocable militaire à l’endroit de l’enseignement et de la recherche. Or la compétition stratégique n’est pas forcément un idéal humainement soutenable, en tant qu’elle a pour objectif de dégrader symboliquement les laissé/e/s pour compte. Dans son essai L’invention du quotidien, le philosophe Michel de Certeau (1980) opposait la notion de « stratégie » (verticale, guerrière) à celle de « tactique » (horizontale, subversive) : l’université n’est pas une entreprise, et rien n'autorise ses représentant/e/s à en singer les dérives. 
 
