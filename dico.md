@@ -76,6 +76,14 @@ Les moyens de l’Idex sont-ils mis en place pour draguer les « talents » inte
 <strong>analyse</strong> : Quand on voit la composition des 7 Collèges prévus (voir p. 40-41 du projet), qui sont pour 5 au moins des entités ancrées dans le champ des sciences dites « dures », on se demande de quelle autonomie on parle, sans même parler de l’inclusion de « personnalités extérieures »  (du secteur privé ?) au niveau de la « gouvernance » globale (p. 9). Être autonome et être libre, indépendant, sont équivalents dans la définition du dictionnaire : mais le seront-ils dans un environnement où l’on pourra en apparence proposer les projets que l’on veut, mais où ceux-ci seront illisibles, car en dehors de grands axes décidés de manière autoritaire et restrictive ? (voir p. 9).
 L’université est déjà frappée par cet impératif d’autonomie depuis la loi Pécresse. On voit à présent que cette autonomie de gestion a conduit à la précarité, lorsque des Universités à moyens insuffisants passent sous la tutelle du rectorat, au prétexte de leur gestion inadéquate.
 
+<h2><a name="axestrat">axe stratégique</a></h2>
+
+<strong>nombre d’occurrences</strong> : 28
+
+<strong>dans l'Idex :</strong> « Dans le domaine scientifique, l’UT a défini, en collaboration avec les organismes de recherche, ses axes stratégiques pour la formation et la recherche, formulés sous forme de 6 défis sociétaux. »,  p. 9 ;  « Permettre à l’étudiant de construire un projet personnalisé et audacieux au sein de l’offre “disciplinaire” »,  p. 19.
+
+<strong>analyse</strong> : Mis en place dans le but d’orienter les recherches menées (Master, Doctorat et recherches larges), ces axes correspondent à ceux du Cercle Stratégique des Industries de Toulouse, dont on retrouve la participation au travail de l’EDT. Ils définissent l’attribution du budget Idex en priorité sur le reste (soit 80% du budget réservé). La personnalisation vantée par le biais de ces axes aurait plutôt tendance à dé-personnifier les projets. Cela permettrait toujours de s'impliquer plus “profondément” dans une relation avec lesdits « partenaires socio-économiques »,  soit les entreprises à rayonnement international - au final, on restreint la réflexion à l’économie à court et moyen termes. Sur 6 axes, on n’en compte qu’un seul dédié aux sciences humaines, appelé « Patrimoines, innovations/création ». On remarquera l’utilisation judicieuse du SLACHEUH. Et il serait trop long de citer tous les autres.    
+
 <h2><a name="capital">capitaliser</a></h2>
 
 <strong>nombre d’occurrences</strong> : 4
