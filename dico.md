@@ -11,7 +11,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comitepilotage">comité de pilotage</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#defi">défi</a> | <a href="#digital">digital</a> | <a href="#dynam">dynamique</a> | <a href="#emergence">émergence</a> | <a href="#expert">expert / expertise</a> | <a href="#excellence">excellence</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comitepilotage">comité de pilotage</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#continuum">continuum</a> | <a href="#defi">défi</a> | <a href="#digital">digital</a> | <a href="#dynam">dynamique</a> | <a href="#emergence">émergence</a> | <a href="#excellence"> | <a href="#expert">expert / expertise</a> | excellence</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#forces">forces</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
 
 en supplément pépite-bonus : <a href="#lexiqueacro">le guide des acronymes</a>
 
@@ -155,6 +155,12 @@ nombre d’occurrences : 2
 
 <strong>analyse</strong> : Hein ?!! Whaaaaaaat ??!!!
 
+<h2><a name="continuum">continuum</a></h2>
+
+voir <a href="consortium">consortium</a>
+
+<strong>nombre d’occurrences</strong> : 2
+
 <h2><a name="consort">consortium</a></h2>
 
 <strong>nombre d’occurrences</strong> : 30
@@ -234,6 +240,13 @@ voir <a href="pepite">pépite-écrin</a>
 
 <strong>analyse</strong> : Nous saurons uniquement ce que l’expert de l’IDEX n’est pas : un spécialiste de ce qu’il est invité à évaluer.  Il n’est pas un pair, ni un chercheur chevronné sur le sujet à examiner. L’expertise résiderait-elle justement dans son extériorité ? On voit arriver les grands mots (maux ?) : sa position extérieure serait garante d’objectivité et son ingénuité certifierait son impartialité… Au fait, qui se tient tapi derrière ce terme ? 
 
+<h2><a name="federer">fédérer / fédérateur</a></h2>
+
+voir <a href="integration">intégration</a>
+
+<strong>nombre d’occurrences</strong> : 4
+
+
 <h2><a name="finance">financements</a></h2>
 
 <strong>nombre d’occurrences</strong> : 18
@@ -243,6 +256,12 @@ voir <a href="pepite">pépite-écrin</a>
 <strong>définition du dico</strong> : « Payer, donner l'argent nécessaire à quelque chose. Payer au roi une somme d’argent pour acquérir une charge, un titre de noblesse. »
 
 <strong>analyse</strong> : « UNITI 2018 », <em>aka</em> le projet Idex, <em>aka</em> le « couronnement du roi » semble orienter les financements vers les personnes les plus <em>bankable </em> et « internationales » – de quoi être ébloui par ces scintillantes « pépites ». Qui aura la plus belle couronne et le plus « grand » royaume ? Quel avenir pour les serfs-prolétaires ? 
+
+<h2><a name="forces">forces</a></h2>
+
+voir <a href="pepite">pépite-écrin</a>
+
+<strong>nombre d’occurrences :</strong> 31
 
 <h2><a name="gouv">gouvernance</a></h2>
 
