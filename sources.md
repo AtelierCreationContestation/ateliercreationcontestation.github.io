@@ -12,3 +12,5 @@ Ces sources ont vocation à clarifier le projet de fusion/idex et engager la dis
 * <a href="http://ledecode.ut-capitole.fr/projet-de-fusion-interview-presidente-ut1-659019.kjsp">interview de la présidente de l'UT1 (opposée à la fusion)</a>
 
 * <a href="https://drive.google.com/open?id=1uOyr5xVlE9jTRYq1tgc7B79h4PVThtLt">le projet idex, document de travail</a>
+
+* <a href="http://www.canalsud.net/?Stop-fusion-au-Mirail">l'enregistrement de l'émission Stop Fusion au Mirail sur Canal Sud</a>
