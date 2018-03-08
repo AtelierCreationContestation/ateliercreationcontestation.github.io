@@ -417,6 +417,12 @@ voir <a href="#gestion">gestion</a>
 
 <strong>analyse</strong> : Ce terme est utilisé à de nombreuses reprises dans le texte et est appuyé par des exemples. Cependant, ces exemples ne sont que brièvement cités sans être réellement explicités et sont évoqués seulement des pseudos-résultats, à la limite de l’énigme. Qu’est ce que l’on appelle succès ? Selon qui ? 
 
+<h2><a name="talents">talents</a></h2>
+
+voir <a href="excellence">excellence</a>
+
+<strong>nombre d'occurrences :</strong> 11
+
 <h2><a name="transfo">transformation</a></h2>
 
 <strong>nombre d'occurrences :</strong> 12 
@@ -426,6 +432,12 @@ voir <a href="#gestion">gestion</a>
 <strong>définition du dico</strong> : « Changement complet de caractère, de manière d'être »
 
 <strong>analyse</strong> : Changer de caractère, de valeurs, se transformer, se métamorphoser, muter ! Ils sont prêts à TOUT pour le rang mondial.
+
+<h2><a name="transversalite">transversalité</a></h2>
+
+voir <a href="transfert">transfert</a>
+
+<strong>nombre d'occurrences :</strong> 2
 
 <h2><a name="visibilite">visibilité</a></h2>
 
