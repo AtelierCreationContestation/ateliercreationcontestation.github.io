@@ -11,7 +11,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#digital">digital</a> | <a href="#dynam">dynamique</a> | <a href="#expert">expert / expertise</a> | <a href="#excellence">excellence</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comitepilotage">comité de pilotage</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#digital">digital</a> | <a href="#dynam">dynamique</a> | <a href="#expert">expert / expertise</a> | <a href="#excellence">excellence</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
 
 en supplément pépite-bonus : <a href="#accro">le guide des acronymes</a>
 
@@ -131,6 +131,10 @@ nombre d’occurrences : 2
 <strong>définition du dico</strong> : « Répartition par classes. Attribution d'une place, d'un rang à quelqu'un ou à quelque chose selon son mérite ou sa valeur. »
 
 <strong>analyse</strong> : Progresser dans les « classements » internationaux est l’enjeu ultime et explicite du projet Idex. Reste à savoir comment ces classements se construisent, et notamment à l’endroit des critères qui les composent. Très contesté, par exemple, le classement dit « de Shanghaï » (2003) s’appuie majoritairement sur une évaluation quantitative des productions et des récompenses des chercheurs/euses. Or cette façon de faire ne correspond pas à l’idée d’une recherche comprise comme une démarche collaborative et retranchée des intérêts productifs et économiques. Dès lors qu’ils existent, ces classements (de recherche, de PIB, etc.) norment et orientent les existences, dans une boucle perverse dont il semble urgent de sortir.
+
+<h2><a name="comitepilotage">comité de pilotage</a></h2>
+voir <a href="pilotage">pilotage</a>
+nombre d’occurrences : 2
 
 <h2><a name="comp">compétitivité</a></h2>
 
