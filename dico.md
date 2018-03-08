@@ -11,7 +11,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#expert">expert / expertise</a> | <a href="#excellence">excellence</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#expert">expert / expertise</a> | <a href="#excellence">excellence</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
 
 en supplément pépite-bonus : <a href="#accro">le guide des acronymes</a>
 
@@ -98,6 +98,10 @@ nombre d’occurrences : 3
 <strong>définition du dico</strong> : « Accumuler (les intérêts ou les bénéfices) de manière à former ou à grossir un capital, et à les rendre productifs à leur tour ».
 
 <strong>analyse</strong> : Le label Idex correspond à deux grands objectifs de l'UT : le rayonnement de l'excellence et les stratégies financières. L’un est au service de l’autre dans une chaîne sans fin : exceller pour rayonner, rayonner pour exceller. Capitaliser sur le savoir, c’est placer la valeur de celui-ci dans sa capacité à créer de la valeur monétaire. N’y a-t-il pas de savoir qui puisse s’extraire de ce circuit de la valeur captée par le capitalisme ?
+
+<h2><a name="catalogue">catalogue</a></h2>
+catalogue > voir <a href="offre">offre</a>
+nombre d’occurrences : 2
 
 <h2><a name="cherchenseigne">chercheur-enseignant</a></h2>
 <strong>nombre d’occurrences :</strong> 1
