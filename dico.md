@@ -11,7 +11,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#capital">capitaliser</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#capital">capitaliser</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#expert">expert / expertise</a> | <a href="#excellence">excellence</a> <a href="#excellence">excellence</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
 
 en supplément pépite-bonus : <a href="#accro">le guide des acronymes</a>
 
@@ -154,6 +154,16 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>définition du dico</strong> : « Caractère de la chose ou de la personne qui correspond, presque parfaitement, à la représentation idéale de sa nature, de sa fonction ou qui manifeste une très nette supériorité dans tel ou tel domaine. »
 
 <strong>analyse</strong> : L’ambition du projet Idex serait de se focaliser sur une supériorité de ses domaines d’études. Comment se définit l’excellence ? Se chiffre-t-elle ? On sait que certain/e/s étudiant/e/s vont avoir peine à accéder à l’université dans un système sélectif tel qu’il se définit dans le cadre de la loi ORE. L’université accueillera donc des étudiant/e/s déjà définies comme « excellent/e/s » au sein du secondaire – et donc probablement des étudiant/e/s privilégiés économiquement, culturellement. En ce sens, cette vision de l’université ne permettrait-elle pas en vérité de maintenir un privilège de classe déguisé en excellence ?
+
+<h2><a name="expert">expert / expertise</a></h2>
+
+<strong>nombre d’occurrences</strong> : 6
+
+<strong>dans l'Idex :</strong> « Les projets sont systématiquement évalués par 3 experts au moins, dont deux n’exerçant pas dans un établissement d’enseignement supérieur et de recherche français, n’ayant pas co-publié avec les membres du projet ou le candidat. », p. 12.
+
+<strong>définition du dico</strong> : « Qui a acquis une grande habileté, un grand savoir-faire dans une profession, une discipline, grâce à une longue expérience. » 
+
+<strong>analyse</strong> : Nous saurons uniquement ce que l’expert de l’IDEX n’est pas : un spécialiste de ce qu’il est invité à évaluer.  Il n’est pas un pair, ni un chercheur chevronné sur le sujet à examiner. L’expertise résiderait-elle justement dans son extériorité ? On voit arriver les grands mots (maux ?) : sa position extérieure serait garante d’objectivité et son ingénuité certifierait son impartialité… Au fait, qui se tient tapi derrière ce terme ? 
 
 <h2><a name="finance">financements</a></h2>
 
