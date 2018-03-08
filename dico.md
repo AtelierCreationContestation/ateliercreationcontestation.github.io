@@ -10,7 +10,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#finance">finance</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
 <!--fin de la liste complète --> 
 
 <h2><a name="accelerer">accélérer</a></h2>
@@ -120,7 +120,17 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <strong>définition du dico</strong> : « Caractère de la chose ou de la personne qui correspond, presque parfaitement, à la représentation idéale de sa nature, de sa fonction ou qui manifeste une très nette supériorité dans tel ou tel domaine. »
 
-<strong>analyse</strong> : L’ambition du projet Idex serait de se focaliser sur une supériorité de ses domaines d’études. Comment se définit l’excellence ? Se chiffre-t-elle ? On sait que certain/e/s étudiant/e/s vont avoir peine à accéder à l’université dans un système sélectif tel qu’il se définit dans le cadre de la loi ORE. L’université accueillera donc des étudiant/e/s déjà définies comme « excellent/e/s » au sein du secondaire – et donc probablement des étudiant/e/s privilégiés économiquement, culturellement. En ce sens, cette vision de l’université ne permettrait-elle pas en vérité de maintenir un privilège de classe déguisé en excellence ? 
+<strong>analyse</strong> : L’ambition du projet Idex serait de se focaliser sur une supériorité de ses domaines d’études. Comment se définit l’excellence ? Se chiffre-t-elle ? On sait que certain/e/s étudiant/e/s vont avoir peine à accéder à l’université dans un système sélectif tel qu’il se définit dans le cadre de la loi ORE. L’université accueillera donc des étudiant/e/s déjà définies comme « excellent/e/s » au sein du secondaire – et donc probablement des étudiant/e/s privilégiés économiquement, culturellement. En ce sens, cette vision de l’université ne permettrait-elle pas en vérité de maintenir un privilège de classe déguisé en excellence ?
+
+<h2><a name="finance">financements</a></h2>
+
+<strong>nombre d’occurrences</strong> : 18
+
+<strong>dans l'Idex :</strong> « UNITI 2018 oriente les financements de l’IDEX en priorité aux équipes des membres du Consortium identifiées parmi les Forces, Émergences ou Pépites du site. », p. 52.
+
+<strong>définition du dico</strong> : « Payer, donner l'argent nécessaire à quelque chose. Payer au roi une somme d’argent pour acquérir une charge, un titre de noblesse. »
+
+<strong>analyse</strong> : « UNITI 2018 », <em>aka</em> le projet Idex, <em>aka</em> le « couronnement du roi » semble orienter les financements vers les personnes les plus <em>bankable </em> et « internationales » – de quoi être ébloui par ces scintillantes « pépites ». Qui aura la plus belle couronne et le plus « grand » royaume ? Quel avenir pour les serfs-prolétaires ? 
 
 <h2><a name="gouv">gouvernance</a></h2>
 
