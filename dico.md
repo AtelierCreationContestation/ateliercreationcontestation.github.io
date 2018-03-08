@@ -11,7 +11,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comitepilotage">comité de pilotage</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#continuum">continuum</a> | <a href="#defi">défi</a> | <a href="#digital">digital</a> | <a href="#dynam">dynamique</a> | <a href="#emergence">émergence</a> | <a href="#excellence">excellence</a> | <a href="#expert">expert / expertise</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#forces">forces</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#integ">intégration</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#manag">management</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#avenir">avenir</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comitepilotage">comité de pilotage</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#continuum">continuum</a> | <a href="#defi">défi</a> | <a href="#digital">digital</a> | <a href="#dynam">dynamique</a> | <a href="#emergence">émergence</a> | <a href="#excellence">excellence</a> | <a href="#expert">expert / expertise</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#forces">forces</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#integ">intégration</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#manag">management</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
 
 en supplément pépite-bonus : <a href="#lexiqueacro">le guide des acronymes</a>
 
@@ -81,6 +81,16 @@ Les moyens de l’Idex sont-ils mis en place pour draguer les « talents » inte
 <strong>analyse</strong> : Quand on voit la composition des 7 Collèges prévus (voir p. 40-41 du projet), qui sont pour 5 au moins des entités ancrées dans le champ des sciences dites « dures », on se demande de quelle autonomie on parle, sans même parler de l’inclusion de « personnalités extérieures »  (du secteur privé ?) au niveau de la « gouvernance » globale (p. 9). Être autonome et être libre, indépendant, sont équivalents dans la définition du dictionnaire : mais le seront-ils dans un environnement où l’on pourra en apparence proposer les projets que l’on veut, mais où ceux-ci seront illisibles, car en dehors de grands axes décidés de manière autoritaire et restrictive ? (voir p. 9).
 L’université est déjà frappée par cet impératif d’autonomie depuis la loi Pécresse. On voit à présent que cette autonomie de gestion a conduit à la précarité, lorsque des Universités à moyens insuffisants passent sous la tutelle du rectorat, au prétexte de leur gestion inadéquate.
 
+<h2><a name="avenir">avenir</a></h2>
+
+<strong>nombre d’occurrences</strong> : 2
+
+<strong>dans l'Idex :</strong> « Nous sommes convaincus que l’attribution d’un Label IDEX conquis collectivement sera une dynamique décisive pour la construction de notre avenir commun. », p.51 (phrase de conclusion du dossier)
+
+<strong>définition du dico</strong> : « Ce qui sera plus tard, les événements futurs », « Ceux qui vivront plus tard, les générations futures. »
+
+<strong>analyse</strong> : Nous sommes convaincus que l’attribution d’un Label IDEX, conquis sans notre avis, sera une dynamique décisive pour l’écroulement de notre avenir commun. L’important c’est d’y croire ! 
+
 <h2><a name="axestrat">axe stratégique</a></h2>
 
 <strong>nombre d’occurrences</strong> : 28
@@ -142,7 +152,7 @@ nombre d’occurrences : 2
 <strong>analyse</strong> : Progresser dans les « classements » internationaux est l’enjeu ultime et explicite du projet Idex. Reste à savoir comment ces classements se construisent, et notamment à l’endroit des critères qui les composent. Très contesté, par exemple, le classement dit « de Shanghaï » (2003) s’appuie majoritairement sur une évaluation quantitative des productions et des récompenses des chercheurs/euses. Or cette façon de faire ne correspond pas à l’idée d’une recherche comprise comme une démarche collaborative et retranchée des intérêts productifs et économiques. Dès lors qu’ils existent, ces classements (de recherche, de PIB, etc.) norment et orientent les existences, dans une boucle perverse dont il semble urgent de sortir.
 
 <h2><a name="comitepilotage">comité de pilotage</a></h2>
-voir <a href="pilotage">pilotage</a>
+voir <a href="#pilotage">pilotage</a>
 
 nombre d’occurrences : 2
 
@@ -158,7 +168,7 @@ nombre d’occurrences : 2
 
 <h2><a name="continuum">continuum</a></h2>
 
-voir <a href="consortium">consortium</a>
+voir <a href="#consort">consortium</a>
 
 <strong>nombre d’occurrences</strong> : 2
 
@@ -207,7 +217,7 @@ voir <a href="consortium">consortium</a>
 
 <h2><a name="emergence">émergences</a></h2>
 
-voir <a href="pepite">pépite-écrin</a>
+voir <a href="#pepite">pépite-écrin</a>
 
 <strong>nombre d’occurrences</strong> : 4
 
@@ -243,7 +253,7 @@ voir <a href="pepite">pépite-écrin</a>
 
 <h2><a name="federer">fédérer / fédérateur</a></h2>
 
-voir <a href="integration">intégration</a>
+voir <a href="#integration">intégration</a>
 
 <strong>nombre d’occurrences</strong> : 4
 
@@ -265,6 +275,12 @@ Dites parfois "Forces-Émergences-Pépites".
 voir <a href="pepite">pépite-écrin</a>
 
 <strong>nombre d’occurrences :</strong> 31
+
+<h2><a name="gain">gain</a></h2>
+
+voir <a href="finance">financement</a>
+
+<strong>nombre d’occurrences :</strong> 2
 
 <h2><a name="gouv">gouvernance</a></h2>
 
@@ -318,7 +334,7 @@ voir <a href="pepite">pépite-écrin</a>
 
 <h2><a name="manag">management</a></h2>
 
-voir <a href="gestion">gestion</a>
+voir <a href="#gestion">gestion</a>
 
 <strong>nombre d’occurrences</strong> : 6
 
@@ -371,7 +387,7 @@ voir <a href="gestion">gestion</a>
 
 <strong>analyse</strong> : Rayonnement s’entend comme prestige ; mais le rayonnement est-il une fin en soi ? Qui s’agit-il d’éblouir ici ? Que porteraient les « rayons » de l’UT fusionnée ? Plutôt que de rayonner, nous proposons de partager, confronter, solliciter, ou comme le dit Marielle Macé, de considérer ce qui est déjà lumineux, ce qui existe plutôt que des choses dont l’existence est déterminée par leur médiation.
 
-<h2><a name="robuste">robustesse</a></h2>
+<h2><a name="robustesse">robustesse</a></h2>
 
 <strong>nombre d’occurrences </strong>: 1
 
@@ -410,6 +426,16 @@ voir <a href="gestion">gestion</a>
 <strong>définition du dico</strong> : « Changement complet de caractère, de manière d'être »
 
 <strong>analyse</strong> : Changer de caractère, de valeurs, se transformer, se métamorphoser, muter ! Ils sont prêts à TOUT pour le rang mondial.
+
+<h2><a name="visibilite">visibilité</a></h2>
+
+<strong>nombre d'occurrences :</strong>15
+
+<strong>dans l'Idex :</strong> « La création de l’UT devrait toutefois permettre d’accroître la visibilité de l’UT auprès des entreprises et ainsi faciliter le développement des ressources propres : meilleure valorisation de l’offre de formation tout au long de la vie, montée en puissance de la Fondation partenariale, développement de formation en alternance et de prestations intellectuelles et technologiques par les plateformes. », p. 49.
+
+<strong>définition du dico</strong> : « Fait de pouvoir être vu facilement, d'être aisément perçu dans sa structure, ses détails. »
+
+<strong>analyse</strong> : La visibilité de l’Université de Toulouse renvoie en réalité au fait d’être vu par les entreprises. Pourquoi l’université devrait-elle ainsi faire le spectacle de ses talents aux entrepreneurs ? Que verrons les étudiant/e/s des futurs processus de fonctionnement de cette université fusionnée ? Visible par les entreprises oui, mais visible par toutes et tous ? Et visibilité de quoi ? L’université échappera-t-elle à ce devenir-vitrine ?
 
 <h2><a name="lexiqueacro">Lexique des acronymes :</a></h2>
 
