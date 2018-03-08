@@ -12,6 +12,9 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 <h1>Notices</h1>
 <a name="retourhaut"></a>
 <a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#capital">capitaliser</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
+
+en supplément pépite-bonus : <a href="#accro">le guide des acronymes</a>
+
 <!--fin de la liste complète --> 
 
 <h2><a name="accelerer">accélérer</a></h2>
@@ -75,7 +78,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="capital">capitaliser</a></h2>
 
-<strong>nombre d’occurrences</strong> : nombre d’occurrences : 4
+<strong>nombre d’occurrences</strong> : 4
 
 <strong>dans l'Idex :</strong> « Dans l’Idex : L’ambition consiste à hisser l’ensemble de la recherche au niveau mondial dans ses domaines d’excellence en capitalisant sur ses Labex (Laboratoires d'Excellence), sur l’ancrage des organismes de recherche et en valorisant les spécificités de notre métropole. », p. 8.
 
@@ -260,3 +263,27 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>définition du dico</strong> : « Changement complet de caractère, de manière d'être »
 
 <strong>analyse</strong> : Changer de caractère, de valeurs, se transformer, se métamorphoser, muter ! Ils sont prêts à TOUT pour le rang mondial.
+
+<h2><a name="transfo">Lexique des acronymes :</a></h2>
+<strong>ARWU</strong> : Academic Ranking of World Universities (classement Shanghai)
+<strong>CAS</strong> : Conseil d’Administration Stratégique
+Collège = Université
+<strong>COM</strong> : Contrat d’Objectifs et de Moyens
+<strong>COMEX</strong> : Comité Exécutif = bureau qui réunit les directeurs des Collèges et le vice-président Idex
+<strong>COMUE</strong> : Communauté d’Université d’Établissements (formée en 2013 suite au travail de l’Université fédérale).
+<strong>COPIL</strong> : Comité de pilotage = 10 représentants de l’UT + 1 représentant par organisme de recherche ou assimilé
+<strong>COSA</strong> : Conseil d’Orientation Stratégique et Académique = 16 personnalités extérieures à forte proportion internationale
+<strong>EDT</strong> : École des Docteurs de Toulouse
+<strong>FEP</strong> : Force-Émergence-Pépites
+<strong>FUN</strong> : France Université Numérique = plate-forme numérique permettant la diffusion des cours en ligne ouverts et massifs
+<strong>INP</strong> : Institut National Polytechnique
+<strong>INSA</strong> : Institut National des Sciences Appliquées
+<strong>LABEX</strong> (néologisme) : Label d’excellence (il y en a 7 à l’heure actuelle : 2 dans les domaines des sciences de la vie et de la santé, 3 des sciences humaines et sociales, 1 des nanotechnologies et 1 des sciences numériques et mathématiques.
+<strong>MOOC</strong> : Massive Open Online Course = cours ouverts et massifs en ligne pour une formation à distance
+<strong>PIA</strong> : Programme d’Investissements d’Avenir
+<strong>RH</strong> : Ressources Humaines
+<strong>SIUP</strong> : Service inter-Universitaire de Pédagogie
+<strong>UNITI 2018</strong>, suite au projet du même nom en 2012 et 2013
+<strong>UT</strong> : Université de Toulouse, soit Université cible. 
+<strong>VP</strong> : Vice-Président
+
