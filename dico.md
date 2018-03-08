@@ -96,7 +96,7 @@ voir <a href="capital">capitaliser</a>
 nombre d’occurrences : 3
 
 
-<h2><a name="capital">capitaliser</a></h2>
+<h2><a name="#capital">capitaliser</a></h2>
 
 <strong>nombre d’occurrences</strong> : 4
 
@@ -143,6 +143,7 @@ nombre d’occurrences : 2
 
 <h2><a name="comitepilotage">comité de pilotage</a></h2>
 voir <a href="pilotage">pilotage</a>
+
 nombre d’occurrences : 2
 
 <h2><a name="comp">compétitivité</a></h2>
