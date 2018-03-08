@@ -11,7 +11,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#avenir">avenir</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comitepilotage">comité de pilotage</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#continuum">continuum</a> | <a href="#defi">défi</a> | <a href="#digital">digital</a> | <a href="#disruptcampus">disrupt campus</a> | <a href="#dynam">dynamique</a> | <a href="#emergence">émergence</a> | <a href="#excellence">excellence</a> | <a href="#expert">expert / expertise</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#forces">forces</a> | <a href="#indicateur">indicateur de performance</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#integ">intégration</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#manag">management</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#avenir">avenir</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comitepilotage">comité de pilotage</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#continuum">continuum</a> | <a href="#defi">défi</a> | <a href="#digital">digital</a> | <a href="#disruptcampus">disrupt campus</a> | <a href="#dynam">dynamique</a> | <a href="#emergence">émergence</a> | <a href="#excellence">excellence</a> | <a href="#expert">expert / expertise</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#forces">forces</a> | <a href="#indicateur">indicateur de performance</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#integ">intégration</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#manag">management</a> | <a href="#marque">marque</a> | <a href="#modelenational">modèle national</a> | <a href="#mut">mutualisé</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a> | <a href="#transv">transversalité</a> 
 
 en supplément pépite-bonus : <a href="#lexiqueacro">le guide des acronymes</a>
 
@@ -100,7 +100,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="business">business</a></h2>
 
-Voir <a href="capital">capitaliser</a>
+Voir <a href="#capital">capitaliser</a>
 
 nombre d’occurrences : 3
 
@@ -117,7 +117,7 @@ nombre d’occurrences : 3
 
 <h2><a name="catalogue">catalogue</a></h2>
 
-Voir <a href="offre">offre</a>
+Voir <a href="#offre">offre</a>
 
 nombre d’occurrences : 2
 
@@ -280,13 +280,13 @@ Voir <a href="#integration">intégration</a>
 
 Dites parfois "Forces-Émergences-Pépites".
 
-Voir <a href="pepite">pépite-écrin</a>
+Voir <a href="#pepite">pépite-écrin</a>
 
 <strong>nombre d’occurrences :</strong> 31
 
 <h2><a name="gain">gain</a></h2>
 
-Voir <a href="finance">financement</a>
+Voir <a href="#finance">financement</a>
 
 <strong>nombre d’occurrences :</strong> 2
 
@@ -302,7 +302,7 @@ Voir <a href="finance">financement</a>
 
 <h2><a name="indicateur">indicateur / indicateurs de performance</a></h2>
 
-voir <a href="classe">classement</a>
+Voir <a href="#classe">classement</a>
 
 <strong>nombre d’occurrences :</strong> 1
 
@@ -364,9 +364,21 @@ Voir <a href="#gestion">gestion</a>
 
 <h2><a name="meilleur">meilleur</a></h2>
 
-Voir <a href="excellence">excellence</a>
+Voir <a href="#excellence">excellence</a>
 
 <strong>nombre d’occurrences :</strong> 3
+
+<h2><a name="modele">modèle national</a></h2>
+
+Voir <a href="#international">international</a> 
+
+<strong>nombre d’occurrences :</strong> 1
+
+<h2><a name="mut">mutualisé(e)s</a></h2>
+
+Voir <a href="#transvers">transversalité</a>
+
+<strong>nombre d’occurrences :</strong> 6
 
 <h2><a name="offre">offre</a></h2>
 
@@ -406,6 +418,12 @@ Voir <a href="excellence">excellence</a>
 <strong>définition du dico</strong> : « Influence qui se propage à partir d'une source intellectuelle ou morale dont le prestige exerce une grande attraction ». 
 
 <strong>analyse</strong> : Rayonnement s’entend comme prestige ; mais le rayonnement est-il une fin en soi ? Qui s’agit-il d’éblouir ici ? Que porteraient les « rayons » de l’UT fusionnée ? Plutôt que de rayonner, nous proposons de partager, confronter, solliciter, ou comme le dit Marielle Macé, de considérer ce qui est déjà lumineux, ce qui existe plutôt que des choses dont l’existence est déterminée par leur médiation.
+
+<h2><a name="regroupe">regroupement</a></h2>
+
+Voir <a href="integ">intégration</a>
+
+<strong>nombre d'occurrences</strong> : 7
 
 <h2><a name="robustesse">robustesse</a></h2>
 
