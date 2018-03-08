@@ -11,7 +11,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#avenir">avenir</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comitepilotage">comité de pilotage</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#continuum">continuum</a> | <a href="#defi">défi</a> | <a href="#digital">digital</a> | <a href="#dynam">dynamique</a> | <a href="#emergence">émergence</a> | <a href="#excellence">excellence</a> | <a href="#expert">expert / expertise</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#forces">forces</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#integ">intégration</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#manag">management</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#avenir">avenir</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comitepilotage">comité de pilotage</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#continuum">continuum</a> | <a href="#defi">défi</a> | <a href="#digital">digital</a> | <a href="#disruptcampus">disrupt campus</a> | <a href="#dynam">dynamique</a> | <a href="#emergence">émergence</a> | <a href="#excellence">excellence</a> | <a href="#expert">expert / expertise</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#forces">forces</a> | <a href="#indicateur">indicateur de performance</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#integ">intégration</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#manag">management</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
 
 en supplément pépite-bonus : <a href="#lexiqueacro">le guide des acronymes</a>
 
@@ -29,7 +29,7 @@ en supplément pépite-bonus : <a href="#lexiqueacro">le guide des acronymes</a>
 
 <h2><a name="accroi">accroître</a></h2>
 
-<a href="#accelerer">voir accélérer</a>
+Voir <a href="#accelerer">accélérer</a>
 
 nombre d'occurrences : 8
 
@@ -55,10 +55,9 @@ nombre d'occurrences : 8
 
 <h2><a name="amplifier">amplifier</a></h2>
 
-<a href="#accelerer">voir accélérer</a>
+Voir <a href="#accelerer">accélérer</a>
 
 nombre d’occurrences : 5
-
 
 <h2><a name="attrac">attractivité / gain d’attractivité / politique d’attractivité</a></h2>  
 <strong>nombre d’occurrences :</strong> 19
@@ -101,7 +100,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="business">business</a></h2>
 
-voir <a href="capital">capitaliser</a>
+Voir <a href="capital">capitaliser</a>
 
 nombre d’occurrences : 3
 
@@ -118,7 +117,7 @@ nombre d’occurrences : 3
 
 <h2><a name="catalogue">catalogue</a></h2>
 
-voir <a href="offre">offre</a>
+Voir <a href="offre">offre</a>
 
 nombre d’occurrences : 2
 
@@ -152,7 +151,7 @@ nombre d’occurrences : 2
 <strong>analyse</strong> : Progresser dans les « classements » internationaux est l’enjeu ultime et explicite du projet Idex. Reste à savoir comment ces classements se construisent, et notamment à l’endroit des critères qui les composent. Très contesté, par exemple, le classement dit « de Shanghaï » (2003) s’appuie majoritairement sur une évaluation quantitative des productions et des récompenses des chercheurs/euses. Or cette façon de faire ne correspond pas à l’idée d’une recherche comprise comme une démarche collaborative et retranchée des intérêts productifs et économiques. Dès lors qu’ils existent, ces classements (de recherche, de PIB, etc.) norment et orientent les existences, dans une boucle perverse dont il semble urgent de sortir.
 
 <h2><a name="comitepilotage">comité de pilotage</a></h2>
-voir <a href="#pilotage">pilotage</a>
+Voir <a href="#pilotage">pilotage</a>
 
 nombre d’occurrences : 2
 
@@ -168,7 +167,7 @@ nombre d’occurrences : 2
 
 <h2><a name="continuum">continuum</a></h2>
 
-voir <a href="#consort">consortium</a>
+Voir <a href="#consort">consortium</a>
 
 <strong>nombre d’occurrences</strong> : 2
 
@@ -204,6 +203,15 @@ voir <a href="#consort">consortium</a>
 1. Tu le vois mon doigt ?!
 2. Un whisky d’abord ?
 
+<h2><a name="disruptcampus">disrupt campus</a></h2>
+
+<strong>nombre d’occurrences</strong> : 1
+
+<strong>dans l'Idex :</strong> « Dans le prolongement du dispositif <em>Disrupt campus</em> d’UT2J et UT3, l’IDEX soutient tout particulièrement la mise en place d’actions de sensibilisation, de coaching et de tutorat des étudiants et chercheurs à l’entrepreneuriat, grâce à la création de SPOC ou MOOC sur l’innovation et l’entrepreneuriat et à une collaboration avec la SATT. », p. 22.
+
+<strong>définition du dico</strong> : Erreur 404.  
+
+<strong>analyse</strong> : Le capitalisme ose tout, c’est même à ça qu’on le reconnaît. Vous vous sentez l’âme révolutionnaire ? Pas de problème ! La disruption devient un levier d’innovation, de rayonnement, d’excellence et de [ insérer ici le signifiant creux de votre choix ]. Continuité ou rupture, de toutes façons, c’est un peu pareil non ? Bientôt, des Assemblées Générales d’excellence pour motiver la lutte ? 
 
 <h2><a name="dynam">dynamique</a></h2>
 
@@ -217,7 +225,7 @@ voir <a href="#consort">consortium</a>
 
 <h2><a name="emergence">émergences</a></h2>
 
-voir <a href="#pepite">pépite-écrin</a>
+Voir <a href="#pepite">pépite-écrin</a>
 
 <strong>nombre d’occurrences</strong> : 4
 
@@ -253,7 +261,7 @@ voir <a href="#pepite">pépite-écrin</a>
 
 <h2><a name="federer">fédérer / fédérateur</a></h2>
 
-voir <a href="#integration">intégration</a>
+Voir <a href="#integration">intégration</a>
 
 <strong>nombre d’occurrences</strong> : 4
 
@@ -272,13 +280,13 @@ voir <a href="#integration">intégration</a>
 
 Dites parfois "Forces-Émergences-Pépites".
 
-voir <a href="pepite">pépite-écrin</a>
+Voir <a href="pepite">pépite-écrin</a>
 
 <strong>nombre d’occurrences :</strong> 31
 
 <h2><a name="gain">gain</a></h2>
 
-voir <a href="finance">financement</a>
+Voir <a href="finance">financement</a>
 
 <strong>nombre d’occurrences :</strong> 2
 
@@ -291,6 +299,12 @@ voir <a href="finance">financement</a>
 <strong>définition du dico</strong> : « Diriger un bateau à l'aide d'un gouvernail. Avoir la conduite, l’administration de quelque chose. Diriger quelqu’un ; conduire des hommes ; les mener en usant de son influence ou les régir avec autorité. »   
 
 <strong>analyse</strong> : Dans une société occidentale encore marquée par l’idéal grec du « pouvoir au peuple » (<em>demos cratos</em>), les gouvernements émanent du peuple, sont librement élus, et sont dès lors réfutables. Nous faisons ici l’hypothèse que la « gouvernance » est une négation des gouvernements démocratiques, au sens où celle-ci ne repose pas sur la faculté du peuple à s’exprimer dans l’espace public mais sur des relations de pouvoir entre pairs. À une époque où les « plateformes » (<a href="http://affordance.typepad.com/">Ertzscheid</a>, Morozov) du Web (GAFAM) aux <em>boards</em> californiens mobilisent davantage d’usagers que des gouvernements élus, faut-il vraiment que cet idéal économique s’impose dans la recherche ? Comment penser des instances de pouvoir élaborées collectivement et qui n’aient pas pour objectif de <em>piloter</em> autrui ?  
+
+<h2><a name="indicateur">indicateur / indicateurs de performance</a></h2>
+
+voir <a href="classe">classement</a>
+
+<strong>nombre d’occurrences :</strong> 1
 
 <h2><a name="innov">innovation</a></h2>
 
@@ -334,7 +348,7 @@ voir <a href="finance">financement</a>
 
 <h2><a name="manag">management</a></h2>
 
-voir <a href="#gestion">gestion</a>
+Voir <a href="#gestion">gestion</a>
 
 <strong>nombre d’occurrences</strong> : 6
 
@@ -348,8 +362,14 @@ voir <a href="#gestion">gestion</a>
 
 <strong>analyse</strong> : Au sein du projet Idex, le terme de « marque » est clairement emprunté au vocabulaire de l’entreprise. Or une communauté universitaire ne saurait se fonder sur une communauté « fédérée » autour d’une marque : nous n’attendons pas d’un établissement public (tel qu’une université) qu’il emprunte les codes du secteur privé. Laissons ces stratégies de branding identitaires et autres « cartes de fidélité » à des services marketing en manque d’imagination. 
 
+<h2><a name="meilleur">meilleur</a></h2>
+
+Voir <a href="excellence">excellence</a>
+
+<strong>nombre d’occurrences :</strong> 3
 
 <h2><a name="offre">offre</a></h2>
+
 <strong>nombre d’occurrences :</strong> 33
 
 <strong>dans l'Idex :</strong> « une offre de Licence amenant chaque étudiant au meilleur niveau de formation en fonction de ses talents, grâce à des parcours renforcés et exigeants. », p. 17.
@@ -397,6 +417,18 @@ voir <a href="#gestion">gestion</a>
 
 <strong>analyse</strong> : Machisme ou virilité augmentée de l’Idex,  « implémentant » (inséminant) sans défaillir « les communautés concernées ». Ce projet est « sexy » (pour notre bien à toutes et tous), à moins que ce ne soit le viol par « l’excellence » ! 
 
+<h2><a name="stand">standards internationaux</a></h2>
+
+Voir <a href="#classem">classements</a>.
+
+<strong>nombre d’occurrences </strong>: 1
+
+<h2><a name="start-up">start-up</a></h2>
+
+Voir <a href="#innov">innovation</a>.
+
+<strong>nombre d’occurrences </strong>: 3
+
 <h2><a name="strat">stratégie</a></h2>
 
 <strong>nombre d’occurrences </strong>: 29
@@ -419,7 +451,7 @@ voir <a href="#gestion">gestion</a>
 
 <h2><a name="talents">talents</a></h2>
 
-voir <a href="excellence">excellence</a>
+Voir <a href="#excellence">excellence</a>
 
 <strong>nombre d'occurrences :</strong> 11
 
@@ -435,7 +467,7 @@ voir <a href="excellence">excellence</a>
 
 <h2><a name="transversalite">transversalité</a></h2>
 
-voir <a href="transfert">transfert</a>
+Voir <a href="#transfert">transfert</a>
 
 <strong>nombre d'occurrences :</strong> 2
 
