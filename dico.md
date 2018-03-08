@@ -11,7 +11,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#expert">expert / expertise</a> | <a href="#excellence">excellence</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#digital">digital</a> | <a href="#dynam">dynamique</a> | <a href="#expert">expert / expertise</a> | <a href="#excellence">excellence</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
 
 en supplément pépite-bonus : <a href="#accro">le guide des acronymes</a>
 
@@ -152,11 +152,24 @@ nombre d’occurrences : 2
 
 <strong>analyse</strong> : L’Idex associe comme souvent un terme utilisé en entreprise au domaine de la recherche. Or, une entreprise répond d’abord à des exigences stratégiques et commerciales. Nous militons contre la marchandisation du savoir, de la connaissance et donc du travail de recherche. Mais le terme en apparence savant (latin) de consortium est aussi un langage de la totalité qui gomme les différences d’opinions, de visions, au projet d’un but a priori unique. C’est aussi une manière de dessiner une entité dominante en gommant les individualités (et donc leur biais, leurs intérêts personnels) qui sont décisionnaires dans celle-ci.
 
+<h2><a name="digital">digital</a></h2>
+
+<strong>nombre d’occurrences</strong> : 2
+
+<strong>dans l'Idex :</strong> « Transformation digitale – L’enjeu est d’articuler les travaux des spécialistes de réseaux, d’algorithmique, d'intelligence artificielle et de science des données, de calcul haute performance, des sciences de l’apprentissage et de l’étude des réseaux sociaux », p. 9.
+
+<strong>définition du dico</strong> :« Relatif au doigt; qui fait partie du doigt. »
+
+<strong>analyse</strong> : 
+1. Tu le vois mon doigt ?!
+2. Un whisky d’abord ?
+
+
 <h2><a name="dynam">dynamique</a></h2>
 
 <strong>nombre d’occurrences</strong> : 13
 
-<strong>dans l'Idex :</strong> : « Ainsi, en s’appuyant sur la dynamique d’excellence déployée et la diffusion des bonnes pratiques, l’Université de Toulouse peut ambitionner d’obtenir la labellisation Développement Durable/ Responsabilité Sociétale à l’horizon de 2021. », p. 34 ; « Nous sommes convaincus que l’attribution d’un Label IDEX conquis collectivement sera une dynamique décisive pour la construction de notre avenir commun. », p. 51.
+<strong>dans l'Idex :</strong> « Ainsi, en s’appuyant sur la dynamique d’excellence déployée et la diffusion des bonnes pratiques, l’Université de Toulouse peut ambitionner d’obtenir la labellisation Développement Durable/ Responsabilité Sociétale à l’horizon de 2021. », p. 34 ; « Nous sommes convaincus que l’attribution d’un Label IDEX conquis collectivement sera une dynamique décisive pour la construction de notre avenir commun. », p. 51.
 
 <strong>définition du dico</strong> : dans l’étude du mouvement, « Partie de la mécanique qui étudie les relations entre les forces et les mouvements qu’elles produisent. »
 
