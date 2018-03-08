@@ -11,7 +11,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comitepilotage">comité de pilotage</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#continuum">continuum</a> | <a href="#defi">défi</a> | <a href="#digital">digital</a> | <a href="#dynam">dynamique</a> | <a href="#emergence">émergence</a> | <a href="#excellence"> | <a href="#expert">expert / expertise</a> | excellence</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#forces">forces</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comitepilotage">comité de pilotage</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#continuum">continuum</a> | <a href="#defi">défi</a> | <a href="#digital">digital</a> | <a href="#dynam">dynamique</a> | <a href="#emergence">émergence</a> | <a href="#excellence">excellence</a> | <a href="#expert">expert / expertise</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#forces">forces</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#integ">intégration</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
 
 en supplément pépite-bonus : <a href="#lexiqueacro">le guide des acronymes</a>
 
@@ -259,6 +259,8 @@ voir <a href="integration">intégration</a>
 
 <h2><a name="forces">forces</a></h2>
 
+Dites parfois "Forces-Émergences-Pépites".
+
 voir <a href="pepite">pépite-écrin</a>
 
 <strong>nombre d’occurrences :</strong> 31
@@ -282,6 +284,16 @@ voir <a href="pepite">pépite-écrin</a>
 <strong>définition du dico</strong> : « Introduire du neuf dans quelque chose qui a un caractère bien établi. Être le premier à faire, à utiliser quelque chose. »   
 
 <strong>analyse</strong> : Il semble de plus en plus difficile de penser un monde où l’innovation ne serait pas perçue immédiatement comme une valeur positive. Pourtant, si l’on entend l’innovation comme la mise au secret (privatisation) d’une invention (Pierre-Damien Huyghe), celle-ci pose des enjeux de spoliation et d’appropriation à l’endroit de la société – qui n’a pour seul choix que de consommer ses applications et productions. La recherche n’a pas pour idéal d’innover, mais d’émettre des hypothèses dont la qualité première n’est pas la nouveauté, mais la pertinence. Il s’agit au fond de penser des modalités d’être au monde, avec autrui. C’est d’abord un questionnement et ses conditions qui occupent les chercheurs, plutôt que la conversion mercantile de réponses prêtes-à-médiatiser, prêtes-à-consommer.
+
+<h2><a name="integ">intégration / démarche d’intégration / université intégrée</a></h2>
+
+<strong>nombre d’occurrences :</strong> 34
+
+<strong>dans l'Idex :</strong> « Un des intérêts majeurs de la création de l’UT réside dans l’intégration dans un même établissement de compétences en matière de sciences, technologie, ingénierie, santé, arts, humanités et sciences sociales. »,  p. 14 ; « L’UT est fondée sur l’intégration étroite de quatre établissements au sein d’une structure juridique nouvelle et expérimentale, dans laquelle les organismes de recherche sont associés à la gouvernance. », p. 33.
+
+<strong>définition du dico</strong> : « Action d'incorporer un ou plusieurs éléments étrangers à un ensemble. »
+
+<strong>analyse</strong> : Intégrer, fusionner, converger… le lexique de la fusion est toujours le même et construit un imaginaire où les barrières tombent… En réalité ce discours participe de l’effacement de certaines entités qui vont devenir minoritaires et parfaitement effaçables dans ce grand tout dédié à l’ingénierie (comme cela est avancé à d’autres endroits du texte ; mais bien à distance des envolées lyriques sur la convergence… des buts).
 
 <h2><a name="internat">international</a></h2>
 
