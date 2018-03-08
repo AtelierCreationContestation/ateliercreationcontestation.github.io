@@ -11,7 +11,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#capital">capitaliser</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#capital">capitaliser</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
 
 en supplément pépite-bonus : <a href="#accro">le guide des acronymes</a>
 
@@ -94,6 +94,16 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>définition du dico</strong> : <a href="https://fr.wikipedia.org/wiki/Enseignant-chercheur">la page Wikipédia « enseignant-chercheur »</a> propose un récapitulatif des textes de loi. 
 
 <strong>analyse</strong> : À l’origine, le statut d’enseignant-chercheur se définit par le partage de l’activité travaillée entre enseignement et recherche - sachant que la recherche de l’enseignant/e nourrit logiquement son enseignement, et réciproquement. Dans les faits, ces deux temps sont de plus en plus grignotés par des tâches administratives compensées par des décharges horaires insuffisantes au regard des temps travaillés effectifs et de l’importance des tâches associées. Dès lors, on voit que ce statut subit une nouvelle attaque lorsque émerge une classe spéciale de chercheurs/ses qui aura un droit aménagé à la recherche – alors que ce droit est théoriquement celui de tout/e enseignant/e-chercheur/se. S’il faut rentrer dans les axes décrits p. 9 du projet Idex, qui aura encore ce précieux droit à faire de la recherche ? 
+
+<h2><a name="cible">cible / ciblée</a></h2>
+
+<strong>nombre d’occurrences :</strong> 31
+
+<strong>dans l'Idex :</strong> « L’Université cible a pour ambition un rayonnement international lui permettant d’être attractive dans un environnement académique concurrentiel, visible dans les principaux classements internationaux, et d'être intégrée aux réseaux européens et internationaux »,  p. 24. 
+
+<strong>définition du dico</strong> : « Objectif sur lequel on tire avec une arme (objet, personne). »  ; « But, objectif que l’on veut atteindre. » 
+
+<strong>analyse</strong> : Ici c’est l'université qui est (une ?) cible. Mais la cible de quoi ? On observe ici une confusion entre des buts (des valeurs communes ?) et l’objet du projet qui devient un but en soi. Mais, en l’absence de valeurs clairement énoncées, l’université est ici un signifiant vide que l’on peut remplir du <em>bullshit</em> que l’on souhaite. Issu du domaine militaire et renvoyant désormais au champ du <em>marketing</em>, le terme de « cible » fait de nous de simples usagers auxquels adresser des flèches. Pourrait-on enfin être considéré/e/s autrement ? 
 
 <h2><a name="classem">classement</a></h2>
 
