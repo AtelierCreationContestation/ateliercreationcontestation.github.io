@@ -5,12 +5,13 @@ title: Le dico du bullshit
 
 EN COURS DE RÉDACTION : le dico du bullshit ou <em>Bullshidex</em> > tout pour comprendre comment tu es bullshité par le projet de fusion + idex !
 
-Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté. 
+Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté.
+
 <a href="../aproposbullshidex/">Pour en savoir plus sur le Bullshidex...</a>
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#finance">finance</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
 <!--fin de la liste complète --> 
 
 <h2><a name="accelerer">accélérer</a></h2>
@@ -22,6 +23,10 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 <strong>définition du dico</strong> :« Rendre plus rapide un mouvement ou  un développement en cours. »
 
 <strong>analyse</strong> : L’accélération est synergique à la logique de compétition : « les évolutions  de l’université » ici pointées par l’Idex, à l’échelle de la globalisation néo-libérale, visent un formatage croissant au détriment de la singularité et de l’indépendance de la recherche. Hartmut Rosa analyse l’aliénation (de l’individu, de la société, etc.) comme résultant de ce processus d’accélération (<em>Aliénation et accélération. Vers une théorie critique de la modernité tardive</em>, 2012). On ne sait pas où on va, mais on y va, vite !
+
+<h2><a name="accroi">accroître</a></h2>
+<a href="#accelerer">voir accélérer</a>
+nombre d'occurrences : 8
 
 <h2><a name="agile">agile</a></h2>
 
@@ -41,6 +46,10 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 <strong>définition du dico</strong> : « Recherche immodérée de la domination et des honneurs ».
 
 <strong>analyse</strong> : L’UT se lance-telle dans une recherche immodérée de domination et d’honneurs au niveau international ? L'ambition qui nous paraît plus juste serait une recherche immodérée de l'égalité dans l'accès au savoir, de l’épanouissement de chacun, et de partage autour de projets indépendamment d’un souci de rentabilité.
+
+<h2><a name="amplifier">amplifier</a></h2>
+<a href="#accelerer">voir accélérer</a>
+nombre d’occurrences : 5
 
 
 <h2><a name="attrac">attractivité / gain d’attractivité / politique d’attractivité</a></h2>  
