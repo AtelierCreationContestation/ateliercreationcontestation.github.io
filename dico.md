@@ -11,7 +11,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#capital">capitaliser</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#expert">expert / expertise</a> | <a href="#excellence">excellence</a> <a href="#excellence">excellence</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#capital">capitaliser</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#expert">expert / expertise</a> | <a href="#excellence">excellence</a> <a href="#excellence">excellence</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
 
 en supplément pépite-bonus : <a href="#accro">le guide des acronymes</a>
 
@@ -283,6 +283,16 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>définition du dico</strong> : « Art d'organiser et de conduire un ensemble d'opérations militaires prévisionnelles et de coordonner l'action des forces armées sur le théâtre des opérations jusqu'au moment où elles sont en contact avec l'ennemi. » 
 
 <strong>analyse</strong> : La finalité de la stratégie est le contact (militaire) avec l’ennemi. Dès lors qu’il se donne pour vocation à « rayonner » sur un théâtre des opérations mondialisé, le projet Idex pose la question du déplacement d’un vocable militaire à l’endroit de l’enseignement et de la recherche. Or la compétition stratégique n’est pas forcément un idéal humainement soutenable, en tant qu’elle a pour objectif de dégrader symboliquement les laissé/e/s pour compte. Dans son essai L’invention du quotidien, le philosophe Michel de Certeau (1980) opposait la notion de « stratégie » (verticale, guerrière) à celle de « tactique » (horizontale, subversive) : l’université n’est pas une entreprise, et rien n'autorise ses représentant/e/s à en singer les dérives. 
+
+<h2><a name="succes">succès</a></h2>
+
+<strong>nombre d'occurrences :</strong> 6
+
+<strong>dans l'Idex :</strong> « Un Directeur est nommé pour chaque axe stratégique parmi les membres de la mission. Il anime des chantiers de réflexion sur le mode de ceux expérimentés avec succès depuis 10 ans par le RTRA Sciences et Technologies pour l’Aéronautique et l‘Espace. », p. 16.
+
+<strong>définition du dico</strong> : « Résultat (favorable ou défavorable) d'une entreprise, d'un événement, d'une situation. »
+
+<strong>analyse</strong> : Ce terme est utilisé à de nombreuses reprises dans le texte et est appuyé par des exemples. Cependant, ces exemples ne sont que brièvement cités sans être réellement explicités et sont évoqués seulement des pseudos-résultats, à la limite de l’énigme. Qu’est ce que l’on appelle succès ? Selon qui ? 
 
 <h2><a name="transfo">transformation</a></h2>
 
