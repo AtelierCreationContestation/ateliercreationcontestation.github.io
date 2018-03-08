@@ -11,9 +11,9 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comitepilotage">comité de pilotage</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#digital">digital</a> | <a href="#dynam">dynamique</a> | <a href="#expert">expert / expertise</a> | <a href="#excellence">excellence</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#axestrat">axe stratégique</a> | <a href="#business">business</a> | <a href="#capital">capitaliser</a> | <a href="#catalogue">catalogue</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#cible">cible</a> | <a href="#classem">classement</a> | <a href="#comitepilotage">comité de pilotage</a> | <a href="#comp">compétitivité</a> | <a href="#consort">consortium</a> | <a href="#defi">défi</a> | <a href="#digital">digital</a> | <a href="#dynam">dynamique</a> | <a href="#emergence">émergence</a> | <a href="#expert">expert / expertise</a> | <a href="#excellence">excellence</a> | <a href="#expert">expertise</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#robustesse">robustesse</a> | <a href="#strat">stratégie</a> | <a href="#succes">succès</a> | <a href="#transfo">transformation</a>
 
-en supplément pépite-bonus : <a href="#accro">le guide des acronymes</a>
+en supplément pépite-bonus : <a href="#lexiqueacro">le guide des acronymes</a>
 
 <!--fin de la liste complète --> 
 
@@ -28,7 +28,9 @@ en supplément pépite-bonus : <a href="#accro">le guide des acronymes</a>
 <strong>analyse</strong> : L’accélération est synergique à la logique de compétition : « les évolutions  de l’université » ici pointées par l’Idex, à l’échelle de la globalisation néo-libérale, visent un formatage croissant au détriment de la singularité et de l’indépendance de la recherche. Hartmut Rosa analyse l’aliénation (de l’individu, de la société, etc.) comme résultant de ce processus d’accélération (<em>Aliénation et accélération. Vers une théorie critique de la modernité tardive</em>, 2012). On ne sait pas où on va, mais on y va, vite !
 
 <h2><a name="accroi">accroître</a></h2>
+
 <a href="#accelerer">voir accélérer</a>
+
 nombre d'occurrences : 8
 
 <h2><a name="agile">agile</a></h2>
@@ -42,6 +44,7 @@ nombre d'occurrences : 8
 <strong>analyse</strong> : Le terme agile vient aussi d’une culture web. Elle désigne, dans le développement web, une philosophie de souplesse et d’adaptabilité pour un client (voir le <a href="http://agilemanifesto.org/principles.html">Agile Manifesto</a>). Le <em>Agile Manifesto</em> parle de mettre en place la compétitivité d’un client. ( « <em>Agile processes harness change for the customer's competitive advantage</em> »). Si l’intention de travailler sur des durées réduites, avec réactivité, peut s’entendre, on peut s’inquiéter de ce que le projet de fusion pose cette exigence d’agilité à l’endroit de l’offre de formation. Une maquette d’enseignement a-t-elle vocation à changer au gré des « innovations » voulues par les un/es et les autres ? 
 
 <h2><a name="ambi">ambition</a></h2>
+
 <strong>nombre d’occurrences :</strong> 24
 
 <strong>dans l'Idex :</strong> « L’Université cible a pour ambition un rayonnement international lui permettant d’être attractive dans un environnement académique concurrentiel, visible dans les principaux classements internationaux, et d'être intégrée aux réseaux européens et internationaux », p. 24.
@@ -51,7 +54,9 @@ nombre d'occurrences : 8
 <strong>analyse</strong> : L’UT se lance-telle dans une recherche immodérée de domination et d’honneurs au niveau international ? L'ambition qui nous paraît plus juste serait une recherche immodérée de l'égalité dans l'accès au savoir, de l’épanouissement de chacun, et de partage autour de projets indépendamment d’un souci de rentabilité.
 
 <h2><a name="amplifier">amplifier</a></h2>
+
 <a href="#accelerer">voir accélérer</a>
+
 nombre d’occurrences : 5
 
 
@@ -85,7 +90,9 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>analyse</strong> : Mis en place dans le but d’orienter les recherches menées (Master, Doctorat et recherches larges), ces axes correspondent à ceux du Cercle Stratégique des Industries de Toulouse, dont on retrouve la participation au travail de l’EDT. Ils définissent l’attribution du budget Idex en priorité sur le reste (soit 80% du budget réservé). La personnalisation vantée par le biais de ces axes aurait plutôt tendance à dé-personnifier les projets. Cela permettrait toujours de s'impliquer plus “profondément” dans une relation avec lesdits « partenaires socio-économiques »,  soit les entreprises à rayonnement international - au final, on restreint la réflexion à l’économie à court et moyen termes. Sur 6 axes, on n’en compte qu’un seul dédié aux sciences humaines, appelé « Patrimoines, innovations/création ». On remarquera l’utilisation judicieuse du SLACHEUH. Et il serait trop long de citer tous les autres.  
 
 <h2><a name="business">business</a></h2>
+
 voir <a href="capital">capitaliser</a>
+
 nombre d’occurrences : 3
 
 
@@ -100,7 +107,9 @@ nombre d’occurrences : 3
 <strong>analyse</strong> : Le label Idex correspond à deux grands objectifs de l'UT : le rayonnement de l'excellence et les stratégies financières. L’un est au service de l’autre dans une chaîne sans fin : exceller pour rayonner, rayonner pour exceller. Capitaliser sur le savoir, c’est placer la valeur de celui-ci dans sa capacité à créer de la valeur monétaire. N’y a-t-il pas de savoir qui puisse s’extraire de ce circuit de la valeur captée par le capitalisme ?
 
 <h2><a name="catalogue">catalogue</a></h2>
-catalogue > voir <a href="offre">offre</a>
+
+voir <a href="offre">offre</a>
+
 nombre d’occurrences : 2
 
 <h2><a name="cherchenseigne">chercheur-enseignant</a></h2>
@@ -156,6 +165,16 @@ nombre d’occurrences : 2
 
 <strong>analyse</strong> : L’Idex associe comme souvent un terme utilisé en entreprise au domaine de la recherche. Or, une entreprise répond d’abord à des exigences stratégiques et commerciales. Nous militons contre la marchandisation du savoir, de la connaissance et donc du travail de recherche. Mais le terme en apparence savant (latin) de consortium est aussi un langage de la totalité qui gomme les différences d’opinions, de visions, au projet d’un but a priori unique. C’est aussi une manière de dessiner une entité dominante en gommant les individualités (et donc leur biais, leurs intérêts personnels) qui sont décisionnaires dans celle-ci.
 
+<h2><a name="defi">défi</a></h2>
+
+<strong>nombre d’occurrences</strong> : 5
+
+<strong>dans l'Idex :</strong> « Dans le domaine scientifique, l’UT a défini, en collaboration avec les organismes de recherche, ses axes stratégiques pour la formation et la recherche, formulés sous forme de 6 défis sociétaux. »,  p. 9.
+
+<strong>définition du dico</strong> : « Action de provoquer quelqu’un en combat singulier, à une compétition. » 
+
+<strong>analyse</strong> : Tous les axes stratégiques sont un défi à un moment ou un autre dans leur description, sauf “patrimoines, innovation/création”. Il y a un doux sens de l’ironie dans cette présentation. À moins qu’il ne s’agisse d’un oubli ? (oups !)
+
 <h2><a name="digital">digital</a></h2>
 
 <strong>nombre d’occurrences</strong> : 2
@@ -178,6 +197,12 @@ nombre d’occurrences : 2
 <strong>définition du dico</strong> : dans l’étude du mouvement, « Partie de la mécanique qui étudie les relations entre les forces et les mouvements qu’elles produisent. »
 
 <strong>analyse</strong> : La profusion du terme « dynamique » au sein du projet Idex sert différentes ambitions et est associé aux performances régionales, aux changements du projet UNITI jusqu’à l’aboutissement du projet Idex compris comme la source d’un mouvement collectif massif, unilatéral et inévitable qui produit et justifie les évolutions attendues : autrement dit, une injonction. On nous parle de dynamisme comme si l’université de Toulouse s’inscrivait dans un perpétuel changement qu’il fallait attaper en cours de route pour arriver à une finalité floue. La dynamique est plutôt une dynamite puisque ce terme n’entend rien d’autre que l’attribution du label d’excellence pour une université plus « attractive » et rentable.
+
+<h2><a name="emergence">émergences</a></h2>
+
+voir <a href="pepite">pépite-écrin</a>
+
+<strong>nombre d’occurrences</strong> : 4
 
 <h2><a name="entre">entrepreneur / entrepreunariat</a></h2>
 
@@ -349,26 +374,46 @@ nombre d’occurrences : 2
 
 <strong>analyse</strong> : Changer de caractère, de valeurs, se transformer, se métamorphoser, muter ! Ils sont prêts à TOUT pour le rang mondial.
 
-<h2><a name="transfo">Lexique des acronymes :</a></h2>
+<h2><a name="lexiqueacro">Lexique des acronymes :</a></h2>
+
 <strong>ARWU</strong> : Academic Ranking of World Universities (classement Shanghai)
+
 <strong>CAS</strong> : Conseil d’Administration Stratégique
 Collège = Université
+
 <strong>COM</strong> : Contrat d’Objectifs et de Moyens
+
 <strong>COMEX</strong> : Comité Exécutif = bureau qui réunit les directeurs des Collèges et le vice-président Idex
+
 <strong>COMUE</strong> : Communauté d’Université d’Établissements (formée en 2013 suite au travail de l’Université fédérale).
+
 <strong>COPIL</strong> : Comité de pilotage = 10 représentants de l’UT + 1 représentant par organisme de recherche ou assimilé
+
 <strong>COSA</strong> : Conseil d’Orientation Stratégique et Académique = 16 personnalités extérieures à forte proportion internationale
+
 <strong>EDT</strong> : École des Docteurs de Toulouse
+
 <strong>FEP</strong> : Force-Émergence-Pépites
+
 <strong>FUN</strong> : France Université Numérique = plate-forme numérique permettant la diffusion des cours en ligne ouverts et massifs
+
 <strong>INP</strong> : Institut National Polytechnique
+
 <strong>INSA</strong> : Institut National des Sciences Appliquées
+
 <strong>LABEX</strong> (néologisme) : Label d’excellence (il y en a 7 à l’heure actuelle : 2 dans les domaines des sciences de la vie et de la santé, 3 des sciences humaines et sociales, 1 des nanotechnologies et 1 des sciences numériques et mathématiques.
+
 <strong>MOOC</strong> : Massive Open Online Course = cours ouverts et massifs en ligne pour une formation à distance
+
 <strong>PIA</strong> : Programme d’Investissements d’Avenir
+
 <strong>RH</strong> : Ressources Humaines
+
 <strong>SIUP</strong> : Service inter-Universitaire de Pédagogie
+
 <strong>UNITI 2018</strong>, suite au projet du même nom en 2012 et 2013
+
 <strong>UT</strong> : Université de Toulouse, soit Université cible. 
+
 <strong>VP</strong> : Vice-Président
 
