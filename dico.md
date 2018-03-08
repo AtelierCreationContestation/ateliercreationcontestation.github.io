@@ -11,7 +11,7 @@ Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
+<a href="#accelerer">accélérer</a> | <a href="#accroi">accroître</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#amplifier">amplifier</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#capital">capitaliser</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#finance">financement</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
 <!--fin de la liste complète --> 
 
 <h2><a name="accelerer">accélérer</a></h2>
@@ -63,6 +63,7 @@ nombre d’occurrences : 5
 Les moyens de l’Idex sont-ils mis en place pour draguer les « talents » internationaux ? Il  nous semble plus intéressant de faire rayonner l’Université sur la base du travail effectué par le personnels et les étudiants, et de leur initiatives, plutôt que sur des « noms reconnus » que l’on aurait achetés.
 
 <h2><a name="auto">autonomie</a></h2>
+
 <strong>nombre d’occurrences</strong> : 5
 
 <strong>dans l'Idex :</strong> « les Collèges composant l’UT disposent d’une large autonomie pour mettre en œuvre les politiques qui déclinent la stratégie centrale », p. 11. 
@@ -71,6 +72,16 @@ Les moyens de l’Idex sont-ils mis en place pour draguer les « talents » inte
 
 <strong>analyse</strong> : Quand on voit la composition des 7 Collèges prévus (voir p. 40-41 du projet), qui sont pour 5 au moins des entités ancrées dans le champ des sciences dites « dures », on se demande de quelle autonomie on parle, sans même parler de l’inclusion de « personnalités extérieures »  (du secteur privé ?) au niveau de la « gouvernance » globale (p. 9). Être autonome et être libre, indépendant, sont équivalents dans la définition du dictionnaire : mais le seront-ils dans un environnement où l’on pourra en apparence proposer les projets que l’on veut, mais où ceux-ci seront illisibles, car en dehors de grands axes décidés de manière autoritaire et restrictive ? (voir p. 9).
 L’université est déjà frappée par cet impératif d’autonomie depuis la loi Pécresse. On voit à présent que cette autonomie de gestion a conduit à la précarité, lorsque des Universités à moyens insuffisants passent sous la tutelle du rectorat, au prétexte de leur gestion inadéquate.
+
+<h2><a name="capital">capitaliser</a></h2>
+
+<strong>nombre d’occurrences</strong> : nombre d’occurrences : 4
+
+<strong>dans l'Idex :</strong> « Dans l’Idex : L’ambition consiste à hisser l’ensemble de la recherche au niveau mondial dans ses domaines d’excellence en capitalisant sur ses Labex (Laboratoires d'Excellence), sur l’ancrage des organismes de recherche et en valorisant les spécificités de notre métropole. », p. 8.
+
+<strong>définition du dico</strong> : « Accumuler (les intérêts ou les bénéfices) de manière à former ou à grossir un capital, et à les rendre productifs à leur tour ».
+
+<strong>analyse</strong> : Le label Idex correspond à deux grands objectifs de l'UT : le rayonnement de l'excellence et les stratégies financières. L’un est au service de l’autre dans une chaîne sans fin : exceller pour rayonner, rayonner pour exceller. Capitaliser sur le savoir, c’est placer la valeur de celui-ci dans sa capacité à créer de la valeur monétaire. N’y a-t-il pas de savoir qui puisse s’extraire de ce circuit de la valeur captée par le capitalisme ?
 
 <h2><a name="cherchenseigne">chercheur-enseignant</a></h2>
 <strong>nombre d’occurrences :</strong> 1
