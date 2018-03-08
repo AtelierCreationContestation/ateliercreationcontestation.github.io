@@ -23,10 +23,13 @@ Ce programme évoluera au fil de la semaine et sera complété au fur et à mesu
 <h2>Jeudi 8 mars</h2>
 <h3>9h00</h3>
 On se retrouve comme mercredi matin à 9h dans le hall du bâtiment accueil pour reprendre les ateliers.
+Edit à 10h : malgré les différences incertitudes, nous avons bien réinvesti notre atelier dans le bâtiment Accueil. La cabane est également en cours de fabrication !
 
 JOURNÉE DES DROITS DE LA FEMME (et des afab en général, d'ailleurs !)
-Une manifestation partira à midi de l'université pour rejoindre le centre-ville (information à confirmer).
-Une manifestation (confirmée) se déroulera à 12h à Arnaud Bernard.
+Rendez-vous à la manifestation (confirmée) qui se déroulera à 12h à Arnaud Bernard.
+
+Le programme de l'après-midi n'est pas encore déterminé mais nous tâcherons de poursuivre l'atelier ! Lieu à confirmer.
+
 Une soirée féministe est prévue à la Bourse du Travail à 20h.
 
 <h2>Mercredi 7 mars</h2>

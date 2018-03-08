@@ -5,25 +5,27 @@ title: Le dico du bullshit
 
 EN COURS DE RÉDACTION : le dico du bullshit ou <em>Bullshidex</em> > tout pour comprendre comment tu es bullshité par le projet de fusion + idex !
 
-Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté.
+Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté. 
+<a href="../aproposbullshidex/"Pour en savoir plus sur le Bullshidex...
 
-<h1>Liste Complète des 21 notices</h1>
+<h1>Notices</h1>
 <a name="retourhaut"></a>
 <a href="#accelerer">accélérer</a> | <a href="#agile">agile</a> | <a href="#ambi">ambition</a> | <a href="#attrac">attractivité</a> | <a href="#auto">autonomie</a> | <a href="#cherchenseigne">chercheur-enseignant</a> | <a href="#classem">classement</a> | <a href="#consort">consortium</a> | <a href="#dynam">dynamique</a> | <a href="#entre">entrepreneur</a> | <a href="#excellence">excellence</a> | <a href="#gouv">gouvernance</a> | <a href="#innov">innovation</a> | <a href="#internat">international</a> | <a href="#label">label</a> | <a href="#marque">marque</a> | <a href="#offre">offre</a> | <a href="#pepite">pépite-écrin</a> | <a href="#pilotage">pilotage</a> | <a href="#rayo">rayonnement</a> | <a href="#strat">stratégie</a> | <a href="#transfo">transformation</a>
 <!--fin de la liste complète --> 
 
 <h2><a name="accelerer">accélérer</a></h2>
 
-<strong>nombre d’occurences :</strong> 4
+<strong>nombre d’occurrences :</strong> 4
 
 <strong>dans l'Idex :</strong> L’Idex «  a vocation à accompagner l’élan transformateur, à faciliter et accélérer les évolutions de l’université nécessaires pour faire face à l’internationalisation du monde de l’enseignement supérieur et de la recherche »,  p. 42.
 
-<strong>définition du dico</strong> :« Rendre plus rapide un mouvement ou  un développement en cours. » 
-synthèse : L’accélération est synergique à la logique de compétition : « les évolutions  de l’université » ici pointées par l’Idex, à l’échelle de la globalisation néo-libérale, visent un formatage croissant au détriment de la singularité et de l’indépendance de la recherche. Hartmut Rosa analyse l’aliénation (de l’individu, de la société, etc.) comme résultant de ce processus d’accélération (<em>Aliénation et accélération. Vers une théorie critique de la modernité tardive</em>, 2012). On ne sait pas où on va, mais on y va, vite !
+<strong>définition du dico</strong> :« Rendre plus rapide un mouvement ou  un développement en cours. »
+
+<strong>analyse</strong> : L’accélération est synergique à la logique de compétition : « les évolutions  de l’université » ici pointées par l’Idex, à l’échelle de la globalisation néo-libérale, visent un formatage croissant au détriment de la singularité et de l’indépendance de la recherche. Hartmut Rosa analyse l’aliénation (de l’individu, de la société, etc.) comme résultant de ce processus d’accélération (<em>Aliénation et accélération. Vers une théorie critique de la modernité tardive</em>, 2012). On ne sait pas où on va, mais on y va, vite !
 
 <h2><a name="agile">agile</a></h2>
 
-<strong>nombre d'occurences</strong> : 1
+<strong>nombre d'occurrences</strong> : 1
 
 <strong>dans l'Idex :</strong> « Rendre l’offre plus lisible, cohérente, agile et attractive à l’international », p. 17. 
 
@@ -32,7 +34,7 @@ synthèse : L’accélération est synergique à la logique de compétition : «
 <strong>analyse</strong> : Le terme agile vient aussi d’une culture web. Elle désigne, dans le développement web, une philosophie de souplesse et d’adaptabilité pour un client (voir le <a href="http://agilemanifesto.org/principles.html">Agile Manifesto</a>). Le <em>Agile Manifesto</em> parle de mettre en place la compétitivité d’un client. ( « <em>Agile processes harness change for the customer's competitive advantage</em> »). Si l’intention de travailler sur des durées réduites, avec réactivité, peut s’entendre, on peut s’inquiéter de ce que le projet de fusion pose cette exigence d’agilité à l’endroit de l’offre de formation. Une maquette d’enseignement a-t-elle vocation à changer au gré des « innovations » voulues par les un/es et les autres ? 
 
 <h2><a name="ambi">ambition</a></h2>
-<strong>nombre d’occurences :</strong> 24
+<strong>nombre d’occurrences :</strong> 24
 
 <strong>dans l'Idex :</strong> « L’Université cible a pour ambition un rayonnement international lui permettant d’être attractive dans un environnement académique concurrentiel, visible dans les principaux classements internationaux, et d'être intégrée aux réseaux européens et internationaux », p. 24.
 
@@ -42,7 +44,7 @@ synthèse : L’accélération est synergique à la logique de compétition : «
 
 
 <h2><a name="attrac">attractivité / gain d’attractivité / politique d’attractivité</a></h2>  
-<strong>nombre d’occurences :</strong> 19
+<strong>nombre d’occurrences :</strong> 19
 
 <strong>dans l'Idex :</strong> « Pour amplifier cette politique d’attractivité, l’UT s’engage à utiliser les moyens de l’IDEX pour co-financer les dispositifs d’aide individuelle visant à attirer des talents internationaux » , p. 26.
 
@@ -52,7 +54,7 @@ synthèse : L’accélération est synergique à la logique de compétition : «
 Les moyens de l’Idex sont-ils mis en place pour draguer les « talents » internationaux ? Il  nous semble plus intéressant de faire rayonner l’Université sur la base du travail effectué par le personnels et les étudiants, et de leur initiatives, plutôt que sur des « noms reconnus » que l’on aurait achetés.
 
 <h2><a name="auto">autonomie</a></h2>
-<strong>nombre d’occurences</strong> : 5
+<strong>nombre d’occurrences</strong> : 5
 
 <strong>dans l'Idex :</strong> « les Collèges composant l’UT disposent d’une large autonomie pour mettre en œuvre les politiques qui déclinent la stratégie centrale », p. 11. 
 
@@ -62,7 +64,7 @@ Les moyens de l’Idex sont-ils mis en place pour draguer les « talents » inte
 L’université est déjà frappée par cet impératif d’autonomie depuis la loi Pécresse. On voit à présent que cette autonomie de gestion a conduit à la précarité, lorsque des Universités à moyens insuffisants passent sous la tutelle du rectorat, au prétexte de leur gestion inadéquate.
 
 <h2><a name="cherchenseigne">chercheur-enseignant</a></h2>
-<strong>nombre d’occurences :</strong> 1
+<strong>nombre d’occurrences :</strong> 1
 
 <strong>dans l'Idex :</strong> L'UT « soutient ses enseignants-chercheurs les plus dynamiques en recherche par la création de statuts temporaires de « chercheurs-enseignants ». [...] Le public visé correspond aux candidats ERC, coordonnateurs de projets internationaux ou créateurs de start-up », p. 26-27.
 
@@ -82,7 +84,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="consort">consortium</a></h2>
 
-<strong>nombre d’occurences</strong> : 30
+<strong>nombre d’occurrences</strong> : 30
 
 <strong>dans l'Idex</strong> : « Deux organismes de recherche essentiels dans le domaine aéronautique et spatial, le CNES et l’ONERA, deviennent aussi membres du consortium tout comme Météo France, établissement public dont le principal centre de recherche se trouve à Toulouse. », p. 5.
 
@@ -92,7 +94,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="dynam">dynamique</a></h2>
 
-<strong>nombre d’occurences</strong> : 13
+<strong>nombre d’occurrences</strong> : 13
 
 <strong>dans l'Idex :</strong> : « Ainsi, en s’appuyant sur la dynamique d’excellence déployée et la diffusion des bonnes pratiques, l’Université de Toulouse peut ambitionner d’obtenir la labellisation Développement Durable/ Responsabilité Sociétale à l’horizon de 2021. », p. 34 ; « Nous sommes convaincus que l’attribution d’un Label IDEX conquis collectivement sera une dynamique décisive pour la construction de notre avenir commun. », p. 51.
 
@@ -102,7 +104,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="entre">entrepreneur / entrepreunariat</a></h2>
 
-<strong>nombre d’occurences</strong> : 34
+<strong>nombre d’occurrences</strong> : 34
 
 <strong>dans l'Idex :</strong> : « Accompagner l’industrie, dans ses enjeux régionaux et internationaux, en s’appuyant sur un socle disciplinaire mieux structuré ouvrant de nouveaux espaces de formations d’ingénieurs, d’ingénieurs entrepreneurs incubés par l’UT, et d’ingénieurs docteurs. », p. 17.
 
@@ -112,7 +114,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="excellence">excellence</a></h2>
 
-<strong>nombre d'occurences</strong> : 27
+<strong>nombre d'occurrences</strong> : 27
 
 <strong>dans l'Idex :</strong> « Cette politique sera en outre mieux focalisée sur l’excellence puisque les choix résulteront du croisement entre les axes stratégiques et le périmètre FEP. », p. 35. 
 
@@ -122,17 +124,17 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="gouv">gouvernance</a></h2>
 
-<strong>nombre d’occurences :</strong> 24
+<strong>nombre d’occurrences :</strong> 24
 
 <strong>dans l'Idex :</strong> « Le modèle de gouvernance choisi est en phase avec les réflexions menées au niveau national pour faire évoluer le cadre institutionnel et faciliter la construction d’universités intégrées. », p. 7.
 
 <strong>définition du dico</strong> : « Diriger un bateau à l'aide d'un gouvernail. Avoir la conduite, l’administration de quelque chose. Diriger quelqu’un ; conduire des hommes ; les mener en usant de son influence ou les régir avec autorité. »   
 
-<strong>analyse</strong> : Dans une société occidentale encore marquée par l’idéal grec du « pouvoir au peuple » (<em>demos cratos</em>), les gouvernements émanent du peuple, sont librement élus, et sont dès lors réfutables. Nous faisons ici l’hypothèse que la « gouvernance » est une négation des gouvernements démocratiques, au sens où celle-ci ne repose pas sur la faculté du peuple à s’exprimer dans l’espace public mais sur des relations de pouvoir entre pairs. À une époque où les « plateformes » (<a href=”http://affordance.typepad.com/"">Ertzscheid</a>, Morozov) du Web (GAFAM) aux <em>boards</em> californiens mobilisent davantage d’usagers que des gouvernements élus, faut-il vraiment que cet idéal économique s’impose dans la recherche ? Comment penser des instances de pouvoir élaborées collectivement et qui n’aient pas pour objectif de <em>piloter</em> autrui ?  
+<strong>analyse</strong> : Dans une société occidentale encore marquée par l’idéal grec du « pouvoir au peuple » (<em>demos cratos</em>), les gouvernements émanent du peuple, sont librement élus, et sont dès lors réfutables. Nous faisons ici l’hypothèse que la « gouvernance » est une négation des gouvernements démocratiques, au sens où celle-ci ne repose pas sur la faculté du peuple à s’exprimer dans l’espace public mais sur des relations de pouvoir entre pairs. À une époque où les « plateformes » (<a href="http://affordance.typepad.com/">Ertzscheid</a>, Morozov) du Web (GAFAM) aux <em>boards</em> californiens mobilisent davantage d’usagers que des gouvernements élus, faut-il vraiment que cet idéal économique s’impose dans la recherche ? Comment penser des instances de pouvoir élaborées collectivement et qui n’aient pas pour objectif de <em>piloter</em> autrui ?  
 
 <h2><a name="innov">innovation</a></h2>
 
-<strong>nombre d’occurences :</strong> 37
+<strong>nombre d’occurrences :</strong> 37
 
 <strong>dans l'Idex :</strong> « Ce plan vise à accroître l’attractivité et le rayonnement international de l’UT et à lui permettre de se démarquer par sa capacité à innover sur la base du résultat de ses recherches vers tous les secteurs socio-économiques. », p. 14.
 
@@ -142,7 +144,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="internat">international</a></h2>
 
-<strong>nombre d’occurences :</strong> 81
+<strong>nombre d’occurrences :</strong> 81
 
 <strong>dans l'Idex :</strong> « Pour concrétiser ce projet, un nouveau cadre institutionnel s’avère indispensable pour établir une gouvernance efficace en capacité d’élaborer une stratégie unique de recherche et formation garantissant le rayonnement international de l’UT. », p. 10.
 
@@ -152,7 +154,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="label">labelisation</a></h2>
 
-<strong>nombre d'occurences :</strong> 69
+<strong>nombre d'occurrences :</strong> 69
 
 <strong>dans l'Idex :</strong> « Allocation of the IDEX label [trad. attribution du label IDEX] » p. 1-55 ; « Depuis l’arrêt de l’IDEX en avril 2016, les établissements fondateurs ont engagé un travail d’analyse pour tirer les enseignements de cet échec et bâtir un projet à même de relancer une dynamique pour reconquérir le label. », p. 50.
 
@@ -163,7 +165,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="marque">marque</a></h2>
 
-<strong>nombre d’occurences</strong> : 5
+<strong>nombre d’occurrences</strong> : 5
 
 <strong>dans l'Idex :</strong> « L’objectif de cette politique Alumni est de fédérer les diplômés de l’UT et les étudiants et doctorants actuels autour d’une communauté et d’un réseau. Elle soutient le rayonnement de la marque UT, favorise l’insertion professionnelle des étudiants et doctorants et permet de développer la FTLV en fidélisant les anciens étudiants. », p. 24.
 
@@ -172,7 +174,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>analyse</strong> : Au sein du projet Idex, le terme de « marque » est clairement emprunté au vocabulaire de l’entreprise. Or une communauté universitaire ne saurait se fonder sur une communauté « fédérée » autour d’une marque : nous n’attendons pas d’un établissement public (tel qu’une université) qu’il emprunte les codes du secteur privé. Laissons ces stratégies de branding identitaires et autres « cartes de fidélité » à des services marketing en manque d’imagination. 
 
 <h2><a name="offre">offre</a></h2>
-<strong>nombre d’occurences :</strong> 33
+<strong>nombre d’occurrences :</strong> 33
 
 <strong>dans l'Idex :</strong> « une offre de Licence amenant chaque étudiant au meilleur niveau de formation en fonction de ses talents, grâce à des parcours renforcés et exigeants. », p. 17.
 
@@ -182,7 +184,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="pepite">pépite-écrin</a></h2>
 
-<strong>nombre d’occurences :</strong> 3
+<strong>nombre d’occurrences :</strong> 3
 
 <strong>dans l'Idex :</strong> « Les Pépites : une ou deux équipes leader(s) du domaine mondialement reconnue(s) à soutenir même s’il s’agit d’un petit nombre de chercheurs.  » p. 15 ;  « Le dispositif PEPITE-ECRIN sert de modèle à l’UT et lui permet de tirer parti de la multi-disciplinarité de ses Collèges et de la double culture université/ingénieurs, par exemple à travers des actions de type Hackaton. », p. 22.
 
@@ -191,7 +193,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 <strong>analyse</strong> : Un peu de poésie dans ce monde brutal ! La Pépite en son Écrin,  telle la perle en son huître, est rare et prestigieuse. Entité perchée au sommet de la pyramide (bijoux de famille, réservoir de généalogie de l’UT ?) , elle monopolise regards émus et mâne sonnante et trébuchante au détriment des chercheurs « pas leaders » (la masse obscure et besogneuse loin des lumières nacrées de l’huître). Et sinon, un coup de genou dans les pépites ? 
 
 <h2><a name="pilotage">pilotage</a></h2>
-<strong>nombre d’occurences</strong> : 4
+<strong>nombre d’occurrences</strong> : 4
 
 <strong>dans l'Idex :</strong> « Le Bureau des Partenariats de l’UT aura en charge le pilotage des partenariats avec les grands groupes industriels (Airbus, Continental, Thalès, etc.) pour leur proposer de construire avec eux nos programmes interdisciplinaires, des laboratoires communs, des chaires thématiques ou des projets européens commun. », p. 21.
 
@@ -201,19 +203,19 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="rayo">rayonnement</a></h2>
 
-<strong>nombre d'occurences</strong> :  15
+<strong>nombre d'occurrences</strong> :  15
 
 <strong>dans l'Idex :</strong> « Ce plan vise à accroître l’attractivité et le rayonnement international de l’UT et à lui permettre de se démarquer par sa capacité à innover sur la base du résultat de ses recherches vers tous les secteurs socio-économiques », p. 14. 
 
 <strong>définition du dico</strong> : « Influence qui se propage à partir d'une source intellectuelle ou morale dont le prestige exerce une grande attraction ». 
 
-<strong>proposition</strong> : Rayonnement s’entend comme prestige ; mais le rayonnement est-il une fin en soi ? Qui s’agit-il d’éblouir ici ? Que porteraient les « rayons » de l’UT fusionnée ? Plutôt que de rayonner, nous proposons de partager, confronter, solliciter, ou comme le dit Marielle Macé, de considérer ce qui est déjà lumineux, ce qui existe plutôt que des choses dont l’existence est déterminée par leur médiation.
+<strong>analyse</strong> : Rayonnement s’entend comme prestige ; mais le rayonnement est-il une fin en soi ? Qui s’agit-il d’éblouir ici ? Que porteraient les « rayons » de l’UT fusionnée ? Plutôt que de rayonner, nous proposons de partager, confronter, solliciter, ou comme le dit Marielle Macé, de considérer ce qui est déjà lumineux, ce qui existe plutôt que des choses dont l’existence est déterminée par leur médiation.
 
 <h2><a name="strat">stratégie</a></h2>
 
-<strong>nombre d’occurences </strong>: 29
+<strong>nombre d’occurrences </strong>: 29
 
-<strong>dans l'Idex :</strong> « Pour concrétiser ce projet, un nouveau cadre institutionnel s’avère indispensable pour établir une gouvernance efficace en capacité d’élaborer une stratégie unique de recherche et formation garantissant le rayonnement international de l’UT. » (p. 10)
+<strong>dans l'Idex :</strong> « Pour concrétiser ce projet, un nouveau cadre institutionnel s’avère indispensable pour établir une gouvernance efficace en capacité d’élaborer une stratégie unique de recherche et formation garantissant le rayonnement international de l’UT. », p. 10.
 
 <strong>définition du dico</strong> :« Art d'organiser et de conduire un ensemble d'opérations militaires prévisionnelles et de coordonner l'action des forces armées sur le théâtre des opérations jusqu'au moment où elles sont en contact avec l'ennemi. » 
 
@@ -221,7 +223,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <h2><a name="transfo">transformation</a></h2>
 
-<strong>nombre d'occurences :</strong> 12 
+<strong>nombre d'occurrences :</strong> 12 
 
 <strong>dans l'Idex :</strong> « L’UT et ses partenaires du consortium s’engagent bien évidemment à ce que les moyens de l’IDEX soient intégralement consacrés aux transformations permettant d’atteindre l’objectif de construction d’une université intégrée de rang mondial. », p. 49.
 
