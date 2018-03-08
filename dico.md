@@ -6,7 +6,7 @@ title: Le dico du bullshit
 EN COURS DE RÉDACTION : le dico du bullshit ou <em>Bullshidex</em> > tout pour comprendre comment tu es bullshité par le projet de fusion + idex !
 
 Le dico a été créé le 7 mars 2018. Il a vocation à être édité, augmenté. 
-<a href="../aproposbullshidex/"Pour en savoir plus sur le Bullshidex...
+<a href="../aproposbullshidex/">Pour en savoir plus sur le Bullshidex...</a>
 
 <h1>Notices</h1>
 <a name="retourhaut"></a>
