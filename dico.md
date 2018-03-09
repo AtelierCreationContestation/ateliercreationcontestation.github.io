@@ -37,7 +37,7 @@ title: Bullshidex
 <a name="retourhaut" style="opacity: 0;"></a>
 <p>
 <a href="#accelerer">accélérer</a> <a href="#accroi">accroître</a> <a href="#agile">agile</a> <a href="#ambi">ambition</a> <a href="#amplifier">amplifier</a> <a href="#attrac">attractivité</a> <a href="#auto">autonomie</a> <a href="#avenir">avenir</a> <a href="#axestrat">axe stratégique</a> <a href="#benchmark">benchmark</a> <a href="#bibliometrie">bibliométrie</a> <a href="#business">business</a> <a href="#capital">capitaliser</a> <a href="#catalogue">catalogue</a> <a href="#cherchenseigne">chercheur-enseignant</a> <a href="#cible">cible</a> <a href="#classem">classement</a> <a href="#comitepilotage">comité de pilotage</a> <a href="#comp">compétitivité</a> <a href="#consort">consortium</a> <a href="#continuum">continuum</a> <a href="#defi">défi</a> <a href="#dvp-dur">développement durable</a> <a href="#digital">digital</a> <a href="#disruptcampus">disrupt campus</a> <a href="#dynam">dynamique</a> <a href="#emergence">émergence</a> <a href="#excellence">excellence</a> <a href="#evaluation">évaluation</a>
-<a href="#expert">expertise</a> <a href="#federer">fédérer</a> <a href="#finance">financement</a> <a href="#forces">forces</a> <a href="#indicateur">indicateur de performance</a> <a href="#gouv">gouvernance</a> <a href="#grand">grand</a> <a href="#innov">innovation</a> <a href="#integ">intégration</a> <a href="#internat">international</a> <a href="#label">label</a> <a href="#manag">management</a> <a href="#marque">marque</a> <a href="#mission">mission</a> <a href="#mobil">mobilité</a> <a href="#modele">modèle national</a> <a href="#mut">mutualisé</a> <a href="#offre">offre</a> <a href="#pass">passerelle</a> <a href="#pepite">pépite-écrin</a> <a href="#perf">performance</a> <a href="#pilotage">pilotage</a> <a href="#rayo">rayonnement</a> <a href="#regroupe">regroupement</a> <a href="#robustesse">robustesse</a> <a href="#stand">standards internationaux</a> <a href="#strat">stratégie</a> <a href="#succes">succès</a> <a href="#transfo">transformation</a> <a href="#transvers">transversalité</a> <a href="#visibilite">visibilité</a></p> 
+<a href="#expert">expertise</a> <a href="#federer">fédérer</a> <a href="#finance">financement</a> <a href="#forces">forces</a> <a href="#indicateur">indicateur de performance</a> <a href="#gouv">gouvernance</a> <a href="#grand">grand</a> <a href="#innov">innovation</a> <a href="#integ">intégration</a> <a href="#internat">international</a> <a href="#label">label</a> <a href="#manag">management</a> <a href="#marque">marque</a> <a href="#mission">mission</a> <a href="#mobil">mobilité</a> <a href="#modele">modèle national</a> <a href="#mut">mutualisé</a> <a href="#offre">offre</a> <a href="#pass">passerelle</a> <a href="#pepite">pépite-écrin</a> <a href="#perf">performance</a> <a href="#pilotage">pilotage</a> <a href="#prio">priorité</a> <a href="#rayo">rayonnement</a> <a href="#regroupe">regroupement</a> <a href="#robustesse">robustesse</a> <a href="#stand">standards internationaux</a> <a href="#strat">stratégie</a> <a href="#succes">succès</a> <a href="#transfert">transfert</a> <a href="#transfo">transformation</a> <a href="#transvers">transversalité</a> <a href="#visibilite">visibilité</a></p> 
 
 
 <p>en supplément pépite-bonus : <a href="#lexiqueacro">le guide des acronymes</a></p>
@@ -643,6 +643,19 @@ En économie : « procédé par lequel on détermine le montant des dépenses et
 </section>
 
 <section>
+<h2><a name="prio">priorité</a></h2>
+<p><strong>nombre d'occurrences</strong> : 18</p>
+
+<p><strong>dans l'Idex :</strong> « Ainsi, l’UT s’engage sur 6 orientations prioritaires dans les quatre premières années du projet. », p. 24.</p>
+
+<p><strong>définition du dico</strong> : « Bénéficiaire d’un droit de priorité. Qui est estimé plus important que toute autre chose. »</p>
+
+<p><strong>analyse</strong> : Si tout devient prioritaire, qui passera devant ?</p> 
+<p>Le problème avec les priorités, c’est qu’elles sont souvent à droite...</p>
+
+</section>
+
+<section>
 <h2><a name="rayo">rayonnement</a></h2>
 
 <p><strong>nombre d'occurrences</strong> :  15</p>
@@ -720,6 +733,17 @@ En économie : « procédé par lequel on détermine le montant des dépenses et
 <p>Voir <a href="#excellence">excellence</a></p>
 
 <p><strong>nombre d'occurrences :</strong> 11</p>
+</section>
+
+<section>
+<h2><a name="transfert">transfert</a></h2>
+<p><strong>nombre d'occurrences :</strong> 6</p>
+
+<p><strong>dans l'Idex :</strong> « L’université cible concentre au niveau central les fonctions d’élaboration des stratégies de formation, de recherche, d’innovation et de transfert, construites en intégrant des orientations de développement international partagées. », p. 38.</p>
+
+<p><strong>définition du dico</strong> : « Déplacement, transport (de personnes ou de choses) d'un lieu à un autre selon des modalités précises. Passage automatique de chacune des pièces à usiner d'un poste de travail au suivant. Mécanisme par lequel un sujet, au cours de la cure, reporte sur le psychanalyste les sentiments d'affection ou d'hostilité qu'il éprouvait primitivement, surtout dans l'enfance, pour ses parents ou ses proches. »</p>
+
+<p><strong>analyse</strong> : Concept majeur de la psychanalyse, le terme de « transfert » renvoie à la temporalité de l’analyse. Mais dès lors que le transfert attendu est celui de « compétences », on observe une étrange hybridation entre ce mécanisme psychique et les attendus d’applications de la recherche à l’endroit du monde industriel, comme si c’était sa seule et unique finalité. Pas sûr qu’on se débarrassera aussi facilement de l’inconscient… </p>
 </section>
 
 <section>
