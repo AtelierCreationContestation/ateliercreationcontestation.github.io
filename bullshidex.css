@@ -108,6 +108,11 @@ body.bullshidex div.details a {
 	text-decoration:underline;
 	}
 
+div.details a {
+	color:#111;
+	text-decoration:underline;
+	}	
+
 
 body.bullshidex div.details h4 {
 	margin-bottom:0.2rem;
