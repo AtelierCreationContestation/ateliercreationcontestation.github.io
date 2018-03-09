@@ -20,6 +20,7 @@ FAUX !
 Se regrouper n’est pas l’assurance de remonter dans ces classements. L’exemple de Strasbourg qui a fusionné dès 2009 est là pour le prouver. Au classement QS 2018, Strasbourg passe de la 260° à la 303°. 
 « De manière générale, à l’exception de l’ENS Lyon, qui progresse de 20 places, les établissements français rétrogradent dans le classement. La faute à un « manque de moyens ». <em>L’Alsace</em> le 10/06/2017.
 </div>
+
 <a href="../quizz-q2">Question suivante</a>
 </section>
 

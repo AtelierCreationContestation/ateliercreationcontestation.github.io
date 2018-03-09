@@ -8,7 +8,7 @@ Teste ton niveau de fusion !
 QUIZZ rapide en 5 questions sur ton niveau de connaissances...
 
 <section>
-<h2>L'offre de formation</h2>
+<h2>4. L'offre de formation</h2>
 
 <p>« L'offre de formation de Licence, Master, Doctorat restera soumise à la réglementation nationale et n'entraînera donc pas d'augmentation des frais d'inscription ni de sélection. »</p>
 <p>P. Rimbault,  La Dépêche 17/02/18</p>
@@ -26,11 +26,7 @@ FAUX !
 
 </div>
 
-<p>Tu as au moins une reponse fausse?</p>
-
-<p>Tu n’es pas prêt pour la fusion ! </p>
-
-<p>Allez, une derniere chance avec <a href="../quizz-bonus">la question bonus…</a></p>
+<a href="../quizz-q5">Question suivante</a>
 </section>
 
 
