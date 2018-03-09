@@ -3,7 +3,7 @@ layout: page
 title: Conférence Ouverte
 ---
 
-<img src="../dismaland.jpg" />
+<img src="../img/dismaland.jpg" />
 <aside>Banksy, <em>Dismaland</em>, Installation, 2015.</aside>
 
 <h2>Arts de résistance : de l’émancipation à la contestation</h2>
