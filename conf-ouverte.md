@@ -4,12 +4,12 @@ title: Conférence Ouverte
 ---
 
 <img src="../img/dismaland.jpg" />
-<aside>Banksy, <em>Dismaland</em>, Installation, 2015.</aside>
+<small>Banksy, <em>Dismaland</em>, Installation, 2015.</small>
 
 <h2>Arts de résistance : de l’émancipation à la contestation</h2>
 
 <h2>Quand ?</h2>
-<p>mercredi 14 entre 12h et 14h</p>
+<p>Le mercredi 14 mars entre 12h et 14h</p>
 
 <h2>Où ?</h2>
 <p>dans le Grand amphi ! (bâtiment Accueil)</p>
@@ -20,7 +20,7 @@ title: Conférence Ouverte
 <h4>Mini-biblio</h4>
 <p>Jean-Marc Lachaud, <em>Art et Aliénation</em>, 2012. </p>
 
-<p>Henri-David Thoreau, <em>Résister, La désobéissance civile, 1849</em>.</p>
+<p>Henri-David Thoreau, <em>Résister, La désobéissance civile</em>, 1849.</p>
 
 <p>Georges Didi-Huberman, <em>Survivance des lucioles</em>, 2009.</p>
 

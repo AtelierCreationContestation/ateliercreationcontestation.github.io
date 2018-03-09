@@ -2,12 +2,16 @@
 layout: page
 title: L'agenda
 ---
-<img src="../dismaland.jpg" />
-<aside>Banksy, <em>Dismaland</em>, Installation, 2015.
 
 Programme soumis à changements réguliers... restez connecté/e/s ! 
 
-<h2>Lundi 13 mars</h2>
+<h2>Mercredi 14 mars</h2>
+
+<h3>12h00-14h00</h3>
+
+<p><a href="../conf-ouverte">Conférence Ouverte</a> Arts de résistance : de l’émancipation à la contestation.</p>
+
+<h2>Lundi 12 mars</h2>
 
 <h3>14h00</h3>
 
