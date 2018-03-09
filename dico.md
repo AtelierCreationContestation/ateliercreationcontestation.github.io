@@ -3,6 +3,8 @@ layout: bullshidex
 title: Bullshidex
 ---
 <article class="page">
+  <h1 class="page-title">#Bullshidex</h1>
+	
 <h2 class="baseline">Déconstruire la novlangue managériale appliquée aux champs de l’enseignement et de la recherche.</h2>
 
 <p class="more"><a href="#">En savoir plus</a></p>
