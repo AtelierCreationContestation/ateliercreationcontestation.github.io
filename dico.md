@@ -408,6 +408,18 @@ En économie : « procédé par lequel on détermine le montant des dépenses et
 </section>
 
 <section>
+<h2><a name="fusion">fusion</a></h2>
+
+<p><strong>nombre d’occurrences :</strong> 7</p>
+
+<p><strong>dans l'Idex :</strong> « Cette donnée était déjà présente dans le projet UNITI élaboré en 2012, qui prévoyait une fusion de tous les établissements porteurs dans un grand établissement, doté d’une gouvernance fortement externalisée. », p. 7.</p>
+
+<p>><strong>définition du dico</strong> : « Passage d'un corps solide à l’état liquide sous l'effet de la chaleur. Combinaison, mélange intime de plusieurs éléments. Opération juridique consistant à regrouper plusieurs sociétés en une seule. » </p>
+
+<p><strong>analyse</strong> : Terme clé du projet Idex, la « fusion » de plusieurs universités toulousaines a logiquement entraîné des fortes résistances liées à l’inquiétude de voir l’université Toulouse – Jean Jaurès (du Mirail !) se « liquéfier » lors de cette opération, c’est-à-dire de perdre son identité en même temps que sa personnalité juridique. Le mélange des champs disciplinaires promis par la fusion semble plutôt prendre la voie d’une subordination de ceux qui seront en mesure de s’afficher comme « excellents » et « compétitifs » : pas sûr que les sciences « molles » en sortent raffermies…  </p> 
+</section>
+
+<section>
 <h2><a name="gain">gain</a></h2>
 
 <p>Voir <a href="#finance">financement</a></p>
