@@ -15,6 +15,25 @@
 	font-weight:700;
 	}
 
+/*flèche de retour en haut*/
+.flecheretour a{
+	position:fixed;
+	border-radius: 80px;
+	background-color: #000;
+	width: 50px;
+	height: 50px;
+	text-decoration: none;
+	color: #fff !important;
+	text-align: center;
+	line-height: 2.5em;
+	left: 20px;
+	top: 20px;
+
+}
+
+.flecheretour a:active{
+	margin: 2px 0 0 2px;
+}
 
 
 body.bullshidex {
