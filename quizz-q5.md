@@ -11,7 +11,7 @@ title: Le Quizz
 <p>« Pour les personnels il n’y a rien à craindre. »
 </p>
 
-<p class="more"><a href="#">Vrai ou Faux ?</a></p>
+<p class="more"><a href="#"></a><a href="#">Vrai ou Faux ?</a></p>
 
 <div class="details" style="display:none">
 FAUX !

@@ -13,7 +13,7 @@ QUIZZ rapide en 5 questions sur ton niveau de connaissances...
 
 <p>Le projet UT-IDEX vise à construire une université de rang mondial qui sera mieux positionnée dans les classements internationaux comme celui de Shangaï.</p>
 
-<p class="more"><a href="#"></a>Vrai ou Faux ?</p>
+<p class="more"><a href="#"></a><a href="#">Vrai ou Faux ?</a></p>
 
 <div class="details" style="display:none">
 FAUX !

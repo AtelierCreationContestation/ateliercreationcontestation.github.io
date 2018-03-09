@@ -10,7 +10,7 @@ title: Le Quizz
 
 <p>« Si on refuse la fusion, on n’aura pas les crédits IDEX. »</p>
 
-<p class="more"><a href="#">Vrai ou Faux ?</a></p>
+<p class="more"><a href="#"></a><a href="#">Vrai ou Faux ?</a></p>
 
 <div class="details" style="display:none">
 FAUX !
