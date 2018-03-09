@@ -3,6 +3,8 @@ layout: page
 title: Le Quizz
 ---
 
+<img src="https://media.giphy.com/media/l0IsGHMSFmw8fqBlS/giphy.gif" />
+
 Teste ton niveau de fusion ! 
 
 QUIZZ rapide en 5 questions sur ton niveau de connaissances...
