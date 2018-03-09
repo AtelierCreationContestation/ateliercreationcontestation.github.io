@@ -37,7 +37,7 @@ title: Bullshidex
 <a name="retourhaut" style="opacity: 0;"></a>
 <p>
 <a href="#accelerer">accélérer</a> <a href="#accroi">accroître</a> <a href="#agile">agile</a> <a href="#ambi">ambition</a> <a href="#amplifier">amplifier</a> <a href="#attrac">attractivité</a> <a href="#auto">autonomie</a> <a href="#avenir">avenir</a> <a href="#axestrat">axe stratégique</a> <a href="#benchmark">benchmark</a> <a href="#bibliometrie">bibliométrie</a> <a href="#business">business</a> <a href="#capital">capitaliser</a> <a href="#catalogue">catalogue</a> <a href="#cherchenseigne">chercheur-enseignant</a> <a href="#cible">cible</a> <a href="#classem">classement</a> <a href="#comitepilotage">comité de pilotage</a> <a href="#comp">compétitivité</a> <a href="#consort">consortium</a> <a href="#continuum">continuum</a> <a href="#defi">défi</a> <a href="#dvp-dur">développement durable</a> <a href="#digital">digital</a> <a href="#disruptcampus">disrupt campus</a> <a href="#dynam">dynamique</a> <a href="#emergence">émergence</a> <a href="#excellence">excellence</a> <a href="#evaluation">évaluation</a>
-<a href="#expert">expertise</a> <a href="#federer">fédérer</a> <a href="#finance">financement</a> <a href="#forces">forces</a> <a href="#indicateur">indicateur de performance</a> <a href="#gouv">gouvernance</a> <a href="#grand">grand</a> <a href="#innov">innovation</a> <a href="#integ">intégration</a> <a href="#internat">international</a> <a href="#label">label</a> <a href="#manag">management</a> <a href="#marque">marque</a> <a href="#mobil">mobilité</a> <a href="#modele">modèle national</a> <a href="#mut">mutualisé</a> <a href="#offre">offre</a> <a href="#pass">passerelle</a> <a href="#pepite">pépite-écrin</a> <a href="#pilotage">pilotage</a> <a href="#rayo">rayonnement</a> <a href="#regroupe">regroupement</a> <a href="#robustesse">robustesse</a> <a href="#stand">standards internationaux</a> <a href="#strat">stratégie</a> <a href="#succes">succès</a> <a href="#transfo">transformation</a> <a href="#transvers">transversalité</a> <a href="#visibilite">visibilité</a></p> 
+<a href="#expert">expertise</a> <a href="#federer">fédérer</a> <a href="#finance">financement</a> <a href="#forces">forces</a> <a href="#indicateur">indicateur de performance</a> <a href="#gouv">gouvernance</a> <a href="#grand">grand</a> <a href="#innov">innovation</a> <a href="#integ">intégration</a> <a href="#internat">international</a> <a href="#label">label</a> <a href="#manag">management</a> <a href="#marque">marque</a> <a href="#mission">mission</a> <a href="#mobil">mobilité</a> <a href="#modele">modèle national</a> <a href="#mut">mutualisé</a> <a href="#offre">offre</a> <a href="#pass">passerelle</a> <a href="#pepite">pépite-écrin</a> <a href="#pilotage">pilotage</a> <a href="#rayo">rayonnement</a> <a href="#regroupe">regroupement</a> <a href="#robustesse">robustesse</a> <a href="#stand">standards internationaux</a> <a href="#strat">stratégie</a> <a href="#succes">succès</a> <a href="#transfo">transformation</a> <a href="#transvers">transversalité</a> <a href="#visibilite">visibilité</a></p> 
 
 
 <p>en supplément pépite-bonus : <a href="#lexiqueacro">le guide des acronymes</a></p>
@@ -558,8 +558,18 @@ En économie : « procédé par lequel on détermine le montant des dépenses et
 <p><strong>définition du dico</strong> : « Aptitude à accomplir ou à subir un certain nombre de changements d'ordre social. Manque de stabilité, de constance. »</p>
 
 <p><strong>analyse</strong> : Le personnel pourra bénéficier d’une « bourse à la mobilité », comme si cette dernière notion était en soi positive. On retombe ici sur les impasses de l’injonction à « l’international », couplée avec « l’accélération » des modes de vie. Peu importe où et pourquoi bouger ; il faut être mobile, <em>agile</em>. On retrouve un même déplacement sémantique dans le champ des transports urbains et de l’entreprise : le « sur-place » est systématiquement disqualifié au profit d’un ailleurs à rejoindre toujours plus vite. </p>
-
 </section>
+
+<section>
+<h2><a name="mission">mission</a></h2>
+<p><strong>nombre d’occurrences :</strong> 13</p>
+
+<p><strong>dans l'Idex :</strong> « L’UT se dote d’une Mission pour l’interdisciplinarité, composée de scientifiques reconnus pour leurs expériences réussies en matière d’interdisciplinarité. », p. 16.</p>
+
+<p><strong>définition du dico</strong> : « Charge, fonction, mandat donnés à quelqu'un d’accomplir une tâche déterminée. Explorations ou recherches entreprises dans divers domaines scientifiques. Action de combat confiée à une personne ou à une formation. But, tâche que l’on considère comme un devoir, voire comme une destinée. »</p>
+
+<p><strong>analyse</strong> Mêlant des connotations administratives, militaires et religieuses, la « mission » est ici – et encore une fois – formulée sous forme indirecte (« L’UT se dote »), comme si l’université était douée d’animisme. La « Mission »  n’existant pas sans des personnes prêtes à partir au combat, espérons pour elles que la majuscule suffira à les motiver.</p>
+</section>	
 
 <section>
 <h2><a name="modele">modèle national</a></h2>
