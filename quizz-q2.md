@@ -19,6 +19,6 @@ C’est un chantage qui est à l’œuvre. Idex et Fusion sont à dissocier. Sur
 Les 25 millions d’euros par an de manque à gagner en raison de l’arrêt de l’Idex sont à mettre en correspondance avec le coût d’une fusion : selon la Cour des Comptes, 30 millions d’euros par an pour l’université de Strasbourg.
 </div>
 
-<a href="../quizz-q3">Question suivante</a>
+<p><a href="../quizz-q3">Question suivante</a></p>
 </section>
 

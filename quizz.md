@@ -22,9 +22,9 @@ Se regrouper n’est pas l’assurance de remonter dans ces classements. L’exe
 « De manière générale, à l’exception de l’ENS Lyon, qui progresse de 20 places, les établissements français rétrogradent dans le classement. La faute à un « manque de moyens ». <em>L’Alsace</em> le 10/06/2017.
 </div>
 
-<a href="../quizz-q2">Question suivante</a>
 </section>
 
+<a href="../quizz-q2">Question suivante</a>
 
 
 
