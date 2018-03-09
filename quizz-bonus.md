@@ -28,7 +28,6 @@ QUIZZ rapide en 5 questions sur ton niveau de connaissances...
 Tout ceci reste à approfondir en lisant <a href="https://drive.google.com/open?id=1uOyr5xVlE9jTRYq1tgc7B79h4PVThtLt">le PDF du projet Idex</a>, en t'aidant du <a href="bullshidex">Bullshidex</a> pour décrypter tout ça, ou encore en consultant la <a href="../sources">page des sources</a>.
 </div>
 
-<a href="../quizz-bonus">Une question bonus pour la route...</a>
 </section>
 
 

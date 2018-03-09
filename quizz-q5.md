@@ -19,6 +19,7 @@ FAUX !
 <p>Nous nous opposons à ce projet parce qu’il ne dit rien de la politique des Ressources Humaines et des  réorganisations (mutualisations, fusions, disparition potentielle de certains services) qui affecteront les postes et les conditions de travail des personnels BIATSS ; ces perspectives n’ont pas été discutées, au mépris de toute concertation.</p> 
 <p>Le terme BIATSS n’apparaît jamais dans le projet.</p>
 
+<a href="../quizz-bonus">Une question bonus pour la route...</a>
 </div>
 </section>
 
