@@ -11,7 +11,7 @@ Voici la liste des ateliers proposés pour le moment, avec différents états d'
 * **Cartographie** des caméras du campus
 * **Préparation de la Conférence Ouverte** (art & contestation, titre à préciser). Raphaël Bergère pilote cet atelier, vous pouvez le contacter à cette adresse : raphael.bergere@hotmail.fr
 * **Une nouvelle journée fac ouverte** en préparation ; contacter fac.ouverte@laposte.net
-* **L'AG de merde** : performance filmée. contacter fac.ouverte@laposte.net
+* **L'AG de merde** : performance filmée, prévue le lundi 13 mars à 14h dans le grand Amphi. contacter fac.ouverte@laposte.net
 * **Rédaction d’un Manifeste** pour les arts plastiques et le design à l’université&nbsp;:  écriture, compilation de textes de grève… 
 * **Mission Reporter** : Valorisation et médiation de l’atelier Création - Contestation ; voir <a href="https://facouverte.wixsite.com/creationenlutte">le site Création en Lutte</a> !
 * **Mission Radio Interviews** : collecte d'extraits sonores autour de la réception de l'idex/projet de fusion et discussion ; contacter fac.ouverte@laposte.net

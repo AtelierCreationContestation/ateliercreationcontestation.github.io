@@ -668,7 +668,7 @@ En économie : « procédé par lequel on détermine le montant des dépenses et
 </section>
 
 <section>
-<h2><a name="transversalite">transversalité</a></h2>
+<h2><a name="transvers">transversalité</a></h2>
 
 <p>Voir <a href="#transfert">transfert</a></p>
 
