@@ -4,7 +4,7 @@ title: Bullshidex
 ---
 <article class="page">
   <h1 class="page-title">#Bullshidex</h1>
-	
+
 <h2 class="baseline">Déconstruire la novlangue managériale appliquée aux champs de l’enseignement et de la recherche.</h2>
 
 <p class="more"><a href="#">En savoir plus</a></p>
@@ -143,6 +143,18 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 
 <p><strong>analyse</strong> : Mis en place dans le but d’orienter les recherches menées (Master, Doctorat et recherches larges), ces axes correspondent à ceux du Cercle Stratégique des Industries de Toulouse, dont on retrouve la participation au travail de l’EDT. Ils définissent l’attribution du budget Idex en priorité sur le reste (soit 80% du budget réservé). La personnalisation vantée par le biais de ces axes aurait plutôt tendance à dé-personnifier les projets. Cela permettrait toujours de s'impliquer plus “profondément” dans une relation avec lesdits « partenaires socio-économiques »,  soit les entreprises à rayonnement international - au final, on restreint la réflexion à l’économie à court et moyen termes. Sur 6 axes, on n’en compte qu’un seul dédié aux sciences humaines, appelé « Patrimoines, innovations/création ». On remarquera l’utilisation judicieuse du SLACHEUH. Et il serait trop long de citer tous les autres.</p> 
 </section> 
+
+<section>
+<h2><a name="business">business</a></h2>
+<p><strong>nombre d’occurrences</strong> : 2</p>
+
+<p><strong>dans l'Idex :</strong> « La stratégie de rayonnement traduit au niveau international les stratégies de recherche et de formation ; la définition des orientations stratégiques est étayée par des éléments de <em>benchmark</em> international et des références aux classements internationaux (notamment <em>ARWU subject ranking </em>2017). », p. 24.</p>
+
+<p><strong>définition du dico</strong> : « En anglais, un <em>benchmark</em> (français : étalon ou repère) est un point de référence servant à effectuer une mesure. Le terme vient du vocabulaire professionnel des géomètres, et désigne à l'origine un repère de nivellement. En gestion, et en économie en général, où l'usage du terme tend à se répandre, le <em>benchmarking</em> est la confection d'un étalonnage pour mesurer diverses performances. »  
+Il est intéressant de mettre en perspective la définition “marketing” du benchmark  (nous avons même à disposition un passionnant dictionnaire spécialisé sur la question : https://www.definitions-marketing.com/definition/benchmark/) : « Le benchmark est, dans un contexte marketing, une démarche d’observation et d’analyse des pratiques marketing utilisées et des performances atteintes par d’autres entreprises. Ces entreprises observées et analysées peuvent appartenir à la concurrence ou être des acteurs pouvant avoir des modes de fonctionnement réutilisables par l’entreprise commanditaire du benchmark. On parle alors de benchmark concurrentiel ou de benchmark sectoriel. Le benchmark peut également avoir trait à l’observation des pratiques managériales ou être orienté vers la mesure et comparaison de performances, comme par exemple dans l’informatique. Le benchmark marketing peut être considéré de manière simpliste comme ‘‘une pêche aux bonnes idées’’. Le benchmark est plus large qu’une pratique de veille concurrentielle dans la mesure où il ne s’intéresse pas forcément qu’aux concurrents ».</p>
+
+<p><strong>analyse</strong> : L’usage de ce terme est parlant — comme tant d’autres — en ce qu’il pointe de façon indéniable un lexique managérial, propice à l’évaluation des « performances »  et suivant la logique « concurrentielle »  (comme en témoigne la pratique du benchmarking). Dans cette stratégie, il s’agit, globalement, d’identifier le maillage concurrentiel, d’en cibler (voir cible/ciblée) les singularités (soit les performances les plus performantes), d’évaluer (de façon la plus objective possible) les degrés de performance (et sélectionner les meilleures, cela va de soi) des concurrents (mais pas que, comme le souligne la définition) pour s’y confronter, s’y comparer, les affronter  pour mieux « évoluer » (en calquant) et mieux « décider » (je fais pareil en mieux). La logique concurrentielle (cachant son nom) est « en marche » (elle l’était déjà) et s’affirme dans ce projet Idex de façon bien explicite (faut-il creuser les termes… car le sens est largement obscurci par ce lexique quelque peu opaque).</p> 
+</section>
 
 <section>
 <h2><a name="business">business</a></h2>
