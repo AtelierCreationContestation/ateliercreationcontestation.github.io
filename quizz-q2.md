@@ -4,11 +4,7 @@ title: Le Quizz
 ---
 
 
-<img src="https://gph.is/2beHSfS" />
-Teste ton niveau de fusion ! 
-
-QUIZZ rapide en 5 questions sur ton niveau de connaissances...
-
+<img src="https://media.giphy.com/media/3o6ZtluVFjf3MSL2Za/giphy.gif" />
 <section>
 <h2>2. Fusion = plus de moyens</h2>
 

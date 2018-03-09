@@ -3,12 +3,7 @@ layout: page
 title: Le Quizz
 ---
 
-<img src="https://gph.is/1Vp16TL" alt="gif de fusion low fi" />
-
-Teste ton niveau de fusion ! 
-
-QUIZZ rapide en 5 questions sur ton niveau de connaissances...
-
+<img src="https://media.giphy.com/media/P4TqKx6NHyLnO/giphy.gif" alt="gif de fusion low fi" />
 <section>
 <h2>3. Fonctionnement de l'université</h2>
 
