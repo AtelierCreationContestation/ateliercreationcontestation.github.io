@@ -14,3 +14,5 @@ Ces sources ont vocation à clarifier le projet de fusion/idex et engager la dis
 * <a href="https://drive.google.com/open?id=1uOyr5xVlE9jTRYq1tgc7B79h4PVThtLt">le projet idex, document de travail</a>
 
 * <a href="http://www.canalsud.net/?Stop-fusion-au-Mirail">l'enregistrement de l'émission Stop Fusion au Mirail sur Canal Sud</a>
+
+* <a href="http://laprogrammationclandestine.tumblr.com/post/171621177991/la-semaine-sp%C3%A9ciale">La programmation clandestine</a>
