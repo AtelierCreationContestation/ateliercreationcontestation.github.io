@@ -36,7 +36,7 @@ title: Bullshidex
 <h1>Notices</h1>
 <a name="retourhaut" style="opacity: 0;"></a>
 <p>
-<a href="#accelerer">accélérer</a> <a href="#accroi">accroître</a> <a href="#agile">agile</a> <a href="#ambi">ambition</a> <a href="#amplifier">amplifier</a> <a href="#attrac">attractivité</a> <a href="#auto">autonomie</a> <a href="#avenir">avenir</a> <a href="#axestrat">axe stratégique</a> <a href="#benchmark">benchmark</a> <a href="#bibliometrie">bibliométrie</a> <a href="#business">business</a> <a href="#capital">capitaliser</a> <a href="#catalogue">catalogue</a> <a href="#cherchenseigne">chercheur-enseignant</a> <a href="#cible">cible</a> <a href="#classem">classement</a> <a href="#comitepilotage">comité de pilotage</a> <a href="#comp">compétitivité</a> <a href="#consort">consortium</a> <a href="#continuum">continuum</a> <a href="#defi">défi</a> <a href="#digital">digital</a> <a href="#disruptcampus">disrupt campus</a> <a href="#dynam">dynamique</a> <a href="#emergence">émergence</a> <a href="#excellence">excellence</a> <a href="#evaluation">évaluation</a>
+<a href="#accelerer">accélérer</a> <a href="#accroi">accroître</a> <a href="#agile">agile</a> <a href="#ambi">ambition</a> <a href="#amplifier">amplifier</a> <a href="#attrac">attractivité</a> <a href="#auto">autonomie</a> <a href="#avenir">avenir</a> <a href="#axestrat">axe stratégique</a> <a href="#benchmark">benchmark</a> <a href="#bibliometrie">bibliométrie</a> <a href="#business">business</a> <a href="#capital">capitaliser</a> <a href="#catalogue">catalogue</a> <a href="#cherchenseigne">chercheur-enseignant</a> <a href="#cible">cible</a> <a href="#classem">classement</a> <a href="#comitepilotage">comité de pilotage</a> <a href="#comp">compétitivité</a> <a href="#consort">consortium</a> <a href="#continuum">continuum</a> <a href="#defi">défi</a> <a href="#dvp-dur">développement durable</a> <a href="#digital">digital</a> <a href="#disruptcampus">disrupt campus</a> <a href="#dynam">dynamique</a> <a href="#emergence">émergence</a> <a href="#excellence">excellence</a> <a href="#evaluation">évaluation</a>
 <a href="#expert">expertise</a> <a href="#federer">fédérer</a> <a href="#finance">financement</a> <a href="#forces">forces</a> <a href="#indicateur">indicateur de performance</a> <a href="#gouv">gouvernance</a> <a href="#innov">innovation</a> <a href="#integ">intégration</a> <a href="#internat">international</a> <a href="#label">label</a> <a href="#manag">management</a> <a href="#marque">marque</a> <a href="#modele">modèle national</a> <a href="#mut">mutualisé</a> <a href="#offre">offre</a> <a href="#pepite">pépite-écrin</a> <a href="#pilotage">pilotage</a> <a href="#rayo">rayonnement</a> <a href="#regroupe">regroupement</a> <a href="#robustesse">robustesse</a> <a href="#stand">standards internationaux</a> <a href="#strat">stratégie</a> <a href="#succes">succès</a> <a href="#transfo">transformation</a> <a href="#transvers">transversalité</a> <a href="#visibilite">visibilité</a></p> 
 
 
@@ -283,6 +283,19 @@ Plutôt que de courir après les publications (qui, souvent, se répètent en qu
 
 <p><strong>analyse</strong> : Tous les axes stratégiques sont un défi à un moment ou un autre dans leur description, sauf “patrimoines, innovation/création”. Il y a un doux sens de l’ironie dans cette présentation. À moins qu’il ne s’agisse d’un oubli ? (oups !)</p>
 </section>
+
+<section>
+<h2><a name="dvp-dur">développement durable</a></h2>
+<p><strong>nombre d’occurrences</strong> : 4</p>
+
+<p><strong>dans l'Idex :</strong> « Ainsi, en s’appuyant sur la dynamique d’excellence déployée et la diffusion des bonnes pratiques, l’Université de Toulouse peut ambitionner d’obtenir la labellisation « Développement Durable/ Responsabilité Sociétale » à l’horizon de 2021. Cet objectif nécessite la diffusion, l’harmonisation, et l’intensification de l’ensemble d’actions ponctuellement existantes (neOCampus, Plan de Mobilité Universitaire, Plan Vert, Village de l’économie sociale et solidaire…), mais surtout la mise en œuvre d’un programme innovant sur tous les axes couverts par la labellisation : gouvernance, recherche, formation, action sociale et gestion environnementale. », p. 34.</p>
+
+<p><strong>définition du dico</strong> « Développement qui permet de répondre aux besoins actuels sans empêcher les générations à venir d'en faire de même »</p>
+
+<p><strong>analyse</strong> : Le projet IDEX existe donc grâce à la « diffusion des bonnes pratiques », légèrement ironique lorsque l’on connaît les conditions dans lesquelles a été votée la fusion… La labellisation, technique d’étiquetage d’un produit, garantit on ne sait quelle qualité, écologique ou dérivée. Si la fusion est aussi « verte » que certains produits de grande consommation, on peut craindre que nos enseignements soient prochainement passés au roundup...  </p>
+
+</section>
+
 <section>
 <h2><a name="digital">digital</a></h2>
 
