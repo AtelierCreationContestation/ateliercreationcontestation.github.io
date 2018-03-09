@@ -3,6 +3,7 @@ layout: page
 title: Le Quizz
 ---
 
+<img src="https://media.giphy.com/media/PvDM6QHuLPCxi/giphy.gif" alt="gif de dragon ball qui fusionne"/>
 Teste ton niveau de fusion ! 
 
 QUIZZ rapide en 5 questions sur ton niveau de connaissances...
