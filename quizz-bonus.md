@@ -3,7 +3,9 @@ layout: page
 title: Le Quizz
 ---
 <img src="https://media.giphy.com/media/D0JoRdfvxj6Bq/giphy.gif" />
+
 <section>
+	
 <h2>Qui a dit : </h2>
 
 <p>« Rien n’est écrit, tout est ouvert et nous serons attentifs. Il faut savoir parier sur l’avenir. »</p>
