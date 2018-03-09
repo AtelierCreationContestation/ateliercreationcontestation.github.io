@@ -24,7 +24,7 @@ Se regrouper n’est pas l’assurance de remonter dans ces classements. L’exe
 
 </section>
 
-<a href="../quizz-q2">Question suivante</a>
+<p><a href="../quizz-q2">Question suivante</a></p>
 
 
 

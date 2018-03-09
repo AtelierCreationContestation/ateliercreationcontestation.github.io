@@ -2,11 +2,7 @@
 layout: page
 title: Le Quizz
 ---
-
-Teste ton niveau de fusion ! 
-
-QUIZZ rapide en 5 questions sur ton niveau de connaissances...
-
+<img src="https://media.giphy.com/media/D0JoRdfvxj6Bq/giphy.gif" />
 <section>
 <h2>Qui a dit : </h2>
 
@@ -17,7 +13,7 @@ QUIZZ rapide en 5 questions sur ton niveau de connaissances...
 <ol>
 	<li>Daniel Lacroix lors du Comité Technique du mois de novembre 2017</li>
 	<li>Gandhi, lors d’un rendez-vous chez le dentiste</li>
-	<li>Kaa dans le Livre de la Jungle « Aie confiance… »</li>
+	<li>Kaa dans <em>Le Livre de la Jungle</em>, « Aie confiance… »</li>
 </ol>
 
 <p class="more"><a href="#">La réponse est...</a></p>
