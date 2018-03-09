@@ -18,7 +18,7 @@ title: Le Quizz
 	<li>Kaa dans <em>Le Livre de la Jungle</em>, « Aie confiance… »</li>
 </ol>
 
-<p class="more"><a href="#"></a>La réponse est...<span class="symboles">&#129345;</p></p>
+<p class="more"><a href="#"></a>La réponse est...<span class="symboles">&#129345;</span></p>
 
 <div class="details" style="display:none">
 	<p>Les trois !</p> 
