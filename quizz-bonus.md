@@ -23,7 +23,7 @@ title: Le Quizz
 
 </div>
 
-<p>Tout ceci peut être approfondi en lisant <a href="https://drive.google.com/open?id=1uOyr5xVlE9jTRYq1tgc7B79h4PVThtLt">le PDF du projet Idex</a>, en t'aidant du <a href="bullshidex">Bullshidex</a> pour décrypter tout ça, ou encore en consultant la <a href="../sources">page des sources</a>.
+<p>Tout ceci peut être approfondi en lisant <a href="https://drive.google.com/open?id=1uOyr5xVlE9jTRYq1tgc7B79h4PVThtLt">le PDF du projet Idex</a>, en t'aidant du <a href="../dico">Bullshidex</a> pour décrypter tout ça, ou encore en consultant la <a href="../sources">page des sources</a>.
 </p>
 
 
