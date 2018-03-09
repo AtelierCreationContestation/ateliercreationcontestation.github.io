@@ -36,7 +36,8 @@ title: Bullshidex
 <h1>Notices</h1>
 <p>
 <a name="retourhaut"></a>
-<a href="#accelerer">accélérer</a> <a href="#accroi">accroître</a> <a href="#agile">agile</a> <a href="#ambi">ambition</a> <a href="#amplifier">amplifier</a> <a href="#attrac">attractivité</a> <a href="#auto">autonomie</a> <a href="#avenir">avenir</a> <a href="#axestrat">axe stratégique</a> <a href="#business">business</a> <a href="#capital">capitaliser</a> <a href="#catalogue">catalogue</a> <a href="#cherchenseigne">chercheur-enseignant</a> <a href="#cible">cible</a> <a href="#classem">classement</a> <a href="#comitepilotage">comité de pilotage</a> <a href="#comp">compétitivité</a> <a href="#consort">consortium</a> <a href="#continuum">continuum</a> <a href="#defi">défi</a> <a href="#digital">digital</a> <a href="#disruptcampus">disrupt campus</a> <a href="#dynam">dynamique</a> <a href="#emergence">émergence</a> <a href="#excellence">excellence</a> <a href="#expert">expertise</a> <a href="#finance">financement</a> <a href="#forces">forces</a> <a href="#indicateur">indicateur de performance</a> <a href="#gouv">gouvernance</a> <a href="#innov">innovation</a> | <a href="#integ">intégration</a> <a href="#internat">international</a> <a href="#label">label</a> <a href="#manag">management</a> <a href="#marque">marque</a> <a href="#modele">modèle national</a> <a href="#mut">mutualisé</a> <a href="#offre">offre</a> <a href="#pepite">pépite-écrin</a> <a href="#pilotage">pilotage</a> <a href="#rayo">rayonnement</a> <a href="#regroupe">regroupement</a> <a href="#robustesse">robustesse</a> <a href="#strat">stratégie</a> <a href="#succes">succès</a> <a href="#transfo">transformation</a> <a href="#transvers">transversalité</a></p> 
+<a href="#accelerer">accélérer</a> <a href="#accroi">accroître</a> <a href="#agile">agile</a> <a href="#ambi">ambition</a> <a href="#amplifier">amplifier</a> <a href="#attrac">attractivité</a> <a href="#auto">autonomie</a> <a href="#avenir">avenir</a> <a href="#axestrat">axe stratégique</a> <a href="#benchmark">benchmark</a> <a href="#business">business</a> <a href="#capital">capitaliser</a> <a href="#catalogue">catalogue</a> <a href="#cherchenseigne">chercheur-enseignant</a> <a href="#cible">cible</a> <a href="#classem">classement</a> <a href="#comitepilotage">comité de pilotage</a> <a href="#comp">compétitivité</a> <a href="#consort">consortium</a> <a href="#continuum">continuum</a> <a href="#defi">défi</a> <a href="#digital">digital</a> <a href="#disruptcampus">disrupt campus</a> <a href="#dynam">dynamique</a> <a href="#emergence">émergence</a> <a href="#excellence">excellence</a> <a href="#evaluation">évaluation</a>
+<a href="#expert">expertise</a> <a href="#finance">financement</a> <a href="#forces">forces</a> <a href="#indicateur">indicateur de performance</a> <a href="#gouv">gouvernance</a> <a href="#innov">innovation</a> | <a href="#integ">intégration</a> <a href="#internat">international</a> <a href="#label">label</a> <a href="#manag">management</a> <a href="#marque">marque</a> <a href="#modele">modèle national</a> <a href="#mut">mutualisé</a> <a href="#offre">offre</a> <a href="#pepite">pépite-écrin</a> <a href="#pilotage">pilotage</a> <a href="#rayo">rayonnement</a> <a href="#regroupe">regroupement</a> <a href="#robustesse">robustesse</a> <a href="#strat">stratégie</a> <a href="#succes">succès</a> <a href="#transfo">transformation</a> <a href="#transvers">transversalité</a></p> 
 
 
 <p>en supplément pépite-bonus : <a href="#lexiqueacro">le guide des acronymes</a></p>
@@ -145,7 +146,7 @@ L’université est déjà frappée par cet impératif d’autonomie depuis la l
 </section> 
 
 <section>
-<h2><a name="business">business</a></h2>
+<h2><a name="benchmark">benchmark</a></h2>
 <p><strong>nombre d’occurrences</strong> : 2</p>
 
 <p><strong>dans l'Idex :</strong> « La stratégie de rayonnement traduit au niveau international les stratégies de recherche et de formation ; la définition des orientations stratégiques est étayée par des éléments de <em>benchmark</em> international et des références aux classements internationaux (notamment <em>ARWU subject ranking </em>2017). », p. 24.</p>
@@ -326,6 +327,18 @@ Il est intéressant de mettre en perspective la définition “marketing” du b
 <p><strong>définition du dico</strong> : « Personne qui engage des capitaux et utilise une main-d’œuvre salariée en vue d’une production déterminée. Industriel prenant en charge l'exécution d’opérations concernant la construction. » </p>
 
 <p><strong>analyse</strong> : La récurrence du terme « entrepreneur » au sein du projet Idex l’identifie comme une notion clé. Si l'entrepreneuriat peut prendre de multiples formes, allant de l’exploitation des forces de travail à des horizons plus soutenables, sa présence dans le projet Idex est immédiatement associée aux champs de l’industrie et de l’ingénierie – ce qui restreint considérablement sa signification. En quoi les sciences humaines et sociales, l’art, le design, etc. n’auraient-ils pas également leur mot à dire quant à « l'entrepreneuriat » (sic) ? L’industrie (existante) est-elle forcément pertinente pour penser des futurs souhaitables ? Comment <em>entreprendre</em> sans <em>prendre</em> aux minorisé/e/s ? On en revient aussi à l’idéal de l’entrepreneur/se comme seul modèle de création : la start-up nation, imaginaire pauvre et discriminant.</p>
+</section>
+
+<section>
+<h2><a name="evaluation">évaluation</a></h2>
+<p><strong>nombre d'occurrences</strong> : 13</p>
+
+<p><strong>dans l'Idex :</strong> Le Vice-Président Idex « assume le déploiement des programmes, la gestion des fonds et des moyens RH dédiés mis en œuvre dans le cadre de l’IDEX. Il organise l’évaluation des projets par des experts extérieurs au site et assure le suivi des résultats obtenus », p. 12.</p>
+
+<p><strong>définition du dico</strong> : « Action d'évaluer, d'apprécier la valeur (d'une chose); technique, méthode d'estimation ». 
+En économie : « procédé par lequel on détermine le montant des dépenses et des recettes à inscrire au budget »</p>
+
+<p><strong>analyse</strong> Il s'agit pour les « experts extérieurs »  d'estimer la valeur des projets. Malheureusement, le mot évaluation semble ici limité à des critères de gestion économique. Chiffrer la connaissance, le savoir, chiffrer les idées, chiffrer l'enseignement, chiffrer la recherche, chiffrer le travail, le temps, l'investissement, les résultats... Quelle réduction ! L’histoire ne dit pas sur quelles connaissances ces « experts » accordent ou non leurs généreux <em>likes</em>.</p>
 </section>
 
 <section>
