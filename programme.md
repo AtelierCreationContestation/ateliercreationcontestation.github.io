@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le programme
+title: L'agenda
 ---
 
 Programme soumis à changements réguliers... restez connecté/e/s ! 
@@ -15,10 +15,10 @@ Pour le moment, plusieurs ateliers volants sont proposés :
 * **Mission Reporter** : Valorisation et médiation de l’atelier Création - Contestation ; voir <a href="https://facouverte.wixsite.com/creationenlutte">le site Création en Lutte</a> !
 * **Mission Radio Interviews** : collecte d'extraits sonores autour de la réception de l'idex/projet de fusion et discussion ; contacter fac.ouverte@laposte.net
 * **Atelier documentaire** sur les universités ayant déjà fusionné.
-* La **programmation clandestine** : 
+* La **<a href="http://laprogrammationclandestine.tumblr.com/post/171621177991/la-semaine-sp%C3%A9ciale">programmation clandestine</a>** : 
 La Programmation Clandestine n'est pas une programmation artistique officielle.
 La Programmation Clandestine quitte parfois son contexte de clandestinité pour en infiltrer d'autre.
-La Programmation Clandestine s'est invitée à la Semaine Spéciale.
+La Programmation Clandestine s'est invitée à la Semaine Spéciale. 
 
 D’autres ateliers, idées, initiatives sont les bienvenues !
 Le programme suivant liste les heures de cours mobilisés pour l’atelier.
