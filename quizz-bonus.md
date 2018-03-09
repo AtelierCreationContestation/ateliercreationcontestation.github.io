@@ -5,7 +5,7 @@ title: Le Quizz
 <img src="https://media.giphy.com/media/D0JoRdfvxj6Bq/giphy.gif" />
 
 <section>
-	
+
 <h2>Qui a dit : </h2>
 
 <p>« Rien n’est écrit, tout est ouvert et nous serons attentifs. Il faut savoir parier sur l’avenir. »</p>
@@ -18,7 +18,7 @@ title: Le Quizz
 	<li>Kaa dans <em>Le Livre de la Jungle</em>, « Aie confiance… »</li>
 </ol>
 
-<p class="more"><a href="#">La réponse est...</a></p>
+<p class="more"><a href="#"></a>La réponse est...<span class="symboles">U+1F941</p></p>
 
 <div class="details" style="display:none">
 	<p>Les trois !</p> 

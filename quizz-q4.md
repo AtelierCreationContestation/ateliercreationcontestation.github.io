@@ -11,7 +11,7 @@ title: Le Quizz
 <p>« L'offre de formation de Licence, Master, Doctorat restera soumise à la réglementation nationale et n'entraînera donc pas d'augmentation des frais d'inscription ni de sélection. »</p>
 <p>P. Rimbault, <em>La Dépêche</em>, 17/02/18.</p>
 
-<p class="more"><a href="#"></a><a href="#">Vrai ou Faux ?</a></p>
+<p class="more"><a href="#"></a>Vrai ou Faux ?</p>
 
 <div class="details" style="display:none">
 FAUX !
