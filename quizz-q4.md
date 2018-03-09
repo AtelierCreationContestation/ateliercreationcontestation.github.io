@@ -14,7 +14,7 @@ title: Le Quizz
 <p class="more"><a href="#"></a>Vrai ou Faux ?</p>
 
 <div class="details" style="display:none">
-FAUX !
+<p><strong>FAUX !</strong></p>
 
 <p>Le projet de fusion engendrera un changement juridique : le statut de Grand Etablissement envisagé permettrait de déroger au Code de l’Education qui aujourd’hui plafonne les frais d’inscription.</p>
 

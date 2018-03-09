@@ -14,7 +14,7 @@ title: Le Quizz
 <p class="more"><a href="#"></a>Vrai ou Faux ?</p>
 
 <div class="details" style="display:none">
-FAUX !
+<p><strong>FAUX !</strong></p>
 
 <p>Notre Université deviendrait un Collège de l’UT avec encore moins de pouvoir de décision qu’aujourd’hui. 
 Le véritable pouvoir serait au niveau du Conseil d’Administration Stratégique de l’Université fusionnée, réduit à 30 membres parmi lesquels seulement 16 seront des élus : 8 Enseignants, 4 BIATSS, 4 étudiants. Il y aurait aussi 13 personnalités extérieures.</p> 

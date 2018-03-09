@@ -13,10 +13,11 @@ title: Le Quizz
 <p class="more"><a href="#"></a>Vrai ou Faux ?</p>
 
 <div class="details" style="display:none">
-FAUX !
+<p><strong>FAUX !</strong></p>
 
-C’est un chantage qui est à l’œuvre. Idex et Fusion sont à dissocier. Sur Toulouse ces crédits sont de 25M€ sur un budget total de tout l’enseignement supérieur de 1000M€.
-Les 25 millions d’euros par an de manque à gagner en raison de l’arrêt de l’Idex sont à mettre en correspondance avec le coût d’une fusion : selon la Cour des Comptes, 30 millions d’euros par an pour l’université de Strasbourg.
+<p>C’est un chantage qui est à l’œuvre. Idex et Fusion sont à dissocier. Sur Toulouse ces crédits sont de 25M€ sur un budget total de tout l’enseignement supérieur de 1000M€.</p>
+
+<p>Les 25 millions d’euros par an de manque à gagner en raison de l’arrêt de l’Idex sont à mettre en correspondance avec le coût d’une fusion : selon la Cour des Comptes, 30 millions d’euros par an pour l’université de Strasbourg.</p>
 </div>
 
 <p><a href="../quizz-q3">Question suivante</a></p>
