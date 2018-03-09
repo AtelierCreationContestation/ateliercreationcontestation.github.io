@@ -102,6 +102,12 @@ p.more{
 	text-decoration:underline;
 	}
 
+p.more:hover{
+	color:#d986bf; /* pink */
+	text-decoration:underline;
+
+	}
+
 
 body.bullshidex p.more a:hover {
 	color:#111; 
