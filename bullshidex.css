@@ -269,7 +269,7 @@ body.bullshidex section.liste p {
 @media screen and (max-width:667px) {
 
 .flecheretour a{
-	float: right;
+	right: 10px;
 }	
 
 

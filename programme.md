@@ -9,7 +9,7 @@ Programme soumis à changements réguliers... restez connecté/e/s !
 
 <h3>12h00-14h00</h3>
 
-<p><a href="../conf-ouverte">Conférence Ouverte</a> Arts de résistance : de l’émancipation à la contestation.</p>
+<p><a href="../conf-ouverte">Conférence Ouverte</a> : Arts de résistance : de l’émancipation à la contestation.</p>
 
 <h2>Lundi 12 mars</h2>
 
