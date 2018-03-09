@@ -6,7 +6,7 @@ title: Le Quizz
 <img src="https://media.giphy.com/media/26wkRxKJ9yUZzlorK/giphy.gif" />
 
 <section>
-<h2>Question bonus : La Gestion des RH</h2>
+<h2>La Gestion des RH</h2>
 
 <p>« Pour les personnels il n’y a rien à craindre. »
 </p>

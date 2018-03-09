@@ -2,9 +2,9 @@
 layout: page
 title: Le Quizz
 ---
-<img src="https://media.giphy.com/media/D0JoRdfvxj6Bq/giphy.gif" />
+<img src="https://media.giphy.com/media/mxgWijqADqqLm/giphy.gif" />
 
-<h2>Qui a dit : </h2>
+<h2>Question Bonus, Qui a dit : </h2>
 
 <p>« Rien n’est écrit, tout est ouvert et nous serons attentifs. Il faut savoir parier sur l’avenir. »</p>
 
