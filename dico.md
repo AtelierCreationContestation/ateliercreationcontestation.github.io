@@ -382,7 +382,7 @@ En économie : « procédé par lequel on détermine le montant des dépenses et
 <section>
 <h2><a name="federer">fédérer</a></h2>
 
-<p>Voir <a href="#integration">intégration</a></p>
+<p>Voir <a href="#integ">intégration</a></p>
 
 <p><strong>nombre d’occurrences</strong> : 4</p>
 </section>
@@ -526,7 +526,7 @@ En économie : « procédé par lequel on détermine le montant des dépenses et
 <section>
 <h2><a name="modele">modèle national</a></h2>
 
-<p>Voir <a href="#international">international</a></p> 
+<p>Voir <a href="#internat">international</a></p> 
 
 <p><strong>nombre d’occurrences :</strong> 1</p>
 </section>
@@ -534,7 +534,7 @@ En économie : « procédé par lequel on détermine le montant des dépenses et
 <section>
 <h2><a name="mut">mutualisé(e)s</a></h2>
 
-<p>Voir <a href="#transvers">transversalité</a></p>
+<p>Voir <a href="transvers">transversalité</a></p>
 
 <p><strong>nombre d’occurrences :</strong> 6</p>
 </section>
