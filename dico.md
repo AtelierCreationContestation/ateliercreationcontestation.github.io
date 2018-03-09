@@ -37,7 +37,7 @@ title: Bullshidex
 <a name="retourhaut" style="opacity: 0;"></a>
 <p>
 <a href="#accelerer">accélérer</a> <a href="#accroi">accroître</a> <a href="#agile">agile</a> <a href="#ambi">ambition</a> <a href="#amplifier">amplifier</a> <a href="#attrac">attractivité</a> <a href="#auto">autonomie</a> <a href="#avenir">avenir</a> <a href="#axestrat">axe stratégique</a> <a href="#benchmark">benchmark</a> <a href="#bibliometrie">bibliométrie</a> <a href="#business">business</a> <a href="#capital">capitaliser</a> <a href="#catalogue">catalogue</a> <a href="#cherchenseigne">chercheur-enseignant</a> <a href="#cible">cible</a> <a href="#classem">classement</a> <a href="#comitepilotage">comité de pilotage</a> <a href="#comp">compétitivité</a> <a href="#consort">consortium</a> <a href="#continuum">continuum</a> <a href="#defi">défi</a> <a href="#digital">digital</a> <a href="#disruptcampus">disrupt campus</a> <a href="#dynam">dynamique</a> <a href="#emergence">émergence</a> <a href="#excellence">excellence</a> <a href="#evaluation">évaluation</a>
-<a href="#expert">expertise</a> <a href="#finance">financement</a> <a href="#forces">forces</a> <a href="#indicateur">indicateur de performance</a> <a href="#gouv">gouvernance</a> <a href="#innov">innovation</a> <a href="#integ">intégration</a> <a href="#internat">international</a> <a href="#label">label</a> <a href="#manag">management</a> <a href="#marque">marque</a> <a href="#modele">modèle national</a> <a href="#mut">mutualisé</a> <a href="#offre">offre</a> <a href="#pepite">pépite-écrin</a> <a href="#pilotage">pilotage</a> <a href="#rayo">rayonnement</a> <a href="#regroupe">regroupement</a> <a href="#robustesse">robustesse</a> <a href="#stand">standards internationaux</a> <a href="#strat">stratégie</a> <a href="#succes">succès</a> <a href="#transfo">transformation</a> <a href="#transvers">transversalité</a> <a href="#visibilite">visibilité</a></p> 
+<a href="#expert">expertise</a> <a href="#federer">fédérer</a> <a href="#finance">financement</a> <a href="#forces">forces</a> <a href="#indicateur">indicateur de performance</a> <a href="#gouv">gouvernance</a> <a href="#innov">innovation</a> <a href="#integ">intégration</a> <a href="#internat">international</a> <a href="#label">label</a> <a href="#manag">management</a> <a href="#marque">marque</a> <a href="#modele">modèle national</a> <a href="#mut">mutualisé</a> <a href="#offre">offre</a> <a href="#pepite">pépite-écrin</a> <a href="#pilotage">pilotage</a> <a href="#rayo">rayonnement</a> <a href="#regroupe">regroupement</a> <a href="#robustesse">robustesse</a> <a href="#stand">standards internationaux</a> <a href="#strat">stratégie</a> <a href="#succes">succès</a> <a href="#transfo">transformation</a> <a href="#transvers">transversalité</a> <a href="#visibilite">visibilité</a></p> 
 
 
 <p>en supplément pépite-bonus : <a href="#lexiqueacro">le guide des acronymes</a></p>
@@ -161,7 +161,7 @@ Ou <a href="https://www.definitions-marketing.com/definition/benchmark/">ici</a>
 <h2><a name="bibliometrie">bibliométrie</a></h2>
 <p><strong>nombre d’occurrences</strong> : 4</p>
 
-<p><strong>dans l'Idex</strong> : « La cartographie Force-Emergence-Pépite (FEP), dont le détail est donné en annexe, est confortée par notre analyse bibliométrique et par les positions des fondateurs de l’UT dans les classements thématiques internationaux (ARWU) », p. 15 ; « Le classement Multirank fait intervenir une évaluation des avantages et des services par les étudiants à côté des indicateurs bibliométriques.»  p. 47, etc. </p>
+<p><strong>dans l'Idex</strong> : « La cartographie Force-Emergence-Pépite (FEP), dont le détail est donné en annexe, est confortée par notre analyse bibliométrique et par les positions des fondateurs de l’UT dans les classements thématiques internationaux (ARWU) », p. 15 ; « Le classement Multirank fait intervenir une évaluation des avantages et des services par les étudiants à côté des indicateurs bibliométriques.»,  p. 47. </p>
 
 <p><strong>définition du dico</strong> : « Partie de la bibliologie qui s'applique à l'étude quantitative de la production, de la distribution et de la consommation de livres, de périodiques et d'autres documents imprimés. » </p>
 
@@ -253,14 +253,6 @@ Plutôt que de courir après les publications (qui, souvent, se répètent en qu
 </section>
 
 <section>
-<h2><a name="continuum">continuum</a></h2>
-
-<p>Voir <a href="#consort">consortium</a></p>
-
-<p><strong>nombre d’occurrences</strong> : 2</p>
-</section>
-
-<section>
 <h2><a name="consort">consortium</a></h2>
 
 <p><strong>nombre d’occurrences</strong> : 30</p>
@@ -270,6 +262,14 @@ Plutôt que de courir après les publications (qui, souvent, se répètent en qu
 <p><strong>définition du dico</strong> : « Groupement d’entreprises juridiquement indépendantes, réunissant sous une direction unique des moyens financiers ou matériels, en vue d’exécuter en commun des opérations déterminées. »</p>  
 
 <p><strong>analyse</strong> : L’Idex associe comme souvent un terme utilisé en entreprise au domaine de la recherche. Or, une entreprise répond d’abord à des exigences stratégiques et commerciales. Nous militons contre la marchandisation du savoir, de la connaissance et donc du travail de recherche. Mais le terme en apparence savant (latin) de consortium est aussi un langage de la totalité qui gomme les différences d’opinions, de visions, au projet d’un but a priori unique. C’est aussi une manière de dessiner une entité dominante en gommant les individualités (et donc leur biais, leurs intérêts personnels) qui sont décisionnaires dans celle-ci.</p>
+</section>
+
+<section>
+<h2><a name="continuum">continuum</a></h2>
+
+<p>Voir <a href="#consort">consortium</a></p>
+
+<p><strong>nombre d’occurrences</strong> : 2</p>
 </section>
 
 <section>
@@ -534,7 +534,7 @@ En économie : « procédé par lequel on détermine le montant des dépenses et
 <section>
 <h2><a name="mut">mutualisé(e)s</a></h2>
 
-<p>Voir <a href="transvers">transversalité</a></p>
+<p>Voir <a href="#transvers">transversalité</a></p>
 
 <p><strong>nombre d’occurrences :</strong> 6</p>
 </section>
@@ -560,7 +560,7 @@ En économie : « procédé par lequel on détermine le montant des dépenses et
 
 <p><strong>définition du dico</strong> : pépite > « petite masse d’or natif, sans gangue. Pépite aurifère ». Écrin : « Coffret destiné à contenir un ou plusieurs objets précieux, en particulier des bijoux ou de l’argenterie ». </p>
 
-<p><strong>analyse</strong> : Un peu de poésie dans ce monde brutal ! La Pépite en son Écrin,  telle la perle en son huître, est rare et prestigieuse. Entité perchée au sommet de la pyramide (bijoux de famille, réservoir de généalogie de l’UT ?) , elle monopolise regards émus et mâne sonnante et trébuchante au détriment des chercheurs « pas leaders » (la masse obscure et besogneuse loin des lumières nacrées de l’huître). Et sinon, un coup de genou dans les pépites ? </p>
+<p><strong>analyse</strong> : Un peu de poésie dans ce monde brutal ! La Pépite en son Écrin,  telle la perle en son huître, est rare et prestigieuse. Entité perchée au sommet de la pyramide (bijoux de famille, réservoir de généalogie de l’UT ?), elle monopolise regards émus et mâne sonnante et trébuchante au détriment des chercheurs « pas leaders » (la masse obscure et besogneuse loin des lumières nacrées de l’huître). Et sinon, un coup de genou dans les pépites ? </p>
 </section>
 
 <section>
@@ -590,7 +590,7 @@ En économie : « procédé par lequel on détermine le montant des dépenses et
 <section>
 <h2><a name="regroupe">regroupement</a></h2>
 
-<p>Voir <a href="integ">intégration</a></p>
+<p>Voir <a href="#integ">intégration</a></p>
 
 <p><strong>nombre d'occurrences</strong> : 7</p>
 </section>

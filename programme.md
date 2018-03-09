@@ -24,11 +24,21 @@ D’autres ateliers, idées, initiatives sont les bienvenues !
 Le programme suivant liste les heures de cours mobilisés pour l’atelier.
 Ce programme évoluera au fil de la semaine et sera complété au fur et à mesure selon l’évolution du projet, l’engagement des collègues...
 
+<h2>Lundi 13 mars</h2>
+
+<h3>14h00</h3>
+
+« AG de merde » dans le grand Amphithéâtre ! 
+
 <h2>Vendredi 9 mars</h2>
 
 <h3>9h00</h3>
 
 On ne change pas une formule qui marche et on se retrouve à 9h dans le hall du bâtiment Accueil !
+
+<h3>10h00</h3>
+
+AG des personnels.
 
 <h3>14h00</h3>
 
