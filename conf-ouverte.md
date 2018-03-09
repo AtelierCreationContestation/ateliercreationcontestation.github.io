@@ -15,9 +15,9 @@ title: Conférence Ouverte
 
 
 <h4>Mini-biblio</h4>
-<p>Jean-Marc Lachaud, <em>Art et Aliénation</em>. </p>
+<p>Jean-Marc Lachaud, <em>Art et Aliénation</em>, 2012. </p>
 
-<p>Henri-David Thoreau, <em>Résister, La désobéissance civile</em>.</p>
+<p>Henri-David Thoreau, <em>Résister, La désobéissance civile, 1849</em>.</p>
 
-<p>Georges Didi-Huberman, <em>Survivance des lucioles</em>.</p>
+<p>Georges Didi-Huberman, <em>Survivance des lucioles</em>, 2009.</p>
 
