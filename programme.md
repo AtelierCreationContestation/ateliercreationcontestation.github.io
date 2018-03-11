@@ -15,7 +15,7 @@ Programme soumis à changements réguliers... restez connecté/e/s !
 
 <h3>14h00</h3>
 
-« AG de merde » dans le grand Amphithéâtre ! 
+« AG détournée » dans le grand Amphithéâtre ! 
 
 <h2>Vendredi 9 mars</h2>
 
