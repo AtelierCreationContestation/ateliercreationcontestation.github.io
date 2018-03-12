@@ -17,6 +17,9 @@ title: Bullshidex
         <h4>Méthode</h4>
         <p>Cette page Web propose une analyse lexicale <a href="https://drive.google.com/open?id=1uOyr5xVlE9jTRYq1tgc7B79h4PVThtLt">du PDF du projet de fusion</a> sous forme de « notices » critiques. Nous avons tout d’abord constitué une liste des termes clé en faisant ressortir les renvois d’un mot à l’autre et en comptabilisant leurs occurrences d’apparition dans <a href="https://drive.google.com/open?id=1uOyr5xVlE9jTRYq1tgc7B79h4PVThtLt">le document PDF</a>. Chaque entrée du lexique à ensuite fait l’objet d’un travail de rédaction collaborative, suivant une méthode en trois temps : le repérage d’un extrait signifiant, puis la définition du mot prise dans un dictionnaire scientifique (CNRTL), et enfin la rédaction d’une synthèse / analyse critique qui compare l’usage du mot dans le projet Idex à la définition du dictionnaire, et qui le complète de références et de remarques visant à proposer des visions plus positives de l’enseignement et de la recherche.</p>
 
+         <h4>Conception du site Web</h4>
+        <p><a href="http://www.anthonymasure.com/">Anthony Masure</a> (maître de conférences en design) et <a href="http://piapandelakis.com/">Pia Pandelakis</a> (maître de conférences en design). Cette page Web a été conçue la semaine du 5 mars 2018.</p>
+
         <h4>Technique</h4>
         <p>Le lexique a été établi et rédigé en ligne de façon collaborative. Cette page Web est hébergée sur la plateforme <a href="https://github.com">GitHub</a> et utilise le générateur de sites statiques <a href="https://jekyllrb.com/">Jekyll</a> et l’éditeur de contenu <a href="https://prose.io/">prose.io</a>. Les contenus sont mis à jour via le protocole Git. Ce processus de production s’appuie autant que possible sur des programmes libres de droits.</p>
 
@@ -52,7 +55,7 @@ title: Bullshidex
 
 <p><strong>dans l'Idex :</strong> L’Idex «  a vocation à accompagner l’élan transformateur, à faciliter et accélérer les évolutions de l’université nécessaires pour faire face à l’internationalisation du monde de l’enseignement supérieur et de la recherche »,  p. 42.</p>
 
-<p><strong>définition du dico</strong> :« Rendre plus rapide un mouvement ou  un développement en cours. »</p>
+<p><strong>définition du dico</strong> : « Rendre plus rapide un mouvement ou  un développement en cours. »</p>
 
 <p><strong>analyse</strong> : L’accélération est synergique à la logique de compétition : « les évolutions  de l’université » ici pointées par l’Idex, à l’échelle de la globalisation néo-libérale, visent un formatage croissant au détriment de la singularité et de l’indépendance de la recherche. Hartmut Rosa analyse l’aliénation (de l’individu, de la société, etc.) comme résultant de ce processus d’accélération (<em>Aliénation et accélération. Vers une théorie critique de la modernité tardive</em>, 2012). On ne sait pas où on va, mais on y va, vite !</p>
 </section>
@@ -306,10 +309,8 @@ Plutôt que de courir après les publications (qui, souvent, se répètent en qu
 <p><strong>définition du dico</strong> :« Relatif au doigt; qui fait partie du doigt. »</p>
 
 <p><strong>analyse</strong> : </p>
-<ol>
-	<li>Tu le vois mon doigt ?!</li>
-	<li>Un whisky d’abord ?</li>
-</ol>
+<p>1. Tu le vois mon doigt ?!</p>
+<p>2. Un whisky d’abord ?</p>
 </section>
 
 <section>
@@ -523,7 +524,7 @@ En économie : « procédé par lequel on détermine le montant des dépenses et
 <section>
 <h2><a name="manag">management</a></h2>
 
-<p>Voir <a href="#gestion">gestion</a></p>
+<p>Voir <a href="#strat">stratégie</a></p>
 
 <p><strong>nombre d’occurrences</strong> : 6</p>
 </section>
@@ -769,7 +770,7 @@ En économie : « procédé par lequel on détermine le montant des dépenses et
 <section>
 <h2><a name="visibilite">visibilité</a></h2>
 
-<p><strong>nombre d'occurrences :</strong>15</p>
+<p><strong>nombre d'occurrences : </strong>15</p>
 
 <p><strong>dans l'Idex :</strong> « La création de l’UT devrait toutefois permettre d’accroître la visibilité de l’UT auprès des entreprises et ainsi faciliter le développement des ressources propres : meilleure valorisation de l’offre de formation tout au long de la vie, montée en puissance de la Fondation partenariale, développement de formation en alternance et de prestations intellectuelles et technologiques par les plateformes. », p. 49.</p>
 
@@ -779,7 +780,7 @@ En économie : « procédé par lequel on détermine le montant des dépenses et
 </section>
 
 <section>
-<h2><a name="lexiqueacro">Lexique des acronymes :</a></h2>
+<h2><a name="lexiqueacro">Acronymes</a></h2>
 
 <p><strong>ARWU</strong> : Academic Ranking of World Universities (classement Shanghai)</p>
 

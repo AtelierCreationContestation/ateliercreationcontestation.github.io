@@ -18,12 +18,12 @@
       <main>
         <nav>
           <ul>
-            <li><a href="/about">le projet</a></li>
-             <li><a href="/programme">l'agenda</a></li>
-            <li><a href="/ateliers">les ateliers</a></li>
-            <li><a href="/dico">#Bullshidex : le dico du bullshit !</a></li>
-            <li><a href="/dessins">illustrations et dessins</a></li>
-            <li><a href="/quizz">le quizz</a></li>
+            <li><a href="/about">projet</a></li>
+             <li><a href="/programme">agenda</a></li>
+            <li><a href="/ateliers">ateliers</a></li>
+            <li><a href="/dico">#Bullshidex</a></li>
+            <li><a href="/dessins">illustrations</a></li>
+            <li><a href="/quizz">quizz</a></li>
             <li><a href="/sources">sources</a></li>
           </ul>
             
@@ -57,6 +57,40 @@
     $('.details').toggle();
   });
 </script>
+
+<!-- https://github.com/victorloux/espaceFine -->
+<script src="espacefine.js"></script>  
+
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) { 
+    espaceFine();
+});
+</script>
+
+<!-- https://wprock.fr/blog/smooth-scrolling-jquery/ -->
+<script>
+
+      $(function() {
+        /**
+        * Smooth scrolling to page anchor on click
+        **/
+        $("a[href*='#']:not([href='#'])").click(function() {
+            if (
+                location.hostname == this.hostname
+                && this.pathname.replace(/^\//,"") == location.pathname.replace(/^\//,"")
+            ) {
+                var anchor = $(this.hash);
+                anchor = anchor.length ? anchor : $("[name=" + this.hash.slice(1) +"]");
+                if ( anchor.length ) {
+                    $("html, body").animate( { scrollTop: anchor.offset().top }, 1200);
+                }
+            }
+        });
+    });
+
+</script>  
+
+
 
   </body>
 

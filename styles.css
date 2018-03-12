@@ -85,6 +85,52 @@ p{
 strong{
     color:#303030
 }
+
+
+/*ajouts Pia pour la nav regular*/
+header.masthead{
+     margin-bottom: 0;
+}
+
+.masthead-title,
+.masthead-title a { 
+    font-size:1em; 
+    text-align:center;
+    color:#111;
+    }
+
+main nav{
+    margin-bottom: 
+}
+
+main nav ul {
+    margin:0;
+    padding:0;  
+    text-align:center;
+    margin-bottom:1rem;
+}
+
+main nav li {
+    display:inline-block;
+    font-size: 75%;
+    }
+
+main nav li a {
+    color:#111;
+    text-decoration:underline;
+    }
+
+main nav li:after {
+    content: " | ";
+    color:#777;
+    }
+
+main nav li:last-of-type:after {
+    content:"";
+    }
+
+/*fin ajouts Pia pour la nav regular*/
+
 ul,ol,dl{
     margin-top:0;
     margin-bottom:1rem
@@ -407,7 +453,7 @@ footer{
     color:#303030
 }
 .page-title,.post-title{
-    margin-top:0
+    margin-top:1em
 }
 .post-date{
     display:block;
