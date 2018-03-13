@@ -5,6 +5,8 @@ title: Les sources
 
 Ces sources ont vocation à clarifier le projet de fusion/idex et engager la discussion.
 
+* Le <a href="http://www.atterres.org/article/en-marche-vers-la-destruction-de-luniversit%C3%A9">texte sur la destruction de l'université française</a> par les Économistes Atterrés
+
 * <a href="http://uniti2018.univ-toulouse.fr/">le site Uniti 2018</a>
 
 * <a href="http://stopfusiontoulouse.wixsite.com/stopfusion/servez-vous-textes-rapports-lois">des textes d’information sur stop fusion toulouse</a>
