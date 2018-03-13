@@ -7,7 +7,7 @@ title: Bullshidex
 
 <h2 class="baseline">Déconstruire la novlangue managériale appliquée aux champs de l’enseignement et de la recherche.</h2>
 
-<p>Bientôt ici : les PDFs pour tracter Bullshidex dans vos facs !</p>
+<p>Bientôt ici : les PDFs pour tracter le Bullshidex dans vos facs !</p>
 
 <p class="more"><a href="#">En savoir plus</a></p>
 
