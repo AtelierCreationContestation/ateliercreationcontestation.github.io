@@ -11,11 +11,14 @@ Programme soumis à changements réguliers... restez connecté/e/s !
 
 <p><a href="../conf-ouverte">Conférence Ouverte</a> : Arts de résistance : de l’émancipation à la contestation.</p>
 
+<h2>Mardi 14 mars</h2>
+<p>L'atelier de Création-Contestation continue, lieu à préciser selon l'évolution du blocage.</p>
+
 <h2>Lundi 12 mars</h2>
 
 <h3>14h00</h3>
 
-« AG détournée » dans le grand Amphithéâtre ! 
+« AG détournée » dans le grand Amphithéâtre ! > Annulée et reportée au mercredi 14 mars. 
 
 <h2>Vendredi 9 mars</h2>
 
