@@ -22,3 +22,5 @@ Ces sources ont vocation à clarifier le projet de fusion/idex et engager la dis
 * <a href="http://laprogrammationclandestine.tumblr.com/post/171621177991/la-semaine-sp%C3%A9ciale">La programmation clandestine</a>
 
 * <a href="http://deathtobullshit.com/">Death to Bullshit</a>
+
+* <a href="https://obs-selection.rogueesr.fr/">L'observatoire de la vie universitaire</a> par Rogue ESR : des témoignages

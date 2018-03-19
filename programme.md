@@ -5,6 +5,13 @@ title: L'agenda
 
 Programme soumis à changements réguliers... restez connecté/e/s ! 
 
+
+<h2>Mercredi 21 mars</h2>
+
+<h3>14h00-16h00</h3>
+
+<a href="https://www.facebook.com/events/236361703600346/">La Page Facebook de l'événement</a>
+
 <h2>Mercredi 14 mars</h2>
 
 <h3>12h00-14h00</h3>
