@@ -41,8 +41,8 @@ Débat « Signification et nécessité du principe de désobéissance civil
 « Outils de communication et gestion des conflits » (Grand Amphi)
 
 <h3>14h00</h3>
-<p>Conférence sur « Art et résistance ; de l'émancipation à la contestation » Par Raphaël Bergère et quatre étudiantes (Grand Amphi) | 
-<a href="https://www.facebook.com/events/236361703600346/">La Page Facebook de l'événement</a></p>
+<p>Conférence sur « Art et résistance ; de l'émancipation à la contestation » avec la participation de Raphaël Bergère, Julie Dérobert, Salomé Gril et Cynthia Nevache.
+| <a href="https://www.facebook.com/events/236361703600346/">La Page Facebook de l'événement</a></p>
 
 <p>Cours « L'inhabitabilité du néolibéralisme : sujet et subjectivité » par Pascale Macary-Garipuy et Mireille Bruyère (Lieu à définir et affiché sur le tableau devant l'Accueil).</p>
 

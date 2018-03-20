@@ -9,7 +9,7 @@ title: Conférence Ouverte
 <h2>Arts de résistance : de l’émancipation à la contestation</h2>
 
 <h2>Quand ?</h2>
-<p>Le mercredi 14 mars entre 12h et 14h</p>
+<p>Le mercredi 21 mars entre 14h et 16h</p>
 
 <h2>Où ?</h2>
 <p>dans le Grand amphi ! (bâtiment Accueil)</p>
