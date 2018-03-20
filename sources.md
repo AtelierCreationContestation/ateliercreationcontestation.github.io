@@ -24,3 +24,16 @@ Ces sources ont vocation à clarifier le projet de fusion/idex et engager la dis
 * <a href="http://deathtobullshit.com/">Death to Bullshit</a>
 
 * <a href="https://obs-selection.rogueesr.fr/">L'observatoire de la vie universitaire</a> par Rogue ESR : des témoignages
+
+* <a href="https://obs-selection.rogueesr.fr/temoignages-recus/">Premiers témoignages</a> sur Parcoursup
+
+* Les économistes atterrés sur <a href ="http://www.atterres.org/article/en-marche-vers-la-destruction-de-luniversit%C3%A9">la destruction de l'université</a>
+
+* Appel pour une école démocratique : <a href="http://www.skolo.org/2001/06/12/les-trois-axes-de-la-marchandisation-scolaire/">les trois axes de la marchandisation scolaire</a>
+
+
+
+
+
+
+

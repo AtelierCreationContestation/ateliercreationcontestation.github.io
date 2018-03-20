@@ -8,7 +8,7 @@ title: Les ateliers
 Voici la liste des ateliers proposés pour le moment, avec différents états d'avancée.
 
 Pour le moment, plusieurs ateliers volants sont proposés : 
-* **Dictionnaire du bullshit** 
+* **Dictionnaire du bullshit** ou **<a href="/dico">Bullshidex</a>** 
 * **Construction et animation du <a href="/bullshigloo">Bullshigloo</a>**
 * **Préparation de la <a href="../conf-ouverte">Conférence Ouverte</a>** (art & contestation, titre à préciser). Raphaël Bergère pilote cet atelier, vous pouvez le contacter à cette adresse : raphael.bergere@hotmail.fr
 * **Une nouvelle journée fac ouverte** en préparation, pour le moment programmée le mercredi 14 mars ; contacter fac.ouverte@laposte.net
