@@ -29,7 +29,7 @@ Soirée de la lutte au bâtiment Accueil avec buvette et scène ouverte.
 « Fac autogérée, c'est notre projet. » (Arche)
 
 <h3>10h00</h3>
-« Du travail à l’emploi, quelles articulations avec la démocratie » par Mireille Bruyè̀re (Grand Amphi)
+« Du travail à l’emploi, quelles articulations avec la démocratie » par Mireille Bruyère (Grand Amphi)
 
 <h3>10h00</h3>
 Débat « Signification et nécessité du principe de désobéissance civile » en anglais, par Axelle Paris (Lieu à définir et affiché sur le tableau devant l'Accueil)
@@ -41,8 +41,8 @@ Débat « Signification et nécessité du principe de désobéissance civil
 « Outils de communication et gestion des conflits » (Grand Amphi)
 
 <h3>14h00</h3>
-<p>Conférence sur « Art et résistance ; de l'émancipation à la contestation » Par Raphaël Bergère et quatre étudiantes (Grand Amphi)</p>
-<a href="https://www.facebook.com/events/236361703600346/">La Page Facebook de l'événement</a>
+<p>Conférence sur « Art et résistance ; de l'émancipation à la contestation » Par Raphaël Bergère et quatre étudiantes (Grand Amphi) | 
+<a href="https://www.facebook.com/events/236361703600346/">La Page Facebook de l'événement</a></p>
 
 <p>Cours « L'inhabitabilité du néolibéralisme : sujet et subjectivité » par Pascale Macary-Garipuy et Mireille Bruyère (Lieu à définir et affiché sur le tableau devant l'Accueil).</p>
 
@@ -80,29 +80,6 @@ Réunion Affichage.
 
 <h3>21h00</h3>
 Projection du documentaire <em>Vincennes, le ghetto expérimental</em> (Arche).
-
-<h2>Mardi 14 mars</h2>
-<p>L'atelier de Création-Contestation continue, lieu à préciser selon l'évolution du blocage.</p>
-
-<h2>Lundi 12 mars</h2>
-
-<h3>14h00</h3>
-
-« AG détournée » dans le grand Amphithéâtre ! > Annulée et reportée au mercredi 14 mars. 
-
-<h2>Vendredi 9 mars</h2>
-
-<h3>9h00</h3>
-
-On ne change pas une formule qui marche et on se retrouve à 9h dans le hall du bâtiment Accueil !
-
-<h3>10h00</h3>
-
-AG des personnels.
-
-<h3>14h00</h3>
-
-L'atelier conférence ouverte se précisera, toujours au QG dans le batîment Accueil + poursuite des ateliers Bullshigloo, Bullshidex...
 
 <h1>Événements passés</h1>
 
@@ -165,6 +142,29 @@ Le cours ouvert d'Anthony Masure est annulé. Ce cours &laquo;&nbsp;Économie de
 Résumé : Depuis une dizaine d'années, une certaine compréhension du développement «&nbsp;stratégique&nbsp;» a fait son chemin dans le champ universitaire. En trouvant par là un moyen de se légitimer d’un point de vue économique et industriel, une certaine partie du monde de l’enseignement et de la recherche aura ainsi adhéré à un vocable de l’ordre du management d’entreprise. Quelles sont les implications de cette nouvelle forme de capitalisme, que l’on pourrait qualifier de «&nbsp;cognitif&nbsp;» ? Comment y faire face depuis des pratiques d’art ou de design ?
 
 Le cours sera suivi de débats et discussions en lien avec les ateliers.
+
+<h2>Mardi 14 mars</h2>
+<p>L'atelier de Création-Contestation continue, lieu à préciser selon l'évolution du blocage.</p>
+
+<h2>Lundi 12 mars</h2>
+
+<h3>14h00</h3>
+
+« AG détournée » dans le grand Amphithéâtre ! > Annulée et reportée au mercredi 14 mars. 
+
+<h2>Vendredi 9 mars</h2>
+
+<h3>9h00</h3>
+
+On ne change pas une formule qui marche et on se retrouve à 9h dans le hall du bâtiment Accueil !
+
+<h3>10h00</h3>
+
+AG des personnels.
+
+<h3>14h00</h3>
+
+L'atelier conférence ouverte se précisera, toujours au QG dans le batîment Accueil + poursuite des ateliers Bullshigloo, Bullshidex...
 
  
 
