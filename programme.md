@@ -4,19 +4,82 @@ title: L'agenda
 ---
 
 Programme soumis à changements réguliers... restez connecté/e/s ! 
+L'agenda rassemble des événements liés à l'atelier de Création-Contestation, et des événements plus globalement liés à la mobilisation dans son ensemble.
 
+<h2>Jeudi 22 mars</h2>
+
+<h3>10h00</h3>
+AG Commune
+
+<h3>13h30</h3>
+Départ en manifestation depuis le campus.
+
+<h3>14h</h3>
+Journée de mobilisation nationale : Manifestation au départ de Jean Jaurès, convergence des luttes dans les différents secteurs (Supérieur, Cheminots, Hospitalier, EHPAD etc..)
+
+<h3>19h</h3>
+Soirée de la lutte au bâtiment Accueil avec buvette et scène ouverte.
 
 <h2>Mercredi 21 mars</h2>
 
-<h3>14h00-16h00</h3>
+<h3>9h00</h3>
+« Transition écologique et finances alternatives » par Julien Milanesi.
 
+<h3>9h30</h3>
+« Fac autogérée, c'est notre projet. » (Arche)
+
+<h3>10h00</h3>
+« Du travail à l’emploi, quelles articulations avec la démocratie » par Mireille Bruyè̀re (Grand Amphi)
+
+<h3>10h00</h3>
+Débat « Signification et nécessité du principe de désobéissance civile » en anglais, par Axelle Paris (Lieu à définir et affiché sur le tableau devant l'Accueil)
+
+<h3>10h30</h3>
+ « Psychanalyse, dispositif et Homo Sacer autour de «La fabrique des subjectivités contemporaines » par Laurent Combres (Lieu à définir et affiché sur le tableau devant l'Accueil)
+
+<h3>11h-12h30</h3>
+« Outils de communication et gestion des conflits » (Grand Amphi)
+
+<h3>14h00</h3>
+<p>Conférence sur « Art et résistance ; de l'émancipation à la contestation » Par Raphaël Bergère et quatre étudiantes (Grand Amphi)</p>
 <a href="https://www.facebook.com/events/236361703600346/">La Page Facebook de l'événement</a>
 
+<p>Cours « L'inhabitabilité du néolibéralisme : sujet et subjectivité » par Pascale Macary-Garipuy et Mireille Bruyère (Lieu à définir et affiché sur le tableau devant l'Accueil).</p>
+
+<h3>16h00</h3>
+<p>Atelier création d'affiches sur la mobilisation (Arche)</p>
+
+<p>CoMob (Grand Amphi)</p>
+
+<h3>21h00</h3>
+Projection du documentaire <em>La bataille des Marolles</em> (Arche)
+
 <h2>Mercredi 14 mars</h2>
+
+<h3>10h00</h3>
+Cours libre sur le <a href="http://xroads.virginia.edu/~HYPER2/thoreau/civil.html">texte fondateur</a> de Henry David Thoreau sur la désobéissance civile.
 
 <h3>12h00-14h00</h3>
 
 <p><a href="../conf-ouverte">Conférence Ouverte</a> : Arts de résistance : de l’émancipation à la contestation.</p>
+
+<h2>Mardi 20 mars</h2>
+<h3>14h00</h3>
+<em>Conférence / Débat</em>
+« Mai 68, des Universités aux usines, du rêve à la grève générale. » par le NPA Jeune (Grand Amphi)
+
+<em>À l'Arche</em> : atelier banderoles.
+
+<em>Conférence</em> : « Le matérialisme à l'épreuve de l'idéologie : entre science et politique » par Adrien Berafta (Grand Amphi).
+
+<h3>16h30</h3>
+Visite et découverte de l'Arche.
+
+<h3>17h30</h3>
+Réunion Affichage.
+
+<h3>21h00</h3>
+Projection du documentaire <em>Vincennes, le ghetto expérimental</em> (Arche).
 
 <h2>Mardi 14 mars</h2>
 <p>L'atelier de Création-Contestation continue, lieu à préciser selon l'évolution du blocage.</p>
