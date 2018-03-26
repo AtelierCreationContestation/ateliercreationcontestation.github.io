@@ -5,6 +5,10 @@ title: Les sources
 
 Ces sources ont vocation à clarifier le projet de fusion/idex et engager la discussion.
 
+* <a href="http://www.liberation.fr/france/2018/03/21/a-l-universite-du-mirail-a-toulouse-mai-68-ils-commemorent-on-recommence_1637868">Couverture des derniers événements par Libération</a>
+
+* Les Inrocks sur <a href="https://www.lesinrocks.com/2018/03/21/actualite/suite-la-dissolution-de-la-fac-du-mirail-toulouse-une-manifestation-sauvage-secoue-le-quartier-latin-111061327/">la manifestation sauvage dans le quartier Latin</a>
+
 * Le <a href="http://www.atterres.org/article/en-marche-vers-la-destruction-de-luniversit%C3%A9">texte sur la destruction de l'université française</a> par les Économistes Atterrés
 
 * <a href="http://uniti2018.univ-toulouse.fr/">le site Uniti 2018</a>

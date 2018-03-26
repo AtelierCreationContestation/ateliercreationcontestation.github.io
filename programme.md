@@ -6,6 +6,18 @@ title: L'agenda
 Programme soumis à changements réguliers... restez connecté/e/s ! 
 L'agenda rassemble des événements liés à l'atelier de Création-Contestation, et des événements plus globalement liés à la mobilisation dans son ensemble.
 
+<h2>Mercredi 28 mars</h2>
+<h3>10h00</h3>
+AG des personnels.
+
+<h3>12h30-14h</h3>
+Institution et destitution du pouvoir
+« Le temps et l'acte en politique », par Bernard Victoria et Lucie Rodrigues (Grand Amphi).
+
+<h3>14h-16h</h3>
+« Théorie Queer », Quentin Dubois, Ricardo Robles, Val Grandgirard.
+« L'inhabitabilité du néo-libéralisme », par Mireille Bruyère et Pascale Macary-Gary Puy.
+
 <h2>Jeudi 22 mars</h2>
 
 <h3>10h00</h3>

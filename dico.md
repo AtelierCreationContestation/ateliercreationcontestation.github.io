@@ -9,6 +9,8 @@ title: Bullshidex
 
 <p>À télécharger : <a href="/doc/BULLSHIDEX-NOTICES-A4.pdf">le PDF du Bullshidex</a> pour tracter dans vos facs !</p>
 
+<p>Une <a href="/affiches/affiches.html">page d'affiches mème</a> pour investir les murs !</p>
+
 <p class="more"><a href="#">En savoir plus</a></p>
 
 <div class="details" style="display:none">
