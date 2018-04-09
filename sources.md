@@ -35,6 +35,12 @@ Ces sources ont vocation à clarifier le projet de fusion/idex et engager la dis
 
 * Appel pour une école démocratique : <a href="http://www.skolo.org/2001/06/12/les-trois-axes-de-la-marchandisation-scolaire/">les trois axes de la marchandisation scolaire</a>
 
+* <a href="http://cache.media.eduscol.education.fr/file/plan_Etudiants/03/7/Fiches_Avenir_mode_emploi-VD_880037.pdf">Le projet Parcoursup</a>
+
+* Le <a href="https://www.franceinter.fr/emissions/la-chronique-d-hippolyte-girardot/la-chronique-d-hippolyte-girardot-30-mars-2018">rap de Parcours Sup d'Hippolyte Girardot</a>
+
+* Les <a href="https://www.ladepeche.fr/article/2018/04/05/2774159-etudiant-e-universite-jean-jaures-mirail-depeche-midi.html#xtor=EPR-1">étudiant/e/s à la Dépêche du Midi</a>.
+
 
 
 

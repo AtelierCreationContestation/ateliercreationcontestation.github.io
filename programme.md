@@ -6,6 +6,13 @@ title: L'agenda
 Programme soumis à changements réguliers... restez connecté/e/s ! 
 L'agenda rassemble des événements liés à l'atelier de Création-Contestation, et des événements plus globalement liés à la mobilisation dans son ensemble.
 
+AG du vendredi 6 avril : 
+
+temps forts à venir :
+* **10 avril** : Meeting de Lutte au Mirail 
+* **14 avril** : Mobilisation nationale
+* **5 mai** : grande manifestation à Paris 
+
 <h2>Mercredi 28 mars</h2>
 <h3>10h00</h3>
 AG des personnels.
