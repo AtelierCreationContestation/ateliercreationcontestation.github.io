@@ -41,6 +41,10 @@ Ces sources ont vocation à clarifier le projet de fusion/idex et engager la dis
 
 * Les <a href="https://www.ladepeche.fr/article/2018/04/05/2774159-etudiant-e-universite-jean-jaures-mirail-depeche-midi.html#xtor=EPR-1">étudiant/e/s à la Dépêche du Midi</a>.
 
+* <a href="http://janinebd.fr/parcoursup/">Bande dessinée sur PARCOURSUP</a>.
+
+* Réinventer des <a href="https://pds.hypotheses.org/">prises critiques face aux réformes dans l'ESR</a>.
+
 
 
 

@@ -6,12 +6,30 @@ title: L'agenda
 Programme soumis à changements réguliers... restez connecté/e/s ! 
 L'agenda rassemble des événements liés à l'atelier de Création-Contestation, et des événements plus globalement liés à la mobilisation dans son ensemble.
 
-AG du vendredi 6 avril : 
+
 
 temps forts à venir :
-* **10 avril** : Meeting de Lutte au Mirail 
 * **14 avril** : Mobilisation nationale
 * **5 mai** : grande manifestation à Paris 
+
+<h2>Mercredi 11 avril</h2>
+Diffusion du documentaire <a href="https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj5iLeIyrbaAhUQGhQKHapbBdkQtwIIKTAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEeNX0EDbFWU&usg=AOvVaw0okGNjFjOClnYV-P4K-lX8">Vincennes, l'université perdue + discussion</a>.
+
+<h3>14h</h3>
+Cours sur la théorie Queer (grand amphi).
+
+
+<h2>Mardi 10 avril</h2>
+<h3>10h30</h3>
+AG commune.
++ Meeting de Lutte au Mirail ! 
+
+<h2>Vendredi 6 avril</h2>
+AG du vendredi 6 avril : blocage revoté jusqu'à mardi 10 avril.
+
+<h2>Lundi 9 avril</h2>
+<h3>10h-11h</h3>
+Projection vidéo, débat sur la loi ORE animé par Nathalie Chauvac.
 
 <h2>Mercredi 28 mars</h2>
 <h3>10h00</h3>
