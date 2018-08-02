@@ -24,4 +24,4 @@ Le lexique a été établi et rédigé en ligne de façon collaborative. Cette p
 Les contenus et codes source de cette page sont placés sous licence libre CC BY-SA ; les auteur/e/s de ce document encouragent ainsi leur réutilisation et distribution. 
 
 <h2>Auteur/e/s</h2>
-<strong>Liste non exhaustive</strong> : Jonathan Brouillon-Chevalier (étudiant en L2 Design), Charlotte Dourrieu (étudiante en L2 Design), Anthony Masure (maître de conférences en design), Anna Pavie (étudiante en L2 Design), Pia Pandelakis (maître de conférences en design), Sabÿn Soulard (PRAG en arts plastiques). Cette page Web a été entièrement réalisée les 7 & 8 mars 2018.
+<strong>Liste non exhaustive</strong> : Lisa Basso, (L2 Design), Jonathan Brouillon-Chevalier (étudiant en L2 Design), Charlotte Dourrieu (étudiante en L2 Design), Anthony Masure (maître de conférences en design), Anna Pavie (étudiante en L2 Design), Pia Pandelakis (maître de conférences en design), Sabÿn Soulard (PRAG en arts plastiques). Cette page Web a été entièrement réalisée les 7 & 8 mars 2018.
