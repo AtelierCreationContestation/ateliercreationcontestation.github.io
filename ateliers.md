@@ -5,7 +5,7 @@ title: Les ateliers
 
 <h2>Ateliers Saison 2</h2>
 
-Les ateliers existent aujourd'hui sous la forme d'un rendu hebdomadaire prenant place les mardis en bâtiment Olympe de Gouges de 17h à 19h à l'Université du Mirail.
+<p>Les ateliers existent aujourd'hui sous la forme d'un rendu hebdomadaire prenant place les mardis en bâtiment Olympe de Gouges de 17h à 19h à l'Université du Mirail.</p>
 <small>Pour plus d'informations : semainespeciale[at]protonmail.com</small>
 
 <h2>Ateliers Saison 1</h2>
