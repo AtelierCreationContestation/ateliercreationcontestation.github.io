@@ -4,13 +4,27 @@ title: L'agenda
 ---
 
 Programme soumis à changements réguliers... restez connecté/e/s ! 
-L'agenda rassemble des événements liés à l'atelier de Création-Contestation, et des événements plus globalement liés à la mobilisation dans son ensemble.
+L'agenda rassemble des événements liés à l'atelier de Création-Contestation, et des événements plus globalement liés à l'actualité militante.
+
+<h1>À venir</h1>
+<h2>Samedi 22 décembre</h2>
+13h : Gilets jaunes, acte VI &laquo;&nbsp;Le Sacrifice&nbsp;&raquo;.
+
+<h1>Archive des événements passés</h1>
+<h2>Mardi 18 décembre</h2>
+AG 12h30, grand amphi, bâtiment Accueil.
+
+Séance 2  de l’atelier Création-Contestation 17h-19h, Bâtiment Olympe de Gouges.
 
 
+<h2>17 novembre 2018</h2>
+Première mobilisation des gilets jaunes.
 
-temps forts à venir :
-* **14 avril** : Mobilisation nationale
-* **5 mai** : grande manifestation à Paris 
+<h2>14 avril 2018</h2>
+Mobilisation nationale.
+
+<h2>5 mai 2018</h2> 
+Grande manifestation à Paris. 
 
 <h2>Mercredi 11 avril</h2>
 Diffusion du documentaire <a href="https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj5iLeIyrbaAhUQGhQKHapbBdkQtwIIKTAA&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEeNX0EDbFWU&usg=AOvVaw0okGNjFjOClnYV-P4K-lX8">Vincennes, l'université perdue + discussion</a>.
@@ -19,19 +33,19 @@ Diffusion du documentaire <a href="https://www.google.fr/url?sa=t&rct=j&q=&esrc=
 Cours sur la théorie Queer (grand amphi).
 
 
-<h2>Mardi 10 avril</h2>
+<h2>Mardi 10 avril 2018</h2>
 <h3>10h30</h3>
 AG commune.
 + Meeting de Lutte au Mirail ! 
 
-<h2>Vendredi 6 avril</h2>
+<h2>Vendredi 6 avril 2018</h2>
 AG du vendredi 6 avril : blocage revoté jusqu'à mardi 10 avril.
 
-<h2>Lundi 9 avril</h2>
+<h2>Lundi 9 avril 2018</h2>
 <h3>10h-11h</h3>
 Projection vidéo, débat sur la loi ORE animé par Nathalie Chauvac.
 
-<h2>Mercredi 28 mars</h2>
+<h2>Mercredi 28 mars 2018</h2>
 <h3>10h00</h3>
 AG des personnels.
 
@@ -43,7 +57,7 @@ Institution et destitution du pouvoir
 « Théorie Queer », Quentin Dubois, Ricardo Robles, Val Grandgirard.
 « L'inhabitabilité du néo-libéralisme », par Mireille Bruyère et Pascale Macary-Gary Puy.
 
-<h2>Jeudi 22 mars</h2>
+<h2>Jeudi 22 mars 2018</h2>
 
 <h3>10h00</h3>
 AG Commune
@@ -57,7 +71,7 @@ Journée de mobilisation nationale : Manifestation au départ de Jean Jaurès
 <h3>19h</h3>
 Soirée de la lutte au bâtiment Accueil avec buvette et scène ouverte.
 
-<h2>Mercredi 21 mars</h2>
+<h2>Mercredi 21 mars 2018</h2>
 
 <h3>9h00</h3>
 « Transition écologique et finances alternatives » par Julien Milanesi.
@@ -91,7 +105,7 @@ Débat « Signification et nécessité du principe de désobéissance civil
 <h3>21h00</h3>
 Projection du documentaire <em>La bataille des Marolles</em> (Arche)
 
-<h2>Mercredi 14 mars</h2>
+<h2>Mercredi 14 mars 2018</h2>
 
 <h3>10h00</h3>
 Cours libre sur le <a href="http://xroads.virginia.edu/~HYPER2/thoreau/civil.html">texte fondateur</a> de Henry David Thoreau sur la désobéissance civile.
@@ -100,7 +114,7 @@ Cours libre sur le <a href="http://xroads.virginia.edu/~HYPER2/thoreau/civil.htm
 
 <p><a href="../conf-ouverte">Conférence Ouverte</a> : Arts de résistance : de l’émancipation à la contestation.</p>
 
-<h2>Mardi 20 mars</h2>
+<h2>Mardi 20 mars 2018</h2>
 <h3>14h00</h3>
 <em>Conférence / Débat</em>
 « Mai 68, des Universités aux usines, du rêve à la grève générale. » par le NPA Jeune (Grand Amphi)
@@ -118,9 +132,8 @@ Réunion Affichage.
 <h3>21h00</h3>
 Projection du documentaire <em>Vincennes, le ghetto expérimental</em> (Arche).
 
-<h1>Événements passés</h1>
 
-<h2>Mardi 6 mars</h2> 
+<h2>Mardi 6 mars 2018</h2> 
 Le cours ouvert du matin rassemblera les étudiants normalement présents le mardi matin (cours de Raphaël Bergère, Pia Pandelakis, Emma Attias, Nelly Campistron et Emma Viguier) et tous les étudiants souhaitant assister à ce cours ouvert comme à la discussion et à la mise en production qui en découleront. 
 
 <h3>8h15-09h15 : </h3>
@@ -151,7 +164,7 @@ Assemblée Générale commune étudiants-personnels dans le Bâtiment Accueil.
 On se retrouve comme mercredi matin à 9h dans le hall du bâtiment accueil pour reprendre les ateliers.
 Edit à 10h : malgré les différences incertitudes, nous avons bien réinvesti notre atelier dans le bâtiment Accueil. La cabane est également en cours de fabrication !
 
-JOURNÉE DES DROITS DE LA FEMME (et des afab en général, d'ailleurs !)
+JOURNÉE DES DROITS DE LA FEMME (et des afab ;) )
 Rendez-vous à la manifestation (confirmée) qui se déroulera à 12h à Arnaud Bernard.
 
 Le programme de l'après-midi n'est pas encore déterminé mais nous tâcherons de poursuivre l'atelier ! Lieu à confirmer.
@@ -201,7 +214,7 @@ AG des personnels.
 
 <h3>14h00</h3>
 
-L'atelier conférence ouverte se précisera, toujours au QG dans le batîment Accueil + poursuite des ateliers Bullshigloo, Bullshidex...
+L'atelier conférence ouverte se précisera, toujours au QG dans le bâtiment Accueil + poursuite des ateliers Bullshigloo, Bullshidex...
 
  
 
