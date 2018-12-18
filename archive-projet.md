@@ -3,6 +3,10 @@ layout: page
 title: Le projet initial de l'atelier
 ---
 
+Nous republions ici le message initialement publié en mars 2018 pour rassembler étudiant/e/s et enseignant/e/s autour des questions de l'Idex et de Parcoursup.
+
+---
+
 Étant donnés : 
 * la situation de **blocage**, intermittente, qui est celle de notre université Toulouse Le Mirail dite Jean Jaurès ; 
 * les multiples conversations à l’endroit des **dossiers de l’iDex, de la fusion, et de la loi ORE** et le rejet fréquent (mais pas systématique) que provoquent ceux-ci ; 

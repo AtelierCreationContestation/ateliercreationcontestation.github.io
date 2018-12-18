@@ -34,7 +34,7 @@ title: Bullshidex
         <p>Composé en <a href="https://velvetyne.fr/fonts/trickster/">Trickster</a> (Jean-Baptiste Morizot) &amp; <a href="https://velvetyne.fr/fonts/sporting-grotesque">Sporting Grotesque</a> (Lucas Le Bihan), Velvetyne Type Foundry, SIL Open Font License</p>
 
 <h4>Auteur/e/s</h4>
-        <p>Liste non exhaustive : Jonathan Brouillon-Chevalier (étudiant en L2 Design), Charlotte Dourrieu (étudiante en L2 Design), <a href="http://www.anthonymasure.com/">Anthony Masure</a> (maître de conférences en design), Anna Pavie (étudiante en L2 Design), <a href="http://piapandelakis.com/">Pia Pandelakis</a> (maître de conférences en design), Rhinocéros Anonyme, Sabÿn Soulard (PRAG en arts plastiques). Cette page Web a été entièrement réalisée les 7 &amp; 8 mars 2018.</p>
+        <p>Liste non exhaustive : Lisa Basso (étudiante en L2 Design), Jonathan Brouillon-Chevalier (étudiant en L2 Design), Charlotte Dourrieu (étudiante en L2 Design), <a href="http://www.anthonymasure.com/">Anthony Masure</a> (maître de conférences en design), Anna Pavie (étudiante en L2 Design), <a href="http://piapandelakis.com/">Pia Pandelakis</a> (maître de conférences en design), Rhinocéros Anonyme, Sabÿn Soulard (PRAG en arts plastiques). Cette page Web a été entièrement réalisée les 7 &amp; 8 mars 2018.</p>
 
   </div> <!-- .details -->
 
