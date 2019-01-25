@@ -7,10 +7,12 @@ Programme soumis à changements réguliers... restez connecté/e/s !
 L'agenda rassemble des événements liés à l'atelier de Création-Contestation, et des événements plus globalement liés à l'actualité militante.
 
 <h1>À venir</h1>
+Prochain atelier le mardi 29 janvier à l'université du Mirail (17-19h).
+
+<h1>Archive des événements passés</h1>
 <h2>Samedi 22 décembre</h2>
 13h : Gilets jaunes, acte VI &laquo;&nbsp;Le Sacrifice&nbsp;&raquo;.
 
-<h1>Archive des événements passés</h1>
 <h2>Mardi 18 décembre</h2>
 AG 12h30, grand amphi, bâtiment Accueil.
 
