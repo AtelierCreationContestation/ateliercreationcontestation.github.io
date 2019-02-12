@@ -21,4 +21,4 @@ Les membres de l’atelier ont aussi organisé plusieurs **conférences** « Art
 
 Après une pause de plusieurs mois, l’atelier est relancé en novembre 2018 dans le contexte du mouvement des **gilets jaunes**. 
 
-<small>Retrouvez ici <a href="../affiches/archive-projet">l'intention du projet écrite en mars 2018</a>.</small>
+<small>Retrouvez ici <a href="archive-projet">l'intention du projet écrite en mars 2018</a>.</small>
