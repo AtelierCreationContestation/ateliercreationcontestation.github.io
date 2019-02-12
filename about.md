@@ -3,7 +3,7 @@ layout: page
 title: intentions
 ---
 
-L’Atelier de Création-Contestation est un atelier de **production**, de **discussions** et d’**actions** collectives lancé dans département Arts Plastiques - Design de l’Université du Mirail (Toulouse – Jean Jaurès).
+L’Atelier de Création-Contestation est un atelier de **production**, de **discussions** et d’**actions** collectives lancé dans le département Arts Plastiques - Design de l’Université du Mirail (Toulouse – Jean Jaurès).
 
 Il aspire : 
 * à investir des questions actuelles, sociales et politiques, sous un prisme créatif ;
