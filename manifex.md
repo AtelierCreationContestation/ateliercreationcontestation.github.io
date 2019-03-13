@@ -42,6 +42,6 @@ Sur ce, j'vais m'coucher !
 ### Proposition : 
 Il nous faut encore inventer tout un **art de l'emploi du temps**. L'ambiance générale, entre applis de productivité et *bullet journals* saturés ne prise guère les «&nbsp;temps morts&nbsp;». Que serait un emploi du temps de journée, de semaine, de semestre qui ménage des zones à investir, des quartiers libres, des pauses, des moments de tampon ? Que ferions-nous d'un temps où nous savons que l'autre (étudiant-e, BIATSS, enseignant-e, chercheu-r-se) est elle/lui aussi disponible ? Que gagnerait-on à se rendre ainsi à l'espace d'un arrêt, ensemble, plutôt que de saturer nos boîtes mails en quête d'un rendez-vous qui sera expédié, devant faire place à un autre ?
 
-(la suite et fin du Manifex paraîtra en même temps que le second numéro de la Gazette du Bullshit !)
+(la suite et fin du Manifex paraîtra en même temps que le second numéro de la Gazette du Bullshit !). La gazette est téléchargeable <a href="/doc/GAZETTE_numero-01.pdf">en format imprimable (A3)</a> et en <a href="/doc/GAZETTE_numero-01-screen.pdf">version écran</a>.
 
 
