@@ -13,7 +13,7 @@ Il aspire :
 
 <h3>L’Atelier de Création-Contestation est un atelier mutant.</h3>
 
-Né en **mars 2018**, d’une association d’enseignan.te.s et d’étudiant.e.s mobilisé.e.s dans le mouvement de grève à l’Université du Mirail, il s’est installé dans des **QG temporaires**, a rejoint la rue, a aussi été rejoint, quitté, visité.
+Né en **mars 2018**, d’une association d’enseignant.e.s et d’étudiant.e.s mobilisé.e.s dans le mouvement de grève à l’Université du Mirail, il s’est installé dans des **QG temporaires**, a rejoint la rue, a aussi été rejoint, quitté, visité.
 
 Dans ce cadre a été créé le <a href="../dico/">**Bullshidex**</a>, un dictionnaire visant à déconstruire la novlangue managériale appliquée aux champs de l’enseignement et de la recherche. Ce projet existe en ligne avec sa <a href="../affiches/affiches.html">page annexe d’**affiches-mèmes**</a>, mais aussi dans des versions « dépliant-poster » à diffuser, tracter, collectionner. À la même période, une cabane surnommée <a href="../affiches/bullshigloo">**Bullshigloo**</a> a été construite sur les pelouses du campus pour accueillir l’exposition éphémère du Bullshidex.
 
