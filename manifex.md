@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Le Manifex
+title: Le Manifex...
 ---
 
 
-# de celleux qui n’y arrivent pas
+# ...de celleux qui n’y arrivent pas
 
 ### **Expérimentons.**
 
