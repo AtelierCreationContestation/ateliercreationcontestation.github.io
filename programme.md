@@ -7,9 +7,13 @@ Programme soumis à changements réguliers... restez connecté/e/s !
 L'agenda rassemble des événements liés à l'atelier de Création-Contestation, et des événements plus globalement liés à l'actualité militante.
 
 <h1>À venir</h1>
-Prochain atelier le mardi 29 janvier à l'université du Mirail (17-19h).
+Assemblée générale personnels-étudiant/e/s pour discuter du mouvement "Grand Hiver", de la mobilisation contre la réforme des retraites et du contexte de grève le lundi 20 janvier, 14h, amphi ODG1.
+
 
 <h1>Archive des événements passés</h1>
+<h2>2019</h2>
+Prochain atelier le mardi 29 janvier à l'université du Mirail (17-19h).
+
 <h2>Samedi 22 décembre</h2>
 13h : Gilets jaunes, acte VI &laquo;&nbsp;Le Sacrifice&nbsp;&raquo;.
 
