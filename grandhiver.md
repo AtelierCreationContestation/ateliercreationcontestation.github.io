@@ -13,5 +13,5 @@ Deux textes ont été écrits :
 
 Un kit d'affichage est disponible pour vous joindre à nous : 
 - <a href="/../doc/GRAND-HIVER_annonce.pdf">le communiqué</a> mis en page
-- <a href="/../doc/GRAND-HIVER_annonce.pdf">un poster "Le Grand Hiver est là"</a>
+- <a href="/../doc/GRAND-HIVER_poster.pdf">un poster "Le Grand Hiver est là"</a>
 - <a href="/../doc/GRAND-HIVER_flocons.pdf">des flocons</a> à afficher !
