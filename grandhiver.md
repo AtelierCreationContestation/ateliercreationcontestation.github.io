@@ -4,7 +4,7 @@ title: Le Grand Hiver
 ---
 
 
-# est un mouvement lancé en 2019 dans le département Arts Plastiques - Design.
+est un mouvement lancé en 2019 dans le département Arts Plastiques - Design de l'Université Toulouse - Jean Jaurès.
 Lancé par les personnels, ce mouvement émerge suite au "gel" d'un poste de PR (Professeur des Universités). 
 
 Deux textes ont été écrits : 
