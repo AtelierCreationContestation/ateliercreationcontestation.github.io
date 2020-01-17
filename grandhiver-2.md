@@ -5,8 +5,7 @@ title: Le Grand Hiver est là
 
 <a href="/grandhiver">Revenir à la page principale du Grand Hiver</a>.
 
-# Face au gel : le Grand Hiver 
-
+(texte publié le vendredi 17 janvier 2020)
 
 Durant l’année qui vient de s’écouler, le Département Arts plastiques - Design a été fortement touché par une déperdition générale de ses ressources enseignantes. Deux PRAG en Arts Plastiques ont été révoqués de l’Enseignement supérieur ; l’équipe Design a perdu un MCF, et cela représente donc la mise en réserve de trois postes, équivalant à 960 heures d’enseignement, qu’il a fallu pourvoir entre mi-juillet et septembre 2019. Pour ce faire, des solutions non pérennes ont été mises en œuvre (un poste d’ATER et deux contrats décret 92 pour une durée d’un an). Les responsables de diplômes du Département ont, en outre, sollicité le vivier régional des vacataires remplissant les conditions d’emploi. 
 	Notre Département, dont les forces sont donc en diminution, se voit à présent refuser le maintien d’un poste de rang A (départ en retraite d’un PR Arts Plastiques), pourtant validé par les conseils de Département et d’UFR. Le gel de ce poste est une atteinte supplémentaire à nos conditions d’enseignement et de gestion de formations, inacceptable car elle met en péril l’avenir du Département Arts Plastiques – Design. Cette décision est le coup de trop.

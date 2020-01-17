@@ -5,6 +5,8 @@ title: Face au gel, le Grand Hiver
 
 <a href="/grandhiver">Revenir à la page principale du Grand Hiver</a>.
 
+(texte publié le vendredi 20 décembre 2020)
+
 Dans le cadre du contexte social national, face à la loi de modification de la fonction publique (adoptée l’été 2019, dont les décrets continuent de tomber), face au projet de réforme des retraites qui soulève la majorité des salariées du public comme du privé, appelant à des grèves reconductibles dans tous les secteurs d’activité, face au projet de loi de programmation pluriannuelle de la recherche (LPPR) qui annonce le pire pour l’université publique française (destruction des statuts d’enseignants-chercheurs — statut garantissant la liberté fondamentale de formation et de recherche —, précarisation des personnels, capitalisation de la recherche, etc.), le département Arts Plastiques-Design (AP-D) de l’UT2J, se voit encore annoncer une diminution de ses personnels titulaires. 
 
 Le préavis de grève annoncé le vendredi 21 décembre  2019, et déposé le 10 janvier,  a permis à une délégation de l’assemblée générale du département une rencontre avec le Vice-Président du Conseil d’Administration le lundi 12 janvier. À l’issue de cette rencontre, il nous a été assuré la reconduction des 2 postes contractuels (décret 92) en remplacement des 2 postes de PRAG en arts plastiques actuellement en réserve, la reconduction d’un poste d’ATER en design en soutien à la mise en disposition d’un poste de Maître de conférences en design. Par contre, il nous a été confirmé le gel — sa “mise en réserve” ou sa suppression — d’un poste statutaire de Professeur des universités dès la rentrée prochaine. 
