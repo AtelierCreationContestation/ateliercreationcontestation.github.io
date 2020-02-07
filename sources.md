@@ -7,7 +7,7 @@ Nous avons ici rassemblé un ensemble de sources pour éclairer les différents 
 
 <h5>Mouvement 2019-2020 contre la loi pluriannelle de la recherche (LPPR)</h5>
 * <a href="http://www.groupejeanpierrevernant.info/#Desenfumage">Analyse de la prochaine réforme par le Groupe Jean-Pierre Vernant</a>
-* Pour chanter contre la LPPR, La Marche à Macronille ! Vous trouverez ici <a href="doc/Marche-Macronille-unisson.pdf">les partitions pour le chant à l'unissson</a>, et ici <a href="doc/Marche-Macronille-3-voix.pdf">une version en 3 voix</a>.
+* Pour chanter contre la LPPR, La Marche à Macronille ! Vous trouverez ici <a href="/../doc/Marche-Macronille-unisson.pdf">les partitions pour le chant à l'unissson</a>, et ici <a href="/../doc/Marche-Macronille-3-voix.pdf">une version en 3 voix</a>.
 
 <h5>Mouvement 2019-2020 contre la réforme des retraites</h5>
 * <a href="https://artengreveoccitanie.art/">Page d'Art en Grève Occitanie</a>
