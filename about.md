@@ -14,7 +14,8 @@ Il aspire :
 <h3>L’Atelier de Création-Contestation est un atelier mutant.</h3>
 
 Né en **mars 2018**, d’une association d’enseignant.e.s et d’étudiant.e.s mobilisé.e.s dans le mouvement de grève à l’Université du Mirail, il s’est installé dans des **QG temporaires**, a rejoint la rue, a aussi été rejoint, quitté, visité.
-Après une pause de plusieurs mois, l’atelier est relancé en novembre 2018 dans le contexte du mouvement des **gilets jaunes**, puis en 2019-2020 face à la réforme des retraites, l'annonce de la <a href="http://www.groupejeanpierrevernant.info/">loi pluriannuelle sur la recherche (LPPR)</a> et le contexte local d'un <a href="/grandhiver">Grand Hiver</a> dans le département Arts Plastiques - Design. 
+
+Après une pause de plusieurs mois, l’atelier est relancé en novembre 2018 dans le contexte du mouvement des **gilets jaunes**, puis en 2019-2020 face à la réforme des retraites, l'annonce de la <a href="http://www.groupejeanpierrevernant.info/#Desenfumage">loi pluriannuelle sur la recherche (LPPR)</a> et le contexte local d'un <a href="/grandhiver">Grand Hiver</a> dans le département Arts Plastiques - Design. 
 
 Dans le cadre de la mobilisation de 2018 a été créé le <a href="../dico/">**Bullshidex**</a>, un dictionnaire visant à déconstruire la novlangue managériale appliquée aux champs de l’enseignement et de la recherche. Ce projet existe en ligne avec sa <a href="../affiches/affiches.html">page annexe d’**affiches-mèmes**</a>, mais aussi dans des versions « dépliant-poster » à diffuser, tracter, collectionner. À la même période, une cabane surnommée <a href="../affiches/bullshigloo">**Bullshigloo**</a> a été construite sur les pelouses du campus pour accueillir l’exposition éphémère du Bullshidex.
 

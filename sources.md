@@ -5,6 +5,13 @@ title: Les sources
 
 Nous avons ici rassemblé un ensemble de sources pour éclairer les différents travaux de l'atelier, et les pistes de réflexion en cours.
 
+<h5>Mouvement 2019-2020 contre la loi pluriannelle de la recherche (LPPR)</h5>
+* <a href="http://www.groupejeanpierrevernant.info/#Desenfumage">Analyse de la prochaine réforme par le Groupe Jean-Pierre Vernant</a>
+* Pour chanter contre la LPPR, La Marche à Macronille ! Vous trouverez ici <a href="doc/Marche-Macronille-unisson.pdf">les partitions pour le chant à l'unissson</a>, et ici <a href="doc/Marche-Macronille-3-voix.pdf">une version en 3 voix</a>.
+
+<h5>Mouvement 2019-2020 contre la réforme des retraites</h5>
+* <a href="https://artengreveoccitanie.art/">Page d'Art en Grève Occitanie</a>
+
 <h5>Au sujet des gilets jaunes</h5>
 * Olivier Ertzscheid, <a href="https://www.affordance.info/mon_weblog/2018/12/algorithme-marque-jaune.html">L’Algorithme de la Marque jaune</a>, <a href="https://www.affordance.info/mon_weblog/2018/12/les-gilets-jaunes-vont-ils-voter.html">Après avoir liké, les gilets jaunes vont-ils voter ?</a> et  <a href="https://www.affordance.info/mon_weblog/2018/11/gilets-jaunes-internet-familles-modestes-facebook.html">#Giletsjaunes : De l’algorithme des pauvres gens à l’Internet des familles modestes</a>.
 
