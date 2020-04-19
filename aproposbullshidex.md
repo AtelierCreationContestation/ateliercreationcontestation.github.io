@@ -5,7 +5,7 @@ title: Qu'est-ce que le Bullshidex ?
 
 <h2>Objectif</h2> 
 
-Déconstruire la novlangue managériale appliquée aux champs de l’enseignement et de la recherche. 
+Déconstruire la novlangue managériale appliquée aux champs de l’enseignement et de la recherche.          
 
 <h2>Contexte</h2>
 
